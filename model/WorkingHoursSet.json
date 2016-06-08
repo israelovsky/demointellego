@@ -1,0 +1,201 @@
+[{
+	"workingHoursID": "workingHoursID 1",
+	"mondayStartTime": "/Date(1135796697000)/",
+	"mondayEndTime": "/Date(1447355097000)/",
+	"saturdayStartTime": "/Date(1455649497000)/",
+	"saturdayEndTime": "/Date(1345485897000)/",
+	"sundayStartTime": "/Date(972410697000)/",
+	"sundayEndTime": "/Date(1277229897000)/",
+	"tuesdayStartTime": "/Date(1037041497000)/",
+	"tuesdayEndTime": "/Date(972583497000)/",
+	"wednesdayStartTime": "/Date(1413223497000)/",
+	"wednesdayEndTime": "/Date(1536170697000)/",
+	"thursdayStartTime": "/Date(1186596297000)/",
+	"thursdayEndTime": "/Date(1057255497000)/",
+	"fridayStartTime": "/Date(1281809097000)/",
+	"fridayEndTime": "/Date(1299351897000)/",
+	"__metadata": {
+		"uri": "WorkingHoursSet('workingHoursID 1')",
+		"type": "AOMobile.WorkingHours"
+	}
+}, {
+	"workingHoursID": "workingHoursID 2",
+	"mondayStartTime": "/Date(1246903497000)/",
+	"mondayEndTime": "/Date(1262545497000)/",
+	"saturdayStartTime": "/Date(1191693897000)/",
+	"saturdayEndTime": "/Date(1231355097000)/",
+	"sundayStartTime": "/Date(1115229897000)/",
+	"sundayEndTime": "/Date(1203015897000)/",
+	"tuesdayStartTime": "/Date(1399140297000)/",
+	"tuesdayEndTime": "/Date(1480100697000)/",
+	"wednesdayStartTime": "/Date(1189015497000)/",
+	"wednesdayEndTime": "/Date(1112123097000)/",
+	"thursdayStartTime": "/Date(947271897000)/",
+	"thursdayEndTime": "/Date(1300129497000)/",
+	"fridayStartTime": "/Date(1566583497000)/",
+	"fridayEndTime": "/Date(1187114697000)/",
+	"__metadata": {
+		"uri": "WorkingHoursSet('workingHoursID 2')",
+		"type": "AOMobile.WorkingHours"
+	}
+}, {
+	"workingHoursID": "workingHoursID 3",
+	"mondayStartTime": "/Date(1539799497000)/",
+	"mondayEndTime": "/Date(1211565897000)/",
+	"saturdayStartTime": "/Date(1303236297000)/",
+	"saturdayEndTime": "/Date(1219601097000)/",
+	"sundayStartTime": "/Date(1319047497000)/",
+	"sundayEndTime": "/Date(1093716297000)/",
+	"tuesdayStartTime": "/Date(1442945097000)/",
+	"tuesdayEndTime": "/Date(1204657497000)/",
+	"wednesdayStartTime": "/Date(978375897000)/",
+	"wednesdayEndTime": "/Date(1557425097000)/",
+	"thursdayStartTime": "/Date(1462471497000)/",
+	"thursdayEndTime": "/Date(1360609497000)/",
+	"fridayStartTime": "/Date(1351101897000)/",
+	"fridayEndTime": "/Date(1321643097000)/",
+	"__metadata": {
+		"uri": "WorkingHoursSet('workingHoursID 3')",
+		"type": "AOMobile.WorkingHours"
+	}
+}, {
+	"workingHoursID": "workingHoursID 4",
+	"mondayStartTime": "/Date(1247335497000)/",
+	"mondayEndTime": "/Date(1022436297000)/",
+	"saturdayStartTime": "/Date(1092506697000)/",
+	"saturdayEndTime": "/Date(1133809497000)/",
+	"sundayStartTime": "/Date(1186423497000)/",
+	"sundayEndTime": "/Date(952542297000)/",
+	"tuesdayStartTime": "/Date(1221415497000)/",
+	"tuesdayEndTime": "/Date(1347905097000)/",
+	"wednesdayStartTime": "/Date(1102878297000)/",
+	"wednesdayEndTime": "/Date(1010171097000)/",
+	"thursdayStartTime": "/Date(1414523097000)/",
+	"thursdayEndTime": "/Date(1094580297000)/",
+	"fridayStartTime": "/Date(1265483097000)/",
+	"fridayEndTime": "/Date(1221501897000)/",
+	"__metadata": {
+		"uri": "WorkingHoursSet('workingHoursID 4')",
+		"type": "AOMobile.WorkingHours"
+	}
+}, {
+	"workingHoursID": "workingHoursID 5",
+	"mondayStartTime": "/Date(1132081497000)/",
+	"mondayEndTime": "/Date(957031497000)/",
+	"saturdayStartTime": "/Date(1441217097000)/",
+	"saturdayEndTime": "/Date(1539367497000)/",
+	"sundayStartTime": "/Date(1434996297000)/",
+	"sundayEndTime": "/Date(1148753097000)/",
+	"tuesdayStartTime": "/Date(1371751497000)/",
+	"tuesdayEndTime": "/Date(1145297097000)/",
+	"wednesdayStartTime": "/Date(1411841097000)/",
+	"wednesdayEndTime": "/Date(1259348697000)/",
+	"thursdayStartTime": "/Date(1095185097000)/",
+	"thursdayEndTime": "/Date(1344621897000)/",
+	"fridayStartTime": "/Date(1098295497000)/",
+	"fridayEndTime": "/Date(1200078297000)/",
+	"__metadata": {
+		"uri": "WorkingHoursSet('workingHoursID 5')",
+		"type": "AOMobile.WorkingHours"
+	}
+}, {
+	"workingHoursID": "workingHoursID 6",
+	"mondayStartTime": "/Date(987444297000)/",
+	"mondayEndTime": "/Date(1495217097000)/",
+	"saturdayStartTime": "/Date(1565978697000)/",
+	"saturdayEndTime": "/Date(1485284697000)/",
+	"sundayStartTime": "/Date(1512327897000)/",
+	"sundayEndTime": "/Date(1441476297000)/",
+	"tuesdayStartTime": "/Date(1019757897000)/",
+	"tuesdayEndTime": "/Date(955044297000)/",
+	"wednesdayStartTime": "/Date(1177005897000)/",
+	"wednesdayEndTime": "/Date(1432231497000)/",
+	"thursdayStartTime": "/Date(1034359497000)/",
+	"thursdayEndTime": "/Date(1523556297000)/",
+	"fridayStartTime": "/Date(1393873497000)/",
+	"fridayEndTime": "/Date(1113069897000)/",
+	"__metadata": {
+		"uri": "WorkingHoursSet('workingHoursID 6')",
+		"type": "AOMobile.WorkingHours"
+	}
+}, {
+	"workingHoursID": "workingHoursID 7",
+	"mondayStartTime": "/Date(1362769497000)/",
+	"mondayEndTime": "/Date(1078167897000)/",
+	"saturdayStartTime": "/Date(1036523097000)/",
+	"saturdayEndTime": "/Date(1492365897000)/",
+	"sundayStartTime": "/Date(989431497000)/",
+	"sundayEndTime": "/Date(1265137497000)/",
+	"tuesdayStartTime": "/Date(1450724697000)/",
+	"tuesdayEndTime": "/Date(976993497000)/",
+	"wednesdayStartTime": "/Date(1538589897000)/",
+	"wednesdayEndTime": "/Date(1303754697000)/",
+	"thursdayStartTime": "/Date(1303581897000)/",
+	"thursdayEndTime": "/Date(1006628697000)/",
+	"fridayStartTime": "/Date(1088445897000)/",
+	"fridayEndTime": "/Date(1252346697000)/",
+	"__metadata": {
+		"uri": "WorkingHoursSet('workingHoursID 7')",
+		"type": "AOMobile.WorkingHours"
+	}
+}, {
+	"workingHoursID": "workingHoursID 8",
+	"mondayStartTime": "/Date(972756297000)/",
+	"mondayEndTime": "/Date(1408989897000)/",
+	"saturdayStartTime": "/Date(974401497000)/",
+	"saturdayEndTime": "/Date(1178215497000)/",
+	"sundayStartTime": "/Date(1167505497000)/",
+	"sundayEndTime": "/Date(1125684297000)/",
+	"tuesdayStartTime": "/Date(1147629897000)/",
+	"tuesdayEndTime": "/Date(1298574297000)/",
+	"wednesdayStartTime": "/Date(1122573897000)/",
+	"wednesdayEndTime": "/Date(1112468697000)/",
+	"thursdayStartTime": "/Date(1546887897000)/",
+	"thursdayEndTime": "/Date(948049497000)/",
+	"fridayStartTime": "/Date(1043867097000)/",
+	"fridayEndTime": "/Date(1032458697000)/",
+	"__metadata": {
+		"uri": "WorkingHoursSet('workingHoursID 8')",
+		"type": "AOMobile.WorkingHours"
+	}
+}, {
+	"workingHoursID": "workingHoursID 9",
+	"mondayStartTime": "/Date(990727497000)/",
+	"mondayEndTime": "/Date(1427396697000)/",
+	"saturdayStartTime": "/Date(1250359497000)/",
+	"saturdayEndTime": "/Date(1496081097000)/",
+	"sundayStartTime": "/Date(1295463897000)/",
+	"sundayEndTime": "/Date(1572289497000)/",
+	"tuesdayStartTime": "/Date(1537725897000)/",
+	"tuesdayEndTime": "/Date(1339783497000)/",
+	"wednesdayStartTime": "/Date(1016996697000)/",
+	"wednesdayEndTime": "/Date(1473789897000)/",
+	"thursdayStartTime": "/Date(1466791497000)/",
+	"thursdayEndTime": "/Date(1274810697000)/",
+	"fridayStartTime": "/Date(1014404697000)/",
+	"fridayEndTime": "/Date(960573897000)/",
+	"__metadata": {
+		"uri": "WorkingHoursSet('workingHoursID 9')",
+		"type": "AOMobile.WorkingHours"
+	}
+}, {
+	"workingHoursID": "workingHoursID 10",
+	"mondayStartTime": "/Date(1460829897000)/",
+	"mondayEndTime": "/Date(1249409097000)/",
+	"saturdayStartTime": "/Date(1158257097000)/",
+	"saturdayEndTime": "/Date(1209665097000)/",
+	"sundayStartTime": "/Date(1200510297000)/",
+	"sundayEndTime": "/Date(965239497000)/",
+	"tuesdayStartTime": "/Date(1012331097000)/",
+	"tuesdayEndTime": "/Date(1273773897000)/",
+	"wednesdayStartTime": "/Date(1531677897000)/",
+	"wednesdayEndTime": "/Date(1544555097000)/",
+	"thursdayStartTime": "/Date(1012417497000)/",
+	"thursdayEndTime": "/Date(1052244297000)/",
+	"fridayStartTime": "/Date(1323457497000)/",
+	"fridayEndTime": "/Date(1292526297000)/",
+	"__metadata": {
+		"uri": "WorkingHoursSet('workingHoursID 10')",
+		"type": "AOMobile.WorkingHours"
+	}
+}]

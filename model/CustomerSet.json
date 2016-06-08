@@ -1,0 +1,2672 @@
+[{
+	"BPIdCRM": "0060049704",
+	"leadIdCRM": "0000001232",
+	"firstName": "SAMUEL",
+	"middleName": "BOLAÑO",
+	"lastName": "ANDRADE",
+	"secondName": "",
+	"productId": "C_GRUPAL_CCR",
+	"serviceOfficeId": 4636,
+	"serviceOfficeName": "LA JOYA",
+	"registrationDate": "\/Date(1454865340000)\/",
+	"statusId": "E0006",
+	"statusReasonId": "",
+	"sourceId": "Z01",
+	"sourceName": "Promoción Directa",
+	"isIndivWBusiness": false,
+	"rfc": "",
+	"homoclave": "",
+	"fielNumber": "",
+	"curp": "",
+	"dependents": "3",
+	"jobId": "EST",
+	"email": "",
+	"giroId": "28",
+	"industryId": "2224A",
+	"economicActivityId": "6625018",
+	"timeInTheActivityId": "004",
+	"howActivityId": "3",
+	"howMuchBusinessId": "",
+	"otherSourceId": "",
+	"timeInTheBusiness": "002",
+	"shopFromWhoId": "002",
+	"monthlySalary": "5000.00",
+	"genderId": "2",
+	"birthdate": "\/Date(571276800000)\/",
+	"electorKey": "MRARES84020409H000",
+	"voterRegistration": "1235487649404",
+	"countryOfBirthId": "MX",
+	"birthPlace": "DF",
+	"nationalityId": "MX",
+	"maritalStatusId": "1",
+	"children": "5 ",
+	"schoolLevelId": "2",
+	"houseTypeId": "2",
+	"typeOfStoreId": "002",
+	"isRelatedToGentera": false,
+	"relatedName": "",
+	"isPEP": false,
+	"namePEP": "",
+	"relationshipId": "",
+	"serviceLevelId": 1,
+	"remainingDays": 0,
+	"roleId": "ZFS004",
+	"collaboratorID": "EDMARTINEZ",
+	"customerIdMD": "BD47CAA324426EB51454864622447",
+	"loanRequestIdCRM": "99",
+	"PreLoanRequestID": "00000000-0000-0000-0000-000000000000",
+	"spouse": {
+		"firstName": "firstName 1",
+		"middleName": "middleName 1",
+		"lastName": "lastName 1",
+		"secondName": "secondName 1",
+		"job": "job 1",
+		"workPhone": "workPhone 1",
+		"BPIdSpouse": "BPIdSpouse 1"
+	},
+	"groupLoanData": {
+		"roleInTheGroupId": "roleInTheGroupId 1",
+		"creditAmount": 3257.52,
+		"authorizedAmount": 2202.85,
+		"rejectionCauseId": "rejectionCauseId 1"
+	},
+	"individualLoanData": {
+		"yearsOnHouse": 6637,
+		"monthsOnHouse": 7798,
+		"yearsOnLocal": 9840,
+		"monthsOnLocal": 9934,
+		"totalIncomeAmount": 2459.75,
+		"totalOutcomeAmount": 1427.01,
+		"feeEnabledToPay": 9522.03,
+		"loanDestiny": "loanDestiny 1",
+		"isCreditGuaranteeWarrant": true,
+		"requiredAmount": 8789.76,
+		"proposedAmount": 8079.15,
+		"proposedFrequency": 8069.13,
+		"proposedFee": 6297.06,
+		"proposedPeriod": 7077.14,
+		"maxLiquidity": 517.76,
+		"paymentFrequency": "paymentFrequency 1"
+	},
+	"generalLoanData": {
+		"insuranceAmount": 6631.91,
+		"controlListsResult": true,
+		"riskLevel": "Alto",
+		"savingsAmount": 5596.37,
+		"dispersionMediumId": "dispersionMediumId 1",
+		"dispersionChannelId": "dispersionChannelId 1",
+		"semaphoreResultFilters": true
+	},
+	"PreLoanRequestID": "1846292f-7cf9-4293-af59-5fc606a05532",
+	"__metadata": {
+		"uri": "CustomerSet('BPIdCRM 1')",
+		"type": "AOMobile.Customer"
+	},
+	"PhoneSet": {
+		"__deferred": {
+			"uri": "CustomerSet('0060049704')/PhoneSet"
+		}
+	},
+	"AddressSet": {
+		"__deferred": {
+			"uri": "CustomerSet('0060049704')/AddressSet"
+		}
+	},
+	"PersonalReferenceSet": {
+		"__deferred": {
+			"uri": "CustomerSet('BPIdCRM 1')/PersonalReferenceSet"
+		}
+	},
+	"EmployerSet": {
+		"__deferred": {
+			"uri": "CustomerSet('BPIdCRM 1')/EmployerSet"
+		}
+	},
+	"ImageSet": {
+		"__deferred": {
+			"uri": "CustomerSet('0060049704')/ImageSet"
+		}
+	},
+	"InsuranceSet": {
+		"__deferred": {
+			"uri": "CustomerSet('BPIdCRM 1')/InsuranceSet"
+		}
+	}
+}, {
+	"BPIdCRM": "0060048898",
+	"leadIdCRM": "0000001141",
+	"firstName": "KARLA",
+	"middleName": "FUENTES",
+	"lastName": "CASTILLO",
+	"secondName": "",
+	"productId": "C_GRUPAL_CM",
+	"serviceOfficeId": 4636,
+	"serviceOfficeName": "LA JOYA",
+	"registrationDate": "\/Date(1454043194000)\/",
+	"statusId": "E0003",
+	"statusReasonId": "",
+	"sourceId": "Z01",
+	"sourceName": "Promoción Directa",
+	"isIndivWBusiness": false,
+	"rfc": "",
+	"homoclave": "",
+	"fielNumber": "",
+	"curp": "",
+	"dependents": "5",
+	"jobId": "COMR",
+	"email": "",
+	"giroId": "28",
+	"industryId": "2224A",
+	"economicActivityId": "6625018",
+	"timeInTheActivityId": "004",
+	"howActivityId": "11",
+	"howMuchBusinessId": "002",
+	"otherSourceId": "002",
+	"timeInTheBusiness": "003",
+	"shopFromWhoId": "003",
+	"monthlySalary": "8000.00",
+	"genderId": "1",
+	"birthdate": "\/Date(885945600000)\/",
+	"electorKey": "LRRDDG92102101H100",
+	"voterRegistration": "1245461345454",
+	"countryOfBirthId": "MX",
+	"birthPlace": "COA",
+	"nationalityId": "MX",
+	"maritalStatusId": "1",
+	"children": "0 ",
+	"schoolLevelId": "2",
+	"houseTypeId": "",
+	"typeOfStoreId": "",
+	"isRelatedToGentera": false,
+	"relatedName": "",
+	"isPEP": false,
+	"namePEP": "",
+	"relationshipId": "",
+	"serviceLevelId": 3,
+	"remainingDays": 0,
+	"roleId": "ZFS004",
+	"collaboratorID": "EDMARTINEZ",
+	"customerIdMD": "",
+	"loanRequestIdCRM": "",
+	"PreLoanRequestID": "00000000-0000-0000-0000-000000000000",
+	"spouse": {
+		"firstName": "firstName 2",
+		"middleName": "middleName 2",
+		"lastName": "lastName 2",
+		"secondName": "secondName 2",
+		"job": "job 2",
+		"workPhone": "workPhone 2",
+		"BPIdSpouse": "BPIdSpouse 2"
+	},
+	"groupLoanData": {
+		"roleInTheGroupId": "roleInTheGroupId 2",
+		"creditAmount": 2082.81,
+		"authorizedAmount": 2598.02,
+		"rejectionCauseId": "rejectionCauseId 2"
+	},
+	"individualLoanData": {
+		"yearsOnHouse": 1817,
+		"monthsOnHouse": 9777,
+		"yearsOnLocal": 9309,
+		"monthsOnLocal": 5438,
+		"totalIncomeAmount": 4896.38,
+		"totalOutcomeAmount": 707.77,
+		"feeEnabledToPay": 1225.64,
+		"loanDestiny": "loanDestiny 2",
+		"isCreditGuaranteeWarrant": false,
+		"requiredAmount": 406.71,
+		"proposedAmount": 3906.48,
+		"proposedFrequency": 2550.62,
+		"proposedFee": 6708.53,
+		"proposedPeriod": 5436.47,
+		"maxLiquidity": 162.23,
+		"paymentFrequency": "paymentFrequency 2"
+	},
+	"generalLoanData": {
+		"insuranceAmount": 5978.54,
+		"controlListsResult": true,
+		"riskLevel": 2295,
+		"savingsAmount": 5827.08,
+		"dispersionMediumId": "dispersionMediumId 2",
+		"dispersionChannelId": "dispersionChannelId 2",
+		"semaphoreResultFilters": true
+	},
+	"PreLoanRequestID": "29704d83-dae3-4dd1-8d55-2b8c7250dcf7",
+	"__metadata": {
+		"uri": "CustomerSet('BPIdCRM 2')",
+		"type": "AOMobile.Customer"
+	},
+	"PhoneSet": {
+		"__deferred": {
+			"uri": "CustomerSet('0060048898')/PhoneSet"
+		}
+	},
+	"AddressSet": {
+		"__deferred": {
+			"uri": "CustomerSet('0060048898')/AddressSet"
+		}
+	},
+	"PersonalReferenceSet": {
+		"__deferred": {
+			"uri": "CustomerSet('BPIdCRM 2')/PersonalReferenceSet"
+		}
+	},
+	"EmployerSet": {
+		"__deferred": {
+			"uri": "CustomerSet('BPIdCRM 2')/EmployerSet"
+		}
+	},
+	"ImageSet": {
+		"__deferred": {
+			"uri": "CustomerSet('0060048898')/ImageSet"
+		}
+	},
+	"InsuranceSet": {
+		"__deferred": {
+			"uri": "CustomerSet('BPIdCRM 2')/InsuranceSet"
+		}
+	}
+}, {
+	"BPIdCRM": "0060048648",
+	"leadIdCRM": "0000001088",
+	"firstName": "FERNANDO",
+	"middleName": "CHAPARRO",
+	"lastName": "DURAN",
+	"secondName": "",
+	"productId": "C_IND_CI",
+	"serviceOfficeId": 4636,
+	"serviceOfficeName": "LA JOYA",
+	"registrationDate": "\/Date(1453841073000)\/",
+	"statusId": "E0001",
+	"statusReasonId": "",
+	"sourceId": "Z01",
+	"sourceName": "Promoción Directa",
+	"isIndivWBusiness": false,
+	"rfc": "DUFE930125",
+	"homoclave": "",
+	"fielNumber": "",
+	"curp": "",
+	"dependents": "",
+	"jobId": "",
+	"email": "moreno@compartamos.com",
+	"giroId": "",
+	"industryId": "",
+	"economicActivityId": "",
+	"timeInTheActivityId": "",
+	"howActivityId": "",
+	"howMuchBusinessId": "",
+	"otherSourceId": "",
+	"timeInTheBusiness": "",
+	"shopFromWhoId": "",
+	"monthlySalary": "0.00",
+	"genderId": "1",
+	"birthdate": "\/Date(727920000000)\/",
+	"electorKey": "",
+	"voterRegistration": "",
+	"countryOfBirthId": "MX",
+	"birthPlace": "CHS",
+	"nationalityId": "MX",
+	"maritalStatusId": "",
+	"children": "0 ",
+	"schoolLevelId": "",
+	"houseTypeId": "2",
+	"typeOfStoreId": "001",
+	"isRelatedToGentera": false,
+	"relatedName": "",
+	"isPEP": false,
+	"namePEP": "",
+	"relationshipId": "",
+	"serviceLevelId": 3,
+	"remainingDays": 21,
+	"roleId": "ZFS003",
+	"collaboratorID": "EDMARTINEZ",
+	"customerIdMD": "",
+	"loanRequestIdCRM": "",
+	"PreLoanRequestID": "00000000-0000-0000-0000-000000000000",
+	"spouse": {
+		"firstName": "firstName 3",
+		"middleName": "middleName 3",
+		"lastName": "lastName 3",
+		"secondName": "secondName 3",
+		"job": "job 3",
+		"workPhone": "workPhone 3",
+		"BPIdSpouse": "BPIdSpouse 3"
+	},
+	"groupLoanData": {
+		"roleInTheGroupId": "roleInTheGroupId 3",
+		"creditAmount": 5593.15,
+		"authorizedAmount": 5734.66,
+		"rejectionCauseId": "rejectionCauseId 3"
+	},
+	"individualLoanData": {
+		"yearsOnHouse": 5621,
+		"monthsOnHouse": 4299,
+		"yearsOnLocal": 6474,
+		"monthsOnLocal": 1141,
+		"totalIncomeAmount": 4953.36,
+		"totalOutcomeAmount": 8459.05,
+		"feeEnabledToPay": 7401.15,
+		"loanDestiny": "loanDestiny 3",
+		"isCreditGuaranteeWarrant": true,
+		"requiredAmount": 1061.23,
+		"proposedAmount": 2823.29,
+		"proposedFrequency": 2248.1,
+		"proposedFee": 3612.19,
+		"proposedPeriod": 6070.24,
+		"maxLiquidity": 4876.42,
+		"paymentFrequency": "paymentFrequency 3"
+	},
+	"generalLoanData": {
+		"insuranceAmount": 3230.67,
+		"controlListsResult": false,
+		"riskLevel": 483,
+		"savingsAmount": 8120.74,
+		"dispersionMediumId": "dispersionMediumId 3",
+		"dispersionChannelId": "dispersionChannelId 3",
+		"semaphoreResultFilters": false
+	},
+	"PreLoanRequestID": "80d47bd9-5260-4cd2-9d76-47ef52322271",
+	"__metadata": {
+		"uri": "CustomerSet('BPIdCRM 3')",
+		"type": "AOMobile.Customer"
+	},
+	"PhoneSet": {
+		"__deferred": {
+			"uri": "CustomerSet('0060048648')/PhoneSet"
+		}
+	},
+	"AddressSet": {
+		"__deferred": {
+			"uri": "CustomerSet('0060048648')/AddressSet"
+		}
+	},
+	"PersonalReferenceSet": {
+		"__deferred": {
+			"uri": "CustomerSet('BPIdCRM 3')/PersonalReferenceSet"
+		}
+	},
+	"EmployerSet": {
+		"__deferred": {
+			"uri": "CustomerSet('BPIdCRM 3')/EmployerSet"
+		}
+	},
+	"ImageSet": {
+		"__deferred": {
+			"uri": "CustomerSet('BPIdCRM 3')/ImageSet"
+		}
+	},
+	"InsuranceSet": {
+		"__deferred": {
+			"uri": "CustomerSet('BPIdCRM 3')/InsuranceSet"
+		}
+	}
+}, {
+	"BPIdCRM": "0060049177",
+	"leadIdCRM": "0000001202",
+	"firstName": "ANGELICA",
+	"middleName": "GARCIA",
+	"lastName": "GOMEZ",
+	"secondName": "",
+	"productId": "C_IND_CI",
+	"serviceOfficeId": 4636,
+	"serviceOfficeName": "LA JOYA",
+	"registrationDate": "\/Date(1454609127000)\/",
+	"statusId": "E0001",
+	"statusReasonId": "",
+	"sourceId": "Z01",
+	"sourceName": "Promoción Directa",
+	"isIndivWBusiness": false,
+	"rfc": "",
+	"homoclave": "",
+	"fielNumber": "",
+	"curp": "",
+	"dependents": "",
+	"jobId": "",
+	"email": "",
+	"giroId": "",
+	"industryId": "",
+	"economicActivityId": "",
+	"timeInTheActivityId": "",
+	"howActivityId": "",
+	"howMuchBusinessId": "",
+	"otherSourceId": "",
+	"timeInTheBusiness": "",
+	"shopFromWhoId": "001",
+	"monthlySalary": "0.00",
+	"genderId": "1",
+	"birthdate": "\/Date(476323200000)\/",
+	"electorKey": "MRARES84020409H000",
+	"voterRegistration": "1234567890000",
+	"countryOfBirthId": "MX",
+	"birthPlace": "DF",
+	"nationalityId": "MX",
+	"maritalStatusId": "1",
+	"children": "5 ",
+	"schoolLevelId": "2",
+	"houseTypeId": "1",
+	"typeOfStoreId": "001",
+	"isRelatedToGentera": false,
+	"relatedName": "",
+	"isPEP": false,
+	"namePEP": "",
+	"relationshipId": "",
+	"serviceLevelId": 2,
+	"remainingDays": 0,
+	"roleId": "ZFS004",
+	"collaboratorID": "EDMARTINEZ",
+	"customerIdMD": "BD47CAA324426EB51454606552071",
+	"loanRequestIdCRM": "",
+	"PreLoanRequestID": "00000000-0000-0000-0000-000000000000",
+	"spouse": {
+		"firstName": "firstName 4",
+		"middleName": "middleName 4",
+		"lastName": "lastName 4",
+		"secondName": "secondName 4",
+		"job": "job 4",
+		"workPhone": "workPhone 4",
+		"BPIdSpouse": "BPIdSpouse 4"
+	},
+	"groupLoanData": {
+		"roleInTheGroupId": "roleInTheGroupId 4",
+		"creditAmount": 1237.59,
+		"authorizedAmount": 3931.36,
+		"rejectionCauseId": "rejectionCauseId 4"
+	},
+	"individualLoanData": {
+		"yearsOnHouse": 1218,
+		"monthsOnHouse": 3589,
+		"yearsOnLocal": 3112,
+		"monthsOnLocal": 4644,
+		"totalIncomeAmount": 3405.55,
+		"totalOutcomeAmount": 1659.33,
+		"feeEnabledToPay": 7047.18,
+		"loanDestiny": "loanDestiny 4",
+		"isCreditGuaranteeWarrant": true,
+		"requiredAmount": 3298.95,
+		"proposedAmount": 76.08,
+		"proposedFrequency": 985.18,
+		"proposedFee": 1507.77,
+		"proposedPeriod": 4479.77,
+		"maxLiquidity": 8960.31,
+		"paymentFrequency": "paymentFrequency 4"
+	},
+	"generalLoanData": {
+		"insuranceAmount": 4830.35,
+		"controlListsResult": true,
+		"riskLevel": 5712,
+		"savingsAmount": 1540.45,
+		"dispersionMediumId": "dispersionMediumId 4",
+		"dispersionChannelId": "dispersionChannelId 4",
+		"semaphoreResultFilters": true
+	},
+	"PreLoanRequestID": "eca0ea07-eee9-423a-a51b-cbd99a35b275",
+	"__metadata": {
+		"uri": "CustomerSet('BPIdCRM 4')",
+		"type": "AOMobile.Customer"
+	},
+	"PhoneSet": {
+		"__deferred": {
+			"uri": "CustomerSet('0060049177')/PhoneSet"
+		}
+	},
+	"AddressSet": {
+		"__deferred": {
+			"uri": "CustomerSet('0060049177')/AddressSet"
+		}
+	},
+	"PersonalReferenceSet": {
+		"__deferred": {
+			"uri": "CustomerSet('0060049178')/PersonalReferenceSet"
+		}
+	},
+	"EmployerSet": {
+		"__deferred": {
+			"uri": "CustomerSet('BPIdCRM 4')/EmployerSet"
+		}
+	},
+	"ImageSet": {
+		"__deferred": {
+			"uri": "CustomerSet('BPIdCRM 4')/ImageSet"
+		}
+	},
+	"InsuranceSet": {
+		"__deferred": {
+			"uri": "CustomerSet('BPIdCRM 4')/InsuranceSet"
+		}
+	}
+}, {
+	"BPIdCRM": "0060048623",
+	"leadIdCRM": "0000001079",
+	"firstName": "JAVIER",
+	"middleName": "JIMENEZ",
+	"lastName": "TAFOYA",
+	"secondName": "",
+	"productId": "C_IND_CI",
+	"serviceOfficeId": 4636,
+	"serviceOfficeName": "LA JOYA",
+	"registrationDate": "\/Date(1453830099000)\/",
+	"statusId": "E0001",
+	"statusReasonId": "",
+	"sourceId": "Z01",
+	"sourceName": "Promoción Directa",
+	"isIndivWBusiness": false,
+	"rfc": "",
+	"homoclave": "",
+	"fielNumber": "",
+	"curp": "",
+	"dependents": "",
+	"jobId": "",
+	"email": "tafoya@compartamos.com",
+	"giroId": "",
+	"industryId": "",
+	"economicActivityId": "",
+	"timeInTheActivityId": "",
+	"howActivityId": "",
+	"howMuchBusinessId": "",
+	"otherSourceId": "",
+	"timeInTheBusiness": "",
+	"shopFromWhoId": "",
+	"monthlySalary": "0.00",
+	"genderId": "",
+	"birthdate": "\/Date(-86400000)\/",
+	"electorKey": "",
+	"voterRegistration": "",
+	"countryOfBirthId": "",
+	"birthPlace": "",
+	"nationalityId": "",
+	"maritalStatusId": "",
+	"children": "0 ",
+	"schoolLevelId": "",
+	"houseTypeId": "",
+	"typeOfStoreId": "",
+	"isRelatedToGentera": false,
+	"relatedName": "",
+	"isPEP": false,
+	"namePEP": "",
+	"relationshipId": "",
+	"serviceLevelId": 3,
+	"remainingDays": 21,
+	"roleId": "ZFS003",
+	"collaboratorID": "EDMARTINEZ",
+	"customerIdMD": "",
+	"loanRequestIdCRM": "",
+	"PreLoanRequestID": "00000000-0000-0000-0000-000000000000",
+	"spouse": {
+		"firstName": "firstName 5",
+		"middleName": "middleName 5",
+		"lastName": "lastName 5",
+		"secondName": "secondName 5",
+		"job": "job 5",
+		"workPhone": "workPhone 5",
+		"BPIdSpouse": "BPIdSpouse 5"
+	},
+	"groupLoanData": {
+		"roleInTheGroupId": "roleInTheGroupId 5",
+		"creditAmount": 2823.23,
+		"authorizedAmount": 3600.06,
+		"rejectionCauseId": "rejectionCauseId 5"
+	},
+	"individualLoanData": {
+		"yearsOnHouse": 8886,
+		"monthsOnHouse": 8529,
+		"yearsOnLocal": 6767,
+		"monthsOnLocal": 7282,
+		"totalIncomeAmount": 3708.29,
+		"totalOutcomeAmount": 685.76,
+		"feeEnabledToPay": 4731.79,
+		"loanDestiny": "loanDestiny 5",
+		"isCreditGuaranteeWarrant": true,
+		"requiredAmount": 9041.05,
+		"proposedAmount": 9965.58,
+		"proposedFrequency": 725.14,
+		"proposedFee": 6252.53,
+		"proposedPeriod": 1718.07,
+		"maxLiquidity": 7026.87,
+		"paymentFrequency": "paymentFrequency 5"
+	},
+	"generalLoanData": {
+		"insuranceAmount": 4126.56,
+		"controlListsResult": true,
+		"riskLevel": 119,
+		"savingsAmount": 2836.36,
+		"dispersionMediumId": "dispersionMediumId 5",
+		"dispersionChannelId": "dispersionChannelId 5",
+		"semaphoreResultFilters": false
+	},
+	"PreLoanRequestID": "c68a3784-16a3-479f-8908-dad5ebe2c0ce",
+	"__metadata": {
+		"uri": "CustomerSet('BPIdCRM 5')",
+		"type": "AOMobile.Customer"
+	},
+	"PhoneSet": {
+		"__deferred": {
+			"uri": "CustomerSet('0060048623')/PhoneSet"
+		}
+	},
+	"AddressSet": {
+		"__deferred": {
+			"uri": "CustomerSet('5')/AddressSet"
+		}
+	},
+	"PersonalReferenceSet": {
+		"__deferred": {
+			"uri": "CustomerSet('BPIdCRM 5')/PersonalReferenceSet"
+		}
+	},
+	"EmployerSet": {
+		"__deferred": {
+			"uri": "CustomerSet('BPIdCRM 5')/EmployerSet"
+		}
+	},
+	"ImageSet": {
+		"__deferred": {
+			"uri": "CustomerSet('BPIdCRM 5')/ImageSet"
+		}
+	},
+	"InsuranceSet": {
+		"__deferred": {
+			"uri": "CustomerSet('BPIdCRM 5')/InsuranceSet"
+		}
+	}
+}, {
+	"BPIdCRM": "0060049037",
+	"leadIdCRM": "0000001185",
+	"firstName": "MARIA",
+	"middleName": "DE LOURDES",
+	"lastName": "TOVAR",
+	"secondName": "SERRANO",
+	"productId": "C_IND_CI",
+	"serviceOfficeId": 4636,
+	"serviceOfficeName": "LA JOYA",
+	"registrationDate": "\/Date(1454462337000)\/",
+	"statusId": "E0001",
+	"statusReasonId": "",
+	"sourceId": "Z01",
+	"sourceName": "Promoción Directa",
+	"isIndivWBusiness": false,
+	"rfc": "TOSL980202",
+	"homoclave": "",
+	"fielNumber": "",
+	"curp": "",
+	"dependents": "5",
+	"jobId": "EST",
+	"email": "",
+	"giroId": "28",
+	"industryId": "2227A",
+	"economicActivityId": "6813019",
+	"timeInTheActivityId": "006",
+	"howActivityId": "1",
+	"howMuchBusinessId": "",
+	"otherSourceId": "",
+	"timeInTheBusiness": "007",
+	"shopFromWhoId": "001",
+	"monthlySalary": "0.00",
+	"genderId": "1",
+	"birthdate": "\/Date(886377600000)\/",
+	"electorKey": "MRARES84020409H023",
+	"voterRegistration": "1234546787880",
+	"countryOfBirthId": "MX",
+	"birthPlace": "DF",
+	"nationalityId": "MX",
+	"maritalStatusId": "1",
+	"children": "5 ",
+	"schoolLevelId": "1",
+	"houseTypeId": "1",
+	"typeOfStoreId": "002",
+	"isRelatedToGentera": false,
+	"relatedName": "",
+	"isPEP": false,
+	"namePEP": "",
+	"relationshipId": "",
+	"serviceLevelId": 1,
+	"remainingDays": 0,
+	"roleId": "ZFS004",
+	"collaboratorID": "EDMARTINEZ",
+	"customerIdMD": "BD47CAA324426EB51454477904489",
+	"loanRequestIdCRM": "X",
+	"PreLoanRequestID": "00000000-0000-0000-0000-000000000000",
+	"spouse": {
+		"firstName": "firstName 6",
+		"middleName": "middleName 6",
+		"lastName": "lastName 6",
+		"secondName": "secondName 6",
+		"job": "job 6",
+		"workPhone": "workPhone 6",
+		"BPIdSpouse": "BPIdSpouse 6"
+	},
+	"remainingDays": 1557,
+	"roleId": "roleId 6",
+	"collaboratorID": "EDMARTINEZ",
+	"customerIdMD": "customerIdMD 6",
+	"loanRequestIdCRM": "X",
+	"groupLoanData": {
+		"roleInTheGroupId": "roleInTheGroupId 6",
+		"creditAmount": 4375.05,
+		"authorizedAmount": 1678.55,
+		"rejectionCauseId": "rejectionCauseId 6"
+	},
+	"individualLoanData": {
+		"yearsOnHouse": 3960,
+		"monthsOnHouse": 8557,
+		"yearsOnLocal": 1625,
+		"monthsOnLocal": 5960,
+		"totalIncomeAmount": 8997.46,
+		"totalOutcomeAmount": 3769.68,
+		"feeEnabledToPay": 7123.81,
+		"loanDestiny": "loanDestiny 6",
+		"isCreditGuaranteeWarrant": true,
+		"requiredAmount": 2706.98,
+		"proposedAmount": 6034.02,
+		"proposedFrequency": 2602.68,
+		"proposedFee": 5439.34,
+		"proposedPeriod": 1304.73,
+		"maxLiquidity": 3911.73,
+		"paymentFrequency": "paymentFrequency 6"
+	},
+	"generalLoanData": {
+		"insuranceAmount": 6337.08,
+		"controlListsResult": false,
+		"riskLevel": 945,
+		"savingsAmount": 9785.36,
+		"dispersionMediumId": "dispersionMediumId 6",
+		"dispersionChannelId": "dispersionChannelId 6",
+		"semaphoreResultFilters": false
+	},
+	"PreLoanRequestID": "2c38384e-5c05-4cc4-968c-98dbbf90ac76",
+	"__metadata": {
+		"uri": "CustomerSet('BPIdCRM 6')",
+		"type": "AOMobile.Customer"
+	},
+	"PhoneSet": {
+		"__deferred": {
+			"uri": "CustomerSet('0060049037')/PhoneSet"
+		}
+	},
+	"AddressSet": {
+		"__deferred": {
+			"uri": "CustomerSet('0060049037')/AddressSet"
+		}
+	},
+	"PersonalReferenceSet": {
+		"__deferred": {
+			"uri": "CustomerSet('BPIdCRM 6')/PersonalReferenceSet"
+		}
+	},
+	"EmployerSet": {
+		"__deferred": {
+			"uri": "CustomerSet('BPIdCRM 6')/EmployerSet"
+		}
+	},
+	"ImageSet": {
+		"__deferred": {
+			"uri": "CustomerSet('BPIdCRM 6')/ImageSet"
+		}
+	},
+	"InsuranceSet": {
+		"__deferred": {
+			"uri": "CustomerSet('BPIdCRM 6')/InsuranceSet"
+		}
+	}
+}, {
+	"BPIdCRM": "7",
+	"leadIdCRM": "leadIdCRM 7",
+	"firstName": "Oscar",
+	"middleName": "Garcia",
+	"lastName": "Monroy",
+	"secondName": "",
+	"productId": "productId 7",
+	"serviceOfficeId": 820,
+	"serviceOfficeName": "serviceOfficeName 7",
+	"registrationDate": "/Date(1205456093000)/",
+	"statusId": "statusId 7",
+	"statusReasonId": "statusReasonId 7",
+	"sourceId": "sourceId 7",
+	"sourceName": "sourceName 7",
+	"isIndivWBusiness": false,
+	"rfc": "rfc 7",
+	"homoclave": "homoclave 7",
+	"fielNumber": "fielNumber 7",
+	"curp": "curp 7",
+	"dependents": "dependents 7",
+	"jobId": "jobId 7",
+	"email": "email 7",
+	"giroId": "giroId 7",
+	"industryId": "industryId 7",
+	"economicActivityId": "economicActivityId 7",
+	"timeInTheActivityId": "timeInTheActivityId 7",
+	"howActivityId": "howActivityId 7",
+	"howMuchBusinessId": "howMuchBusinessId 7",
+	"otherSourceId": "otherSourceId 7",
+	"timeInTheBusiness": "timeInTheBusiness 7",
+	"shopFromWhoId": "shopFromWhoId 7",
+	"monthlySalary": 5024.32,
+	"genderId": "genderId 7",
+	"birthdate": "/Date(1560556493000)/",
+	"electorKey": "electorKey 7",
+	"voterRegistration": "voterRegistration 7",
+	"countryOfBirthId": "countryOfBirthId 7",
+	"birthPlace": "birthPlace 7",
+	"nationalityId": "nationalityId 7",
+	"maritalStatusId": "maritalStatusId 7",
+	"children": "children 7",
+	"schoolLevelId": "schoolLevelId 7",
+	"houseTypeId": "houseTypeId 7",
+	"typeOfStoreId": "typeOfStoreId 7",
+	"isRelatedToGentera": true,
+	"relatedName": "relatedName 7",
+	"isPEP": true,
+	"namePEP": "namePEP 7",
+	"relationshipId": "relationshipId 7",
+	"spouse": {
+		"firstName": "Oscar",
+		"middleName": "Garcia",
+		"lastName": "Monroy",
+		"secondName": "secondName 7",
+		"job": "job 7",
+		"workPhone": "workPhone 7",
+		"BPIdSpouse": "BPIdSpouse 7"
+	},
+	"serviceLevelId": "3",
+	"remainingDays": 8091,
+	"roleId": "roleId 7",
+	"collaboratorID": "EDMARTINEZ",
+	"customerIdMD": "customerIdMD 7",
+	"loanRequestIdCRM": "7",
+	"groupLoanData": {
+		"roleInTheGroupId": "roleInTheGroupId 7",
+		"creditAmount": 188.8,
+		"authorizedAmount": 5410.64,
+		"rejectionCauseId": "rejectionCauseId 7"
+	},
+	"individualLoanData": {
+		"yearsOnHouse": 3422,
+		"monthsOnHouse": 9999,
+		"yearsOnLocal": 8190,
+		"monthsOnLocal": 3997,
+		"totalIncomeAmount": 4383.2,
+		"totalOutcomeAmount": 8161.29,
+		"feeEnabledToPay": 6980.63,
+		"loanDestiny": "loanDestiny 7",
+		"isCreditGuaranteeWarrant": true,
+		"requiredAmount": 30000,
+		"proposedAmount": 6640.93,
+		"proposedFrequency": "Z1422",
+		"proposedFee": 29.19,
+		"proposedPeriod": 7786.62,
+		"maxLiquidity": 1685.79,
+		"paymentFrequency": "paymentFrequency 7"
+	},
+	"generalLoanData": {
+		"insuranceAmount": 6954.26,
+		"controlListsResult": true,
+		"riskLevel": 2,
+		"savingsAmount": 403.98,
+		"dispersionMediumId": "dispersionMediumId 7",
+		"dispersionChannelId": "dispersionChannelId 7",
+		"semaphoreResultFilters": false
+	},
+	"PreLoanRequestID": "030dea6e-9041-4ad3-8775-646e3f5cd747",
+	"__metadata": {
+		"uri": "CustomerSet('BPIdCRM 7')",
+		"type": "AOMobile.Customer"
+	},
+	"PhoneSet": {
+		"__deferred": {
+			"uri": "CustomerSet('BPIdCRM 7')/PhoneSet"
+		}
+	},
+	"AddressSet": {
+		"__deferred": {
+			"uri": "CustomerSet('BPIdCRM 7')/AddressSet"
+		}
+	},
+	"PersonalReferenceSet": {
+		"__deferred": {
+			"uri": "CustomerSet('BPIdCRM 7')/PersonalReferenceSet"
+		}
+	},
+	"EmployerSet": {
+		"__deferred": {
+			"uri": "CustomerSet('BPIdCRM 7')/EmployerSet"
+		}
+	},
+	"ImageSet": {
+		"__deferred": {
+			"uri": "CustomerSet('BPIdCRM 7')/ImageSet"
+		}
+	},
+	"InsuranceSet": {
+		"__deferred": {
+			"uri": "CustomerSet('BPIdCRM 7')/InsuranceSet"
+		}
+	}
+},  {
+	"BPIdCRM": "8",
+	"leadIdCRM": "leadIdCRM 8",
+	"firstName": "JAVIER",
+	"middleName": "HERNANDEZ",
+	"lastName": "CHICHARITO",
+	"secondName": "",
+	"productId": "productId 8",
+	"serviceOfficeId": 5107,
+	"serviceOfficeName": "serviceOfficeName 8",
+	"registrationDate": "/Date(1458608093000)/",
+	"statusId": "statusId 8",
+	"statusReasonId": "statusReasonId 8",
+	"sourceId": "sourceId 8",
+	"sourceName": "sourceName 8",
+	"isIndivWBusiness": false,
+	"rfc": "rfc 8",
+	"homoclave": "homoclave 8",
+	"fielNumber": "fielNumber 8",
+	"curp": "curp 8",
+	"dependents": "dependents 8",
+	"jobId": "jobId 8",
+	"email": "email 8",
+	"giroId": "giroId 8",
+	"industryId": "industryId 8",
+	"economicActivityId": "economicActivityId 8",
+	"timeInTheActivityId": "timeInTheActivityId 8",
+	"howActivityId": "howActivityId 8",
+	"howMuchBusinessId": "howMuchBusinessId 8",
+	"otherSourceId": "otherSourceId 8",
+	"timeInTheBusiness": "timeInTheBusiness 8",
+	"shopFromWhoId": "shopFromWhoId 8",
+	"monthlySalary": 1707.05,
+	"genderId": "genderId 8",
+	"birthdate": "/Date(1492559693000)/",
+	"electorKey": "electorKey 8",
+	"voterRegistration": "voterRegistration 8",
+	"countryOfBirthId": "countryOfBirthId 8",
+	"birthPlace": "birthPlace 8",
+	"nationalityId": "nationalityId 8",
+	"maritalStatusId": "maritalStatusId 8",
+	"children": "children 8",
+	"schoolLevelId": "schoolLevelId 8",
+	"houseTypeId": "houseTypeId 8",
+	"typeOfStoreId": "typeOfStoreId 8",
+	"isRelatedToGentera": true,
+	"relatedName": "relatedName 8",
+	"isPEP": true,
+	"namePEP": "namePEP 8",
+	"relationshipId": "relationshipId 8",
+	"spouse": {
+		"firstName": "Lorena",
+		"middleName": "Marquez",
+		"lastName": "Sanchez",
+		"secondName": "Alejandra",
+		"job": "job 8",
+		"workPhone": "workPhone 8",
+		"BPIdSpouse": "BPIdSpouse 8"
+	},
+	"serviceLevelId": "1",
+	"remainingDays": 8258,
+	"roleId": "roleId 8",
+	"collaboratorID": "EDMARTINEZ",
+	"customerIdMD": "customerIdMD 8",
+	"loanRequestIdCRM": "8",
+	"groupLoanData": {
+		"roleInTheGroupId": "roleInTheGroupId 8",
+		"creditAmount": 8199.17,
+		"authorizedAmount": 3085.67,
+		"rejectionCauseId": "rejectionCauseId 8"
+	},
+	"individualLoanData": {
+		"yearsOnHouse": 6206,
+		"monthsOnHouse": 4268,
+		"yearsOnLocal": 9896,
+		"monthsOnLocal": 1390,
+		"totalIncomeAmount": 8538.62,
+		"totalOutcomeAmount": 9775.21,
+		"feeEnabledToPay": 7139.67,
+		"loanDestiny": "loanDestiny 8",
+		"isCreditGuaranteeWarrant": false,
+		"requiredAmount": 6784.77,
+		"proposedAmount": 163.37,
+		"proposedFrequency": 5607.59,
+		"proposedFee": 2411.54,
+		"proposedPeriod": 870.16,
+		"maxLiquidity": 7776,
+		"paymentFrequency": "paymentFrequency 8"
+	},
+	"generalLoanData": {
+		"insuranceAmount": 9335.97,
+		"controlListsResult": false,
+		"riskLevel": 5,
+		"savingsAmount": 989.59,
+		"dispersionMediumId": "dispersionMediumId 8",
+		"dispersionChannelId": "dispersionChannelId 8",
+		"semaphoreResultFilters": true
+	},
+	"PreLoanRequestID": "f4546dbc-213d-4bd5-8248-a440b1f1d8f2",
+	"__metadata": {
+		"uri": "CustomerSet('BPIdCRM 8')",
+		"type": "AOMobile.Customer"
+	},
+	"PhoneSet": {
+		"__deferred": {
+			"uri": "CustomerSet('BPIdCRM 8')/PhoneSet"
+		}
+	},
+	"AddressSet": {
+		"__deferred": {
+			"uri": "CustomerSet('BPIdCRM 8')/AddressSet"
+		}
+	},
+	"PersonalReferenceSet": {
+		"__deferred": {
+			"uri": "CustomerSet('BPIdCRM 8')/PersonalReferenceSet"
+		}
+	},
+	"EmployerSet": {
+		"__deferred": {
+			"uri": "CustomerSet('BPIdCRM 8')/EmployerSet"
+		}
+	},
+	"ImageSet": {
+		"__deferred": {
+			"uri": "CustomerSet('BPIdCRM 8')/ImageSet"
+		}
+	},
+	"InsuranceSet": {
+		"__deferred": {
+			"uri": "CustomerSet('BPIdCRM 8')/InsuranceSet"
+		}
+	}
+}, {
+	"BPIdCRM": "9",
+	"leadIdCRM": "leadIdCRM 9",
+	"firstName": "Edgar",
+	"middleName": "Martinez",
+	"lastName": "Loera",
+	"secondName": "",
+	"productId": "C_GRUPAL_CCR",
+	"serviceOfficeId": 9051,
+	"serviceOfficeName": "serviceOfficeName 9",
+	"registrationDate": "/Date(1342137293000)/",
+	"statusId": "statusId 9",
+	"statusReasonId": "statusReasonId 9",
+	"sourceId": "sourceId 9",
+	"sourceName": "sourceName 9",
+	"isIndivWBusiness": false,
+	"rfc": "rfc 9",
+	"homoclave": "homoclave 9",
+	"fielNumber": "fielNumber 9",
+	"curp": "curp 9",
+	"dependents": "dependents 9",
+	"jobId": "jobId 9",
+	"email": "email 9",
+	"giroId": "giroId 9",
+	"industryId": "industryId 9",
+	"economicActivityId": "economicActivityId 9",
+	"timeInTheActivityId": "timeInTheActivityId 9",
+	"howActivityId": "howActivityId 9",
+	"howMuchBusinessId": "howMuchBusinessId 9",
+	"otherSourceId": "otherSourceId 9",
+	"timeInTheBusiness": "timeInTheBusiness 9",
+	"shopFromWhoId": "shopFromWhoId 9",
+	"monthlySalary": 7560.8,
+	"genderId": "genderId 9",
+	"birthdate": "/Date(1067648093000)/",
+	"electorKey": "electorKey 9",
+	"voterRegistration": "voterRegistration 9",
+	"countryOfBirthId": "countryOfBirthId 9",
+	"birthPlace": "birthPlace 9",
+	"nationalityId": "nationalityId 9",
+	"maritalStatusId": "maritalStatusId 9",
+	"children": "children 9",
+	"schoolLevelId": "schoolLevelId 9",
+	"houseTypeId": "houseTypeId 9",
+	"typeOfStoreId": "typeOfStoreId 9",
+	"isRelatedToGentera": true,
+	"relatedName": "relatedName 9",
+	"isPEP": false,
+	"namePEP": "namePEP 9",
+	"relationshipId": "relationshipId 9",
+	"spouse": {
+		"firstName": "Edgar",
+		"middleName": "Martinez",
+		"lastName": "Loera",
+		"secondName": "",
+		"job": "job 9",
+		"workPhone": "workPhone 9",
+		"BPIdSpouse": "BPIdSpouse 9"
+	},
+	"serviceLevelId": "2",
+	"remainingDays": 7796,
+	"roleId": "roleId 9",
+	"collaboratorID": "EDMARTINEZ",
+	"customerIdMD": "customerIdMD 9",
+	"loanRequestIdCRM": "X",
+	"groupLoanData": {
+		"roleInTheGroupId": "roleInTheGroupId 9",
+		"creditAmount": 4064.55,
+		"authorizedAmount": 4784.94,
+		"rejectionCauseId": "rejectionCauseId 9"
+	},
+	"individualLoanData": {
+		"yearsOnHouse": 1983,
+		"monthsOnHouse": 5387,
+		"yearsOnLocal": 5739,
+		"monthsOnLocal": 1855,
+		"totalIncomeAmount": 2929.64,
+		"totalOutcomeAmount": 24.97,
+		"feeEnabledToPay": 9245.13,
+		"loanDestiny": "loanDestiny 9",
+		"isCreditGuaranteeWarrant": false,
+		"requiredAmount": 6785.36,
+		"proposedAmount": 567.92,
+		"proposedFrequency": 8931.96,
+		"proposedFee": 2038.47,
+		"proposedPeriod": 5199.4,
+		"maxLiquidity": 3575.34,
+		"paymentFrequency": "paymentFrequency 9"
+	},
+	"generalLoanData": {
+		"insuranceAmount": 3852.54,
+		"controlListsResult": true,
+		"riskLevel": 2,
+		"savingsAmount": 2881.57,
+		"dispersionMediumId": "dispersionMediumId 9",
+		"dispersionChannelId": "dispersionChannelId 9",
+		"semaphoreResultFilters": true
+	},
+	"PreLoanRequestID": "1b8d5944-c118-4076-9859-200d70bcd9cf",
+	"__metadata": {
+		"uri": "CustomerSet('BPIdCRM 9')",
+		"type": "AOMobile.Customer"
+	},
+	"PhoneSet": {
+		"__deferred": {
+			"uri": "CustomerSet('BPIdCRM 9')/PhoneSet"
+		}
+	},
+	"AddressSet": {
+		"__deferred": {
+			"uri": "CustomerSet('BPIdCRM 9')/AddressSet"
+		}
+	},
+	"PersonalReferenceSet": {
+		"__deferred": {
+			"uri": "CustomerSet('BPIdCRM 9')/PersonalReferenceSet"
+		}
+	},
+	"EmployerSet": {
+		"__deferred": {
+			"uri": "CustomerSet('BPIdCRM 9')/EmployerSet"
+		}
+	},
+	"ImageSet": {
+		"__deferred": {
+			"uri": "CustomerSet('BPIdCRM 9')/ImageSet"
+		}
+	},
+	"InsuranceSet": {
+		"__deferred": {
+			"uri": "CustomerSet('BPIdCRM 9')/InsuranceSet"
+		}
+	}
+}, {
+	"BPIdCRM": "10",
+	"leadIdCRM": "leadIdCRM 10",
+	"firstName": "Miriam",
+	"middleName": "Granados",
+	"lastName": "Flores",
+	"secondName": "",
+	"productId": "C_GRUPAL_CCR",
+	"serviceOfficeId": 1954,
+	"serviceOfficeName": "serviceOfficeName 10",
+	"registrationDate": "/Date(1098402893000)/",
+	"statusId": "statusId 10",
+	"statusReasonId": "statusReasonId 10",
+	"sourceId": "sourceId 10",
+	"sourceName": "sourceName 10",
+	"isIndivWBusiness": false,
+	"rfc": "rfc 10",
+	"homoclave": "homoclave 10",
+	"fielNumber": "fielNumber 10",
+	"curp": "curp 10",
+	"dependents": "dependents 10",
+	"jobId": "jobId 10",
+	"email": "email 10",
+	"giroId": "giroId 10",
+	"industryId": "industryId 10",
+	"economicActivityId": "economicActivityId 10",
+	"timeInTheActivityId": "timeInTheActivityId 10",
+	"howActivityId": "howActivityId 10",
+	"howMuchBusinessId": "howMuchBusinessId 10",
+	"otherSourceId": "otherSourceId 10",
+	"timeInTheBusiness": "timeInTheBusiness 10",
+	"shopFromWhoId": "shopFromWhoId 10",
+	"monthlySalary": 6624.5,
+	"genderId": "genderId 10",
+	"birthdate": "/Date(1017968093000)/",
+	"electorKey": "electorKey 10",
+	"voterRegistration": "voterRegistration 10",
+	"countryOfBirthId": "countryOfBirthId 10",
+	"birthPlace": "birthPlace 10",
+	"nationalityId": "nationalityId 10",
+	"maritalStatusId": "maritalStatusId 10",
+	"children": "children 10",
+	"schoolLevelId": "schoolLevelId 10",
+	"houseTypeId": "houseTypeId 10",
+	"typeOfStoreId": "typeOfStoreId 10",
+	"isRelatedToGentera": true,
+	"relatedName": "relatedName 10",
+	"isPEP": true,
+	"namePEP": "namePEP 10",
+	"relationshipId": "relationshipId 10",
+	"spouse": {
+		"firstName": "Miriam",
+		"middleName": "Granados",
+		"lastName": "Flores",
+		"secondName": "",
+		"job": "job 10",
+		"workPhone": "workPhone 10",
+		"BPIdSpouse": "BPIdSpouse 10"
+	},
+	"serviceLevelId": "2",
+	"remainingDays": 4026,
+	"roleId": "roleId 10",
+	"collaboratorID": "EDMARTINEZ",
+	"customerIdMD": "customerIdMD 10",
+	"loanRequestIdCRM": "X",
+	"groupLoanData": {
+		"roleInTheGroupId": "roleInTheGroupId 10",
+		"creditAmount": 854.07,
+		"authorizedAmount": 9348.55,
+		"rejectionCauseId": "rejectionCauseId 10"
+	},
+	"individualLoanData": {
+		"yearsOnHouse": 2783,
+		"monthsOnHouse": 973,
+		"yearsOnLocal": 4910,
+		"monthsOnLocal": 3590,
+		"totalIncomeAmount": 6138.1,
+		"totalOutcomeAmount": 9136.57,
+		"feeEnabledToPay": 2876.11,
+		"loanDestiny": "loanDestiny 10",
+		"isCreditGuaranteeWarrant": false,
+		"requiredAmount": 9960.86,
+		"proposedAmount": 4704.65,
+		"proposedFrequency": 6495.3,
+		"proposedFee": 9907.91,
+		"proposedPeriod": 86.5,
+		"maxLiquidity": 9882.26,
+		"paymentFrequency": "paymentFrequency 10"
+	},
+	"generalLoanData": {
+		"insuranceAmount": 6128.41,
+		"controlListsResult": false,
+		"riskLevel": 2,
+		"savingsAmount": 1603.5,
+		"dispersionMediumId": "dispersionMediumId 10",
+		"dispersionChannelId": "dispersionChannelId 10",
+		"semaphoreResultFilters": true
+	},
+	"PreLoanRequestID": "eca918cc-6010-4869-b46d-3e94c7ec8002",
+	"__metadata": {
+		"uri": "CustomerSet('BPIdCRM 10')",
+		"type": "AOMobile.Customer"
+	},
+	"PhoneSet": {
+		"__deferred": {
+			"uri": "CustomerSet('BPIdCRM 10')/PhoneSet"
+		}
+	},
+	"AddressSet": {
+		"__deferred": {
+			"uri": "CustomerSet('BPIdCRM 10')/AddressSet"
+		}
+	},
+	"PersonalReferenceSet": {
+		"__deferred": {
+			"uri": "CustomerSet('BPIdCRM 10')/PersonalReferenceSet"
+		}
+	},
+	"EmployerSet": {
+		"__deferred": {
+			"uri": "CustomerSet('BPIdCRM 10')/EmployerSet"
+		}
+	},
+	"ImageSet": {
+		"__deferred": {
+			"uri": "CustomerSet('BPIdCRM 10')/ImageSet"
+		}
+	},
+	"InsuranceSet": {
+		"__deferred": {
+			"uri": "CustomerSet('BPIdCRM 10')/InsuranceSet"
+		}
+	}
+}, {
+	"BPIdCRM": "11",
+	"leadIdCRM": "leadIdCRM 11",
+	"firstName": "Arturo",
+	"middleName": "Azuma",
+	"lastName": "Avila",
+	"secondName": "",
+	"productId": "C_GRUPAL_CCR",
+	"serviceOfficeId": 6245,
+	"serviceOfficeName": "serviceOfficeName 11",
+	"registrationDate": "/Date(1106096094000)/",
+	"statusId": "statusId 11",
+	"statusReasonId": "statusReasonId 11",
+	"sourceId": "sourceId 11",
+	"sourceName": "sourceName 11",
+	"isIndivWBusiness": true,
+	"rfc": "rfc 11",
+	"homoclave": "homoclave 11",
+	"fielNumber": "fielNumber 11",
+	"curp": "curp 11",
+	"dependents": "dependents 11",
+	"jobId": "jobId 11",
+	"email": "email 11",
+	"giroId": "giroId 11",
+	"industryId": "industryId 11",
+	"economicActivityId": "economicActivityId 11",
+	"timeInTheActivityId": "timeInTheActivityId 11",
+	"howActivityId": "howActivityId 11",
+	"howMuchBusinessId": "howMuchBusinessId 11",
+	"otherSourceId": "otherSourceId 11",
+	"timeInTheBusiness": "timeInTheBusiness 11",
+	"shopFromWhoId": "shopFromWhoId 11",
+	"monthlySalary": 5271.69,
+	"genderId": "genderId 11",
+	"birthdate": "/Date(1400198094000)/",
+	"electorKey": "electorKey 11",
+	"voterRegistration": "voterRegistration 11",
+	"countryOfBirthId": "countryOfBirthId 11",
+	"birthPlace": "birthPlace 11",
+	"nationalityId": "nationalityId 11",
+	"maritalStatusId": "maritalStatusId 11",
+	"children": "children 11",
+	"schoolLevelId": "schoolLevelId 11",
+	"houseTypeId": "houseTypeId 11",
+	"typeOfStoreId": "typeOfStoreId 11",
+	"isRelatedToGentera": false,
+	"relatedName": "relatedName 11",
+	"isPEP": true,
+	"namePEP": "namePEP 11",
+	"relationshipId": "relationshipId 11",
+	"spouse": {
+		"firstName": "Arturo",
+		"middleName": "Azuma",
+		"lastName": "Avila",
+		"secondName": "secondName 11",
+		"job": "job 11",
+		"workPhone": "workPhone 11",
+		"BPIdSpouse": "BPIdSpouse 11"
+	},
+	"serviceLevelId": "2",
+	"remainingDays": 1345,
+	"roleId": "roleId 11",
+	"collaboratorID": "EDMARTINEZ",
+	"customerIdMD": "customerIdMD 11",
+	"loanRequestIdCRM": "X",
+	"groupLoanData": {
+		"roleInTheGroupId": "roleInTheGroupId 11",
+		"creditAmount": 8792.88,
+		"authorizedAmount": 5945.88,
+		"rejectionCauseId": "rejectionCauseId 11"
+	},
+	"individualLoanData": {
+		"yearsOnHouse": 4106,
+		"monthsOnHouse": 3595,
+		"yearsOnLocal": 4958,
+		"monthsOnLocal": 2673,
+		"totalIncomeAmount": 9935,
+		"totalOutcomeAmount": 8741.54,
+		"feeEnabledToPay": 1168.25,
+		"loanDestiny": "loanDestiny 11",
+		"isCreditGuaranteeWarrant": false,
+		"requiredAmount": 9224.93,
+		"proposedAmount": 5562.29,
+		"proposedFrequency": 561.32,
+		"proposedFee": 295.66,
+		"proposedPeriod": 9150.79,
+		"maxLiquidity": 7126.57,
+		"paymentFrequency": "paymentFrequency 11"
+	},
+	"generalLoanData": {
+		"insuranceAmount": 2678.65,
+		"controlListsResult": false,
+		"riskLevel": 5,
+		"savingsAmount": 7964.19,
+		"dispersionMediumId": "dispersionMediumId 11",
+		"dispersionChannelId": "dispersionChannelId 11",
+		"semaphoreResultFilters": false
+	},
+	"PreLoanRequestID": "1d5ca58f-2658-40c2-ab40-1a92965ac636",
+	"__metadata": {
+		"uri": "CustomerSet('BPIdCRM 11')",
+		"type": "AOMobile.Customer"
+	},
+	"PhoneSet": {
+		"__deferred": {
+			"uri": "CustomerSet('BPIdCRM 11')/PhoneSet"
+		}
+	},
+	"AddressSet": {
+		"__deferred": {
+			"uri": "CustomerSet('BPIdCRM 11')/AddressSet"
+		}
+	},
+	"PersonalReferenceSet": {
+		"__deferred": {
+			"uri": "CustomerSet('BPIdCRM 11')/PersonalReferenceSet"
+		}
+	},
+	"EmployerSet": {
+		"__deferred": {
+			"uri": "CustomerSet('BPIdCRM 11')/EmployerSet"
+		}
+	},
+	"ImageSet": {
+		"__deferred": {
+			"uri": "CustomerSet('BPIdCRM 11')/ImageSet"
+		}
+	},
+	"InsuranceSet": {
+		"__deferred": {
+			"uri": "CustomerSet('BPIdCRM 11')/InsuranceSet"
+		}
+	}
+}, {
+	"BPIdCRM": "12",
+	"leadIdCRM": "leadIdCRM 12",
+	"firstName": "Hugo",
+	"middleName": "Escobar",
+	"lastName": "Cuanalo",
+	"secondName": "",
+	"productId": "C_GRUPAL_CCR",
+	"serviceOfficeId": 8865,
+	"serviceOfficeName": "serviceOfficeName 12",
+	"registrationDate": "/Date(1515977694000)/",
+	"statusId": "statusId 12",
+	"statusReasonId": "statusReasonId 12",
+	"sourceId": "sourceId 12",
+	"sourceName": "sourceName 12",
+	"isIndivWBusiness": true,
+	"rfc": "rfc 12",
+	"homoclave": "homoclave 12",
+	"fielNumber": "fielNumber 12",
+	"curp": "curp 12",
+	"dependents": "dependents 12",
+	"jobId": "jobId 12",
+	"email": "email 12",
+	"giroId": "giroId 12",
+	"industryId": "industryId 12",
+	"economicActivityId": "economicActivityId 12",
+	"timeInTheActivityId": "timeInTheActivityId 12",
+	"howActivityId": "howActivityId 12",
+	"howMuchBusinessId": "howMuchBusinessId 12",
+	"otherSourceId": "otherSourceId 12",
+	"timeInTheBusiness": "timeInTheBusiness 12",
+	"shopFromWhoId": "shopFromWhoId 12",
+	"monthlySalary": 9102.76,
+	"genderId": "genderId 12",
+	"birthdate": "/Date(997574094000)/",
+	"electorKey": "electorKey 12",
+	"voterRegistration": "voterRegistration 12",
+	"countryOfBirthId": "countryOfBirthId 12",
+	"birthPlace": "birthPlace 12",
+	"nationalityId": "nationalityId 12",
+	"maritalStatusId": "maritalStatusId 12",
+	"children": "children 12",
+	"schoolLevelId": "schoolLevelId 12",
+	"houseTypeId": "houseTypeId 12",
+	"typeOfStoreId": "typeOfStoreId 12",
+	"isRelatedToGentera": true,
+	"relatedName": "relatedName 12",
+	"isPEP": true,
+	"namePEP": "namePEP 12",
+	"relationshipId": "relationshipId 12",
+	"spouse": {
+		"firstName": "Hugo",
+		"middleName": "Escobar",
+		"lastName": "Cuanalo",
+		"secondName": "",
+		"job": "job 12",
+		"workPhone": "workPhone 12",
+		"BPIdSpouse": "BPIdSpouse 12"
+	},
+	"serviceLevelId": "2",
+	"remainingDays": 7501,
+	"roleId": "roleId 12",
+	"collaboratorID": "EDMARTINEZ",
+	"customerIdMD": "customerIdMD 12",
+	"loanRequestIdCRM": "X",
+	"groupLoanData": {
+		"roleInTheGroupId": "roleInTheGroupId 12",
+		"creditAmount": 1775.28,
+		"authorizedAmount": 9055.58,
+		"rejectionCauseId": "rejectionCauseId 12"
+	},
+	"individualLoanData": {
+		"yearsOnHouse": 810,
+		"monthsOnHouse": 5646,
+		"yearsOnLocal": 2388,
+		"monthsOnLocal": 8207,
+		"totalIncomeAmount": 1779.83,
+		"totalOutcomeAmount": 1784.25,
+		"feeEnabledToPay": 9799.79,
+		"loanDestiny": "loanDestiny 12",
+		"isCreditGuaranteeWarrant": false,
+		"requiredAmount": 4653.37,
+		"proposedAmount": 1626.15,
+		"proposedFrequency": 388.81,
+		"proposedFee": 402.34,
+		"proposedPeriod": 2163.86,
+		"maxLiquidity": 4305.89,
+		"paymentFrequency": "paymentFrequency 12"
+	},
+	"generalLoanData": {
+		"insuranceAmount": 5569.96,
+		"controlListsResult": false,
+		"riskLevel": 3,
+		"savingsAmount": 9205.2,
+		"dispersionMediumId": "dispersionMediumId 12",
+		"dispersionChannelId": "dispersionChannelId 12",
+		"semaphoreResultFilters": true
+	},
+	"PreLoanRequestID": "284d7054-3cf2-4e6c-ab47-c6f6df0ad009",
+	"__metadata": {
+		"uri": "CustomerSet('BPIdCRM 12')",
+		"type": "AOMobile.Customer"
+	},
+	"PhoneSet": {
+		"__deferred": {
+			"uri": "CustomerSet('BPIdCRM 12')/PhoneSet"
+		}
+	},
+	"AddressSet": {
+		"__deferred": {
+			"uri": "CustomerSet('BPIdCRM 12')/AddressSet"
+		}
+	},
+	"PersonalReferenceSet": {
+		"__deferred": {
+			"uri": "CustomerSet('BPIdCRM 12')/PersonalReferenceSet"
+		}
+	},
+	"EmployerSet": {
+		"__deferred": {
+			"uri": "CustomerSet('BPIdCRM 12')/EmployerSet"
+		}
+	},
+	"ImageSet": {
+		"__deferred": {
+			"uri": "CustomerSet('BPIdCRM 12')/ImageSet"
+		}
+	},
+	"InsuranceSet": {
+		"__deferred": {
+			"uri": "CustomerSet('BPIdCRM 12')/InsuranceSet"
+		}
+	}
+}, {
+	"BPIdCRM": "13",
+	"leadIdCRM": "leadIdCRM 13",
+	"firstName": "firstName 13",
+	"middleName": "middleName 13",
+	"lastName": "lastName 13",
+	"secondName": "secondName 13",
+	"productId": "productId 13",
+	"serviceOfficeId": 1248,
+	"serviceOfficeName": "serviceOfficeName 13",
+	"registrationDate": "/Date(1501804494000)/",
+	"statusId": "statusId 13",
+	"statusReasonId": "statusReasonId 13",
+	"sourceId": "sourceId 13",
+	"sourceName": "sourceName 13",
+	"isIndivWBusiness": false,
+	"rfc": "rfc 13",
+	"homoclave": "homoclave 13",
+	"fielNumber": "fielNumber 13",
+	"curp": "curp 13",
+	"dependents": "dependents 13",
+	"jobId": "jobId 13",
+	"email": "email 13",
+	"giroId": "giroId 13",
+	"industryId": "industryId 13",
+	"economicActivityId": "economicActivityId 13",
+	"timeInTheActivityId": "timeInTheActivityId 13",
+	"howActivityId": "howActivityId 13",
+	"howMuchBusinessId": "howMuchBusinessId 13",
+	"otherSourceId": "otherSourceId 13",
+	"timeInTheBusiness": "timeInTheBusiness 13",
+	"shopFromWhoId": "shopFromWhoId 13",
+	"monthlySalary": 3730.06,
+	"genderId": "genderId 13",
+	"birthdate": "/Date(1182642894000)/",
+	"electorKey": "electorKey 13",
+	"voterRegistration": "voterRegistration 13",
+	"countryOfBirthId": "countryOfBirthId 13",
+	"birthPlace": "birthPlace 13",
+	"nationalityId": "nationalityId 13",
+	"maritalStatusId": "maritalStatusId 13",
+	"children": "children 13",
+	"schoolLevelId": "schoolLevelId 13",
+	"houseTypeId": "houseTypeId 13",
+	"typeOfStoreId": "typeOfStoreId 13",
+	"isRelatedToGentera": false,
+	"relatedName": "relatedName 13",
+	"isPEP": false,
+	"namePEP": "namePEP 13",
+	"relationshipId": "relationshipId 13",
+	"spouse": {
+		"firstName": "firstName 13",
+		"middleName": "middleName 13",
+		"lastName": "lastName 13",
+		"secondName": "secondName 13",
+		"job": "job 13",
+		"workPhone": "workPhone 13",
+		"BPIdSpouse": "BPIdSpouse 13"
+	},
+	"serviceLevelId": "2",
+	"remainingDays": 2607,
+	"roleId": "roleId 13",
+	"collaboratorID": "collaboratorID 13",
+	"customerIdMD": "customerIdMD 13",
+	"loanRequestIdCRM": "loanRequestIdCRM 13",
+	"groupLoanData": {
+		"roleInTheGroupId": "roleInTheGroupId 13",
+		"creditAmount": 1326.83,
+		"authorizedAmount": 2050.72,
+		"rejectionCauseId": "rejectionCauseId 13"
+	},
+	"individualLoanData": {
+		"yearsOnHouse": 3199,
+		"monthsOnHouse": 2382,
+		"yearsOnLocal": 4736,
+		"monthsOnLocal": 3900,
+		"totalIncomeAmount": 3695.36,
+		"totalOutcomeAmount": 5906.72,
+		"feeEnabledToPay": 8407.32,
+		"loanDestiny": "loanDestiny 13",
+		"isCreditGuaranteeWarrant": false,
+		"requiredAmount": 8217.26,
+		"proposedAmount": 6831.63,
+		"proposedFrequency": 4430.22,
+		"proposedFee": 6298.09,
+		"proposedPeriod": 5334.07,
+		"maxLiquidity": 4021.28,
+		"paymentFrequency": "paymentFrequency 13"
+	},
+	"generalLoanData": {
+		"insuranceAmount": 2778.17,
+		"controlListsResult": true,
+		"riskLevel": 938,
+		"savingsAmount": 8289.98,
+		"dispersionMediumId": "dispersionMediumId 13",
+		"dispersionChannelId": "dispersionChannelId 13",
+		"semaphoreResultFilters": false
+	},
+	"PreLoanRequestID": "7638b903-7ef0-4dbd-aaf9-12dca46ef44b",
+	"__metadata": {
+		"uri": "CustomerSet('BPIdCRM 13')",
+		"type": "AOMobile.Customer"
+	},
+	"PhoneSet": {
+		"__deferred": {
+			"uri": "CustomerSet('BPIdCRM 13')/PhoneSet"
+		}
+	},
+	"AddressSet": {
+		"__deferred": {
+			"uri": "CustomerSet('BPIdCRM 13')/AddressSet"
+		}
+	},
+	"PersonalReferenceSet": {
+		"__deferred": {
+			"uri": "CustomerSet('BPIdCRM 13')/PersonalReferenceSet"
+		}
+	},
+	"EmployerSet": {
+		"__deferred": {
+			"uri": "CustomerSet('BPIdCRM 13')/EmployerSet"
+		}
+	},
+	"ImageSet": {
+		"__deferred": {
+			"uri": "CustomerSet('BPIdCRM 13')/ImageSet"
+		}
+	},
+	"InsuranceSet": {
+		"__deferred": {
+			"uri": "CustomerSet('BPIdCRM 13')/InsuranceSet"
+		}
+	}
+}, {
+	"BPIdCRM": "14",
+	"leadIdCRM": "leadIdCRM 14",
+	"firstName": "firstName 14",
+	"middleName": "middleName 14",
+	"lastName": "lastName 14",
+	"secondName": "secondName 14",
+	"productId": "productId 14",
+	"serviceOfficeId": 4857,
+	"serviceOfficeName": "serviceOfficeName 14",
+	"registrationDate": "/Date(1437782094000)/",
+	"statusId": "statusId 14",
+	"statusReasonId": "statusReasonId 14",
+	"sourceId": "sourceId 14",
+	"sourceName": "sourceName 14",
+	"isIndivWBusiness": false,
+	"rfc": "rfc 14",
+	"homoclave": "homoclave 14",
+	"fielNumber": "fielNumber 14",
+	"curp": "curp 14",
+	"dependents": "dependents 14",
+	"jobId": "jobId 14",
+	"email": "email 14",
+	"giroId": "giroId 14",
+	"industryId": "industryId 14",
+	"economicActivityId": "economicActivityId 14",
+	"timeInTheActivityId": "timeInTheActivityId 14",
+	"howActivityId": "howActivityId 14",
+	"howMuchBusinessId": "howMuchBusinessId 14",
+	"otherSourceId": "otherSourceId 14",
+	"timeInTheBusiness": "timeInTheBusiness 14",
+	"shopFromWhoId": "shopFromWhoId 14",
+	"monthlySalary": 1030.75,
+	"genderId": "genderId 14",
+	"birthdate": "/Date(1278028494000)/",
+	"electorKey": "electorKey 14",
+	"voterRegistration": "voterRegistration 14",
+	"countryOfBirthId": "countryOfBirthId 14",
+	"birthPlace": "birthPlace 14",
+	"nationalityId": "nationalityId 14",
+	"maritalStatusId": "maritalStatusId 14",
+	"children": "children 14",
+	"schoolLevelId": "schoolLevelId 14",
+	"houseTypeId": "houseTypeId 14",
+	"typeOfStoreId": "typeOfStoreId 14",
+	"isRelatedToGentera": true,
+	"relatedName": "relatedName 14",
+	"isPEP": false,
+	"namePEP": "namePEP 14",
+	"relationshipId": "relationshipId 14",
+	"spouse": {
+		"firstName": "firstName 14",
+		"middleName": "middleName 14",
+		"lastName": "lastName 14",
+		"secondName": "secondName 14",
+		"job": "job 14",
+		"workPhone": "workPhone 14",
+		"BPIdSpouse": "BPIdSpouse 14"
+	},
+	"serviceLevelId": "1",
+	"remainingDays": 2565,
+	"roleId": "roleId 14",
+	"collaboratorID": "collaboratorID 14",
+	"customerIdMD": "customerIdMD 14",
+	"loanRequestIdCRM": "loanRequestIdCRM 14",
+	"groupLoanData": {
+		"roleInTheGroupId": "roleInTheGroupId 14",
+		"creditAmount": 3034.86,
+		"authorizedAmount": 8520.64,
+		"rejectionCauseId": "rejectionCauseId 14"
+	},
+	"individualLoanData": {
+		"yearsOnHouse": 5590,
+		"monthsOnHouse": 2083,
+		"yearsOnLocal": 369,
+		"monthsOnLocal": 9384,
+		"totalIncomeAmount": 6421.29,
+		"totalOutcomeAmount": 6882.82,
+		"feeEnabledToPay": 8325.71,
+		"loanDestiny": "loanDestiny 14",
+		"isCreditGuaranteeWarrant": true,
+		"requiredAmount": 6520.59,
+		"proposedAmount": 6246.52,
+		"proposedFrequency": 6017.17,
+		"proposedFee": 948.79,
+		"proposedPeriod": 8366.35,
+		"maxLiquidity": 3594.48,
+		"paymentFrequency": "paymentFrequency 14"
+	},
+	"generalLoanData": {
+		"insuranceAmount": 8618.78,
+		"controlListsResult": false,
+		"riskLevel": 3306,
+		"savingsAmount": 1437.63,
+		"dispersionMediumId": "dispersionMediumId 14",
+		"dispersionChannelId": "dispersionChannelId 14",
+		"semaphoreResultFilters": false
+	},
+	"PreLoanRequestID": "78dcd8d7-4070-439e-8d46-900fd63b0e8b",
+	"__metadata": {
+		"uri": "CustomerSet('BPIdCRM 14')",
+		"type": "AOMobile.Customer"
+	},
+	"PhoneSet": {
+		"__deferred": {
+			"uri": "CustomerSet('BPIdCRM 14')/PhoneSet"
+		}
+	},
+	"AddressSet": {
+		"__deferred": {
+			"uri": "CustomerSet('BPIdCRM 14')/AddressSet"
+		}
+	},
+	"PersonalReferenceSet": {
+		"__deferred": {
+			"uri": "CustomerSet('BPIdCRM 14')/PersonalReferenceSet"
+		}
+	},
+	"EmployerSet": {
+		"__deferred": {
+			"uri": "CustomerSet('BPIdCRM 14')/EmployerSet"
+		}
+	},
+	"ImageSet": {
+		"__deferred": {
+			"uri": "CustomerSet('BPIdCRM 14')/ImageSet"
+		}
+	},
+	"InsuranceSet": {
+		"__deferred": {
+			"uri": "CustomerSet('BPIdCRM 14')/InsuranceSet"
+		}
+	}
+}, {
+	"BPIdCRM": "15",
+	"leadIdCRM": "leadIdCRM 15",
+	"firstName": "firstName 15",
+	"middleName": "middleName 15",
+	"lastName": "lastName 15",
+	"secondName": "secondName 15",
+	"productId": "productId 15",
+	"serviceOfficeId": 919,
+	"serviceOfficeName": "serviceOfficeName 15",
+	"registrationDate": "/Date(1165712094000)/",
+	"statusId": "statusId 15",
+	"statusReasonId": "statusReasonId 15",
+	"sourceId": "sourceId 15",
+	"sourceName": "sourceName 15",
+	"isIndivWBusiness": true,
+	"rfc": "rfc 15",
+	"homoclave": "homoclave 15",
+	"fielNumber": "fielNumber 15",
+	"curp": "curp 15",
+	"dependents": "dependents 15",
+	"jobId": "jobId 15",
+	"email": "email 15",
+	"giroId": "giroId 15",
+	"industryId": "industryId 15",
+	"economicActivityId": "economicActivityId 15",
+	"timeInTheActivityId": "timeInTheActivityId 15",
+	"howActivityId": "howActivityId 15",
+	"howMuchBusinessId": "howMuchBusinessId 15",
+	"otherSourceId": "otherSourceId 15",
+	"timeInTheBusiness": "timeInTheBusiness 15",
+	"shopFromWhoId": "shopFromWhoId 15",
+	"monthlySalary": 3867.74,
+	"genderId": "genderId 15",
+	"birthdate": "/Date(1179446094000)/",
+	"electorKey": "electorKey 15",
+	"voterRegistration": "voterRegistration 15",
+	"countryOfBirthId": "countryOfBirthId 15",
+	"birthPlace": "birthPlace 15",
+	"nationalityId": "nationalityId 15",
+	"maritalStatusId": "maritalStatusId 15",
+	"children": "children 15",
+	"schoolLevelId": "schoolLevelId 15",
+	"houseTypeId": "houseTypeId 15",
+	"typeOfStoreId": "typeOfStoreId 15",
+	"isRelatedToGentera": true,
+	"relatedName": "relatedName 15",
+	"isPEP": true,
+	"namePEP": "namePEP 15",
+	"relationshipId": "relationshipId 15",
+	"spouse": {
+		"firstName": "firstName 15",
+		"middleName": "middleName 15",
+		"lastName": "lastName 15",
+		"secondName": "secondName 15",
+		"job": "job 15",
+		"workPhone": "workPhone 15",
+		"BPIdSpouse": "BPIdSpouse 15"
+	},
+	"serviceLevelId": "3",
+	"remainingDays": 9355,
+	"roleId": "roleId 15",
+	"collaboratorID": "collaboratorID 15",
+	"customerIdMD": "customerIdMD 15",
+	"loanRequestIdCRM": "loanRequestIdCRM 15",
+	"groupLoanData": {
+		"roleInTheGroupId": "roleInTheGroupId 15",
+		"creditAmount": 4590.13,
+		"authorizedAmount": 207.72,
+		"rejectionCauseId": "rejectionCauseId 15"
+	},
+	"individualLoanData": {
+		"yearsOnHouse": 5591,
+		"monthsOnHouse": 8049,
+		"yearsOnLocal": 6215,
+		"monthsOnLocal": 2450,
+		"totalIncomeAmount": 7080.8,
+		"totalOutcomeAmount": 5487.29,
+		"feeEnabledToPay": 6400.78,
+		"loanDestiny": "loanDestiny 15",
+		"isCreditGuaranteeWarrant": false,
+		"requiredAmount": 1891.23,
+		"proposedAmount": 9841.58,
+		"proposedFrequency": 2065.36,
+		"proposedFee": 9653.64,
+		"proposedPeriod": 5435.78,
+		"maxLiquidity": 7216.64,
+		"paymentFrequency": "paymentFrequency 15"
+	},
+	"generalLoanData": {
+		"insuranceAmount": 7591.96,
+		"controlListsResult": true,
+		"riskLevel": 9532,
+		"savingsAmount": 6824.9,
+		"dispersionMediumId": "dispersionMediumId 15",
+		"dispersionChannelId": "dispersionChannelId 15",
+		"semaphoreResultFilters": true
+	},
+	"PreLoanRequestID": "3cea5f3d-7746-4ece-aca3-a7756660e759",
+	"__metadata": {
+		"uri": "CustomerSet('BPIdCRM 15')",
+		"type": "AOMobile.Customer"
+	},
+	"PhoneSet": {
+		"__deferred": {
+			"uri": "CustomerSet('BPIdCRM 15')/PhoneSet"
+		}
+	},
+	"AddressSet": {
+		"__deferred": {
+			"uri": "CustomerSet('BPIdCRM 15')/AddressSet"
+		}
+	},
+	"PersonalReferenceSet": {
+		"__deferred": {
+			"uri": "CustomerSet('BPIdCRM 15')/PersonalReferenceSet"
+		}
+	},
+	"EmployerSet": {
+		"__deferred": {
+			"uri": "CustomerSet('BPIdCRM 15')/EmployerSet"
+		}
+	},
+	"ImageSet": {
+		"__deferred": {
+			"uri": "CustomerSet('BPIdCRM 15')/ImageSet"
+		}
+	},
+	"InsuranceSet": {
+		"__deferred": {
+			"uri": "CustomerSet('BPIdCRM 15')/InsuranceSet"
+		}
+	}
+}, {
+	"BPIdCRM": "16",
+	"leadIdCRM": "leadIdCRM 16",
+	"firstName": "firstName 16",
+	"middleName": "middleName 16",
+	"lastName": "lastName 16",
+	"secondName": "secondName 16",
+	"productId": "productId 16",
+	"serviceOfficeId": 9930,
+	"serviceOfficeName": "serviceOfficeName 16",
+	"registrationDate": "/Date(1399593294000)/",
+	"statusId": "statusId 16",
+	"statusReasonId": "statusReasonId 16",
+	"sourceId": "sourceId 16",
+	"sourceName": "sourceName 16",
+	"isIndivWBusiness": false,
+	"rfc": "rfc 16",
+	"homoclave": "homoclave 16",
+	"fielNumber": "fielNumber 16",
+	"curp": "curp 16",
+	"dependents": "dependents 16",
+	"jobId": "jobId 16",
+	"email": "email 16",
+	"giroId": "giroId 16",
+	"industryId": "industryId 16",
+	"economicActivityId": "economicActivityId 16",
+	"timeInTheActivityId": "timeInTheActivityId 16",
+	"howActivityId": "howActivityId 16",
+	"howMuchBusinessId": "howMuchBusinessId 16",
+	"otherSourceId": "otherSourceId 16",
+	"timeInTheBusiness": "timeInTheBusiness 16",
+	"shopFromWhoId": "shopFromWhoId 16",
+	"monthlySalary": 8478.68,
+	"genderId": "genderId 16",
+	"birthdate": "/Date(995327694000)/",
+	"electorKey": "electorKey 16",
+	"voterRegistration": "voterRegistration 16",
+	"countryOfBirthId": "countryOfBirthId 16",
+	"birthPlace": "birthPlace 16",
+	"nationalityId": "nationalityId 16",
+	"maritalStatusId": "maritalStatusId 16",
+	"children": "children 16",
+	"schoolLevelId": "schoolLevelId 16",
+	"houseTypeId": "houseTypeId 16",
+	"typeOfStoreId": "typeOfStoreId 16",
+	"isRelatedToGentera": false,
+	"relatedName": "relatedName 16",
+	"isPEP": false,
+	"namePEP": "namePEP 16",
+	"relationshipId": "relationshipId 16",
+	"spouse": {
+		"firstName": "firstName 16",
+		"middleName": "middleName 16",
+		"lastName": "lastName 16",
+		"secondName": "secondName 16",
+		"job": "job 16",
+		"workPhone": "workPhone 16",
+		"BPIdSpouse": "BPIdSpouse 16"
+	},
+	"serviceLevelId": "1",
+	"remainingDays": 4574,
+	"roleId": "roleId 16",
+	"collaboratorID": "collaboratorID 16",
+	"customerIdMD": "customerIdMD 16",
+	"loanRequestIdCRM": "loanRequestIdCRM 16",
+	"groupLoanData": {
+		"roleInTheGroupId": "roleInTheGroupId 16",
+		"creditAmount": 2379.25,
+		"authorizedAmount": 7339.99,
+		"rejectionCauseId": "rejectionCauseId 16"
+	},
+	"individualLoanData": {
+		"yearsOnHouse": 9687,
+		"monthsOnHouse": 5897,
+		"yearsOnLocal": 7737,
+		"monthsOnLocal": 178,
+		"totalIncomeAmount": 2732.09,
+		"totalOutcomeAmount": 9562.94,
+		"feeEnabledToPay": 8679.12,
+		"loanDestiny": "loanDestiny 16",
+		"isCreditGuaranteeWarrant": false,
+		"requiredAmount": 5033.28,
+		"proposedAmount": 1359.86,
+		"proposedFrequency": 9719.72,
+		"proposedFee": 6493.82,
+		"proposedPeriod": 3775.97,
+		"maxLiquidity": 1983.71,
+		"paymentFrequency": "paymentFrequency 16"
+	},
+	"generalLoanData": {
+		"insuranceAmount": 6114.59,
+		"controlListsResult": false,
+		"riskLevel": 7802,
+		"savingsAmount": 4680.68,
+		"dispersionMediumId": "dispersionMediumId 16",
+		"dispersionChannelId": "dispersionChannelId 16",
+		"semaphoreResultFilters": true
+	},
+	"PreLoanRequestID": "f82f0f84-4e0d-4820-b7b7-482f58fec16e",
+	"__metadata": {
+		"uri": "CustomerSet('BPIdCRM 16')",
+		"type": "AOMobile.Customer"
+	},
+	"PhoneSet": {
+		"__deferred": {
+			"uri": "CustomerSet('BPIdCRM 16')/PhoneSet"
+		}
+	},
+	"AddressSet": {
+		"__deferred": {
+			"uri": "CustomerSet('BPIdCRM 16')/AddressSet"
+		}
+	},
+	"PersonalReferenceSet": {
+		"__deferred": {
+			"uri": "CustomerSet('BPIdCRM 16')/PersonalReferenceSet"
+		}
+	},
+	"EmployerSet": {
+		"__deferred": {
+			"uri": "CustomerSet('BPIdCRM 16')/EmployerSet"
+		}
+	},
+	"ImageSet": {
+		"__deferred": {
+			"uri": "CustomerSet('BPIdCRM 16')/ImageSet"
+		}
+	},
+	"InsuranceSet": {
+		"__deferred": {
+			"uri": "CustomerSet('BPIdCRM 16')/InsuranceSet"
+		}
+	}
+}, {
+	"BPIdCRM": "17",
+	"leadIdCRM": "leadIdCRM 17",
+	"firstName": "firstName 17",
+	"middleName": "middleName 17",
+	"lastName": "lastName 17",
+	"secondName": "secondName 17",
+	"productId": "productId 17",
+	"serviceOfficeId": 1904,
+	"serviceOfficeName": "serviceOfficeName 17",
+	"registrationDate": "/Date(1437609294000)/",
+	"statusId": "statusId 17",
+	"statusReasonId": "statusReasonId 17",
+	"sourceId": "sourceId 17",
+	"sourceName": "sourceName 17",
+	"isIndivWBusiness": true,
+	"rfc": "rfc 17",
+	"homoclave": "homoclave 17",
+	"fielNumber": "fielNumber 17",
+	"curp": "curp 17",
+	"dependents": "dependents 17",
+	"jobId": "jobId 17",
+	"email": "email 17",
+	"giroId": "giroId 17",
+	"industryId": "industryId 17",
+	"economicActivityId": "economicActivityId 17",
+	"timeInTheActivityId": "timeInTheActivityId 17",
+	"howActivityId": "howActivityId 17",
+	"howMuchBusinessId": "howMuchBusinessId 17",
+	"otherSourceId": "otherSourceId 17",
+	"timeInTheBusiness": "timeInTheBusiness 17",
+	"shopFromWhoId": "shopFromWhoId 17",
+	"monthlySalary": 371.6,
+	"genderId": "genderId 17",
+	"birthdate": "/Date(960767694000)/",
+	"electorKey": "electorKey 17",
+	"voterRegistration": "voterRegistration 17",
+	"countryOfBirthId": "countryOfBirthId 17",
+	"birthPlace": "birthPlace 17",
+	"nationalityId": "nationalityId 17",
+	"maritalStatusId": "maritalStatusId 17",
+	"children": "children 17",
+	"schoolLevelId": "schoolLevelId 17",
+	"houseTypeId": "houseTypeId 17",
+	"typeOfStoreId": "typeOfStoreId 17",
+	"isRelatedToGentera": false,
+	"relatedName": "relatedName 17",
+	"isPEP": true,
+	"namePEP": "namePEP 17",
+	"relationshipId": "relationshipId 17",
+	"spouse": {
+		"firstName": "firstName 17",
+		"middleName": "middleName 17",
+		"lastName": "lastName 17",
+		"secondName": "secondName 17",
+		"job": "job 17",
+		"workPhone": "workPhone 17",
+		"BPIdSpouse": "BPIdSpouse 17"
+	},
+	"serviceLevelId": "1",
+	"remainingDays": 2307,
+	"roleId": "roleId 17",
+	"collaboratorID": "collaboratorID 17",
+	"customerIdMD": "customerIdMD 17",
+	"loanRequestIdCRM": "loanRequestIdCRM 17",
+	"groupLoanData": {
+		"roleInTheGroupId": "roleInTheGroupId 17",
+		"creditAmount": 3971.32,
+		"authorizedAmount": 2316.47,
+		"rejectionCauseId": "rejectionCauseId 17"
+	},
+	"individualLoanData": {
+		"yearsOnHouse": 6447,
+		"monthsOnHouse": 8137,
+		"yearsOnLocal": 6621,
+		"monthsOnLocal": 559,
+		"totalIncomeAmount": 2070.64,
+		"totalOutcomeAmount": 3390.64,
+		"feeEnabledToPay": 1337.52,
+		"loanDestiny": "loanDestiny 17",
+		"isCreditGuaranteeWarrant": true,
+		"requiredAmount": 6457.17,
+		"proposedAmount": 2157.14,
+		"proposedFrequency": 4920.71,
+		"proposedFee": 9990.52,
+		"proposedPeriod": 8030.69,
+		"maxLiquidity": 3530.63,
+		"paymentFrequency": "paymentFrequency 17"
+	},
+	"generalLoanData": {
+		"insuranceAmount": 8541.78,
+		"controlListsResult": false,
+		"riskLevel": 5450,
+		"savingsAmount": 9164.61,
+		"dispersionMediumId": "dispersionMediumId 17",
+		"dispersionChannelId": "dispersionChannelId 17",
+		"semaphoreResultFilters": false
+	},
+	"PreLoanRequestID": "74a0b5d3-f4db-419a-b8fa-e32418c5e40f",
+	"__metadata": {
+		"uri": "CustomerSet('BPIdCRM 17')",
+		"type": "AOMobile.Customer"
+	},
+	"PhoneSet": {
+		"__deferred": {
+			"uri": "CustomerSet('BPIdCRM 17')/PhoneSet"
+		}
+	},
+	"AddressSet": {
+		"__deferred": {
+			"uri": "CustomerSet('BPIdCRM 17')/AddressSet"
+		}
+	},
+	"PersonalReferenceSet": {
+		"__deferred": {
+			"uri": "CustomerSet('BPIdCRM 17')/PersonalReferenceSet"
+		}
+	},
+	"EmployerSet": {
+		"__deferred": {
+			"uri": "CustomerSet('BPIdCRM 17')/EmployerSet"
+		}
+	},
+	"ImageSet": {
+		"__deferred": {
+			"uri": "CustomerSet('BPIdCRM 17')/ImageSet"
+		}
+	},
+	"InsuranceSet": {
+		"__deferred": {
+			"uri": "CustomerSet('BPIdCRM 17')/InsuranceSet"
+		}
+	}
+}, {
+	"BPIdCRM": "18",
+	"leadIdCRM": "leadIdCRM 18",
+	"firstName": "firstName 18",
+	"middleName": "middleName 18",
+	"lastName": "lastName 18",
+	"secondName": "secondName 18",
+	"productId": "productId 18",
+	"serviceOfficeId": 2146,
+	"serviceOfficeName": "serviceOfficeName 18",
+	"registrationDate": "/Date(1440719694000)/",
+	"statusId": "statusId 18",
+	"statusReasonId": "statusReasonId 18",
+	"sourceId": "sourceId 18",
+	"sourceName": "sourceName 18",
+	"isIndivWBusiness": true,
+	"rfc": "rfc 18",
+	"homoclave": "homoclave 18",
+	"fielNumber": "fielNumber 18",
+	"curp": "curp 18",
+	"dependents": "dependents 18",
+	"jobId": "jobId 18",
+	"email": "email 18",
+	"giroId": "giroId 18",
+	"industryId": "industryId 18",
+	"economicActivityId": "economicActivityId 18",
+	"timeInTheActivityId": "timeInTheActivityId 18",
+	"howActivityId": "howActivityId 18",
+	"howMuchBusinessId": "howMuchBusinessId 18",
+	"otherSourceId": "otherSourceId 18",
+	"timeInTheBusiness": "timeInTheBusiness 18",
+	"shopFromWhoId": "shopFromWhoId 18",
+	"monthlySalary": 6415.37,
+	"genderId": "genderId 18",
+	"birthdate": "/Date(1467762894000)/",
+	"electorKey": "electorKey 18",
+	"voterRegistration": "voterRegistration 18",
+	"countryOfBirthId": "countryOfBirthId 18",
+	"birthPlace": "birthPlace 18",
+	"nationalityId": "nationalityId 18",
+	"maritalStatusId": "maritalStatusId 18",
+	"children": "children 18",
+	"schoolLevelId": "schoolLevelId 18",
+	"houseTypeId": "houseTypeId 18",
+	"typeOfStoreId": "typeOfStoreId 18",
+	"isRelatedToGentera": true,
+	"relatedName": "relatedName 18",
+	"isPEP": true,
+	"namePEP": "namePEP 18",
+	"relationshipId": "relationshipId 18",
+	"spouse": {
+		"firstName": "firstName 18",
+		"middleName": "middleName 18",
+		"lastName": "lastName 18",
+		"secondName": "secondName 18",
+		"job": "job 18",
+		"workPhone": "workPhone 18",
+		"BPIdSpouse": "BPIdSpouse 18"
+	},
+	"serviceLevelId": "1",
+	"remainingDays": 5279,
+	"roleId": "roleId 18",
+	"collaboratorID": "collaboratorID 18",
+	"customerIdMD": "customerIdMD 18",
+	"loanRequestIdCRM": "loanRequestIdCRM 18",
+	"groupLoanData": {
+		"roleInTheGroupId": "roleInTheGroupId 18",
+		"creditAmount": 6387.67,
+		"authorizedAmount": 498.61,
+		"rejectionCauseId": "rejectionCauseId 18"
+	},
+	"individualLoanData": {
+		"yearsOnHouse": 9796,
+		"monthsOnHouse": 1836,
+		"yearsOnLocal": 5652,
+		"monthsOnLocal": 9966,
+		"totalIncomeAmount": 3548.87,
+		"totalOutcomeAmount": 6462.28,
+		"feeEnabledToPay": 5339.45,
+		"loanDestiny": "loanDestiny 18",
+		"isCreditGuaranteeWarrant": true,
+		"requiredAmount": 6431.46,
+		"proposedAmount": 8727.05,
+		"proposedFrequency": 8844.15,
+		"proposedFee": 2366.44,
+		"proposedPeriod": 7417.31,
+		"maxLiquidity": 4522.48,
+		"paymentFrequency": "paymentFrequency 18"
+	},
+	"generalLoanData": {
+		"insuranceAmount": 910.83,
+		"controlListsResult": true,
+		"riskLevel": 414,
+		"savingsAmount": 7449.77,
+		"dispersionMediumId": "dispersionMediumId 18",
+		"dispersionChannelId": "dispersionChannelId 18",
+		"semaphoreResultFilters": false
+	},
+	"PreLoanRequestID": "fa8d6b65-6392-41fd-badb-6c07c76e316d",
+	"__metadata": {
+		"uri": "CustomerSet('BPIdCRM 18')",
+		"type": "AOMobile.Customer"
+	},
+	"PhoneSet": {
+		"__deferred": {
+			"uri": "CustomerSet('BPIdCRM 18')/PhoneSet"
+		}
+	},
+	"AddressSet": {
+		"__deferred": {
+			"uri": "CustomerSet('BPIdCRM 18')/AddressSet"
+		}
+	},
+	"PersonalReferenceSet": {
+		"__deferred": {
+			"uri": "CustomerSet('BPIdCRM 18')/PersonalReferenceSet"
+		}
+	},
+	"EmployerSet": {
+		"__deferred": {
+			"uri": "CustomerSet('BPIdCRM 18')/EmployerSet"
+		}
+	},
+	"ImageSet": {
+		"__deferred": {
+			"uri": "CustomerSet('BPIdCRM 18')/ImageSet"
+		}
+	},
+	"InsuranceSet": {
+		"__deferred": {
+			"uri": "CustomerSet('BPIdCRM 18')/InsuranceSet"
+		}
+	}
+}, {
+	"BPIdCRM": "19",
+	"leadIdCRM": "leadIdCRM 19",
+	"firstName": "firstName 19",
+	"middleName": "middleName 19",
+	"lastName": "lastName 19",
+	"secondName": "secondName 19",
+	"productId": "productId 19",
+	"serviceOfficeId": 8948,
+	"serviceOfficeName": "serviceOfficeName 19",
+	"registrationDate": "/Date(1153871694000)/",
+	"statusId": "statusId 19",
+	"statusReasonId": "statusReasonId 19",
+	"sourceId": "sourceId 19",
+	"sourceName": "sourceName 19",
+	"isIndivWBusiness": true,
+	"rfc": "rfc 19",
+	"homoclave": "homoclave 19",
+	"fielNumber": "fielNumber 19",
+	"curp": "curp 19",
+	"dependents": "dependents 19",
+	"jobId": "jobId 19",
+	"email": "email 19",
+	"giroId": "giroId 19",
+	"industryId": "industryId 19",
+	"economicActivityId": "economicActivityId 19",
+	"timeInTheActivityId": "timeInTheActivityId 19",
+	"howActivityId": "howActivityId 19",
+	"howMuchBusinessId": "howMuchBusinessId 19",
+	"otherSourceId": "otherSourceId 19",
+	"timeInTheBusiness": "timeInTheBusiness 19",
+	"shopFromWhoId": "shopFromWhoId 19",
+	"monthlySalary": 7430.19,
+	"genderId": "genderId 19",
+	"birthdate": "/Date(1342482894000)/",
+	"electorKey": "electorKey 19",
+	"voterRegistration": "voterRegistration 19",
+	"countryOfBirthId": "countryOfBirthId 19",
+	"birthPlace": "birthPlace 19",
+	"nationalityId": "nationalityId 19",
+	"maritalStatusId": "maritalStatusId 19",
+	"children": "children 19",
+	"schoolLevelId": "schoolLevelId 19",
+	"houseTypeId": "houseTypeId 19",
+	"typeOfStoreId": "typeOfStoreId 19",
+	"isRelatedToGentera": false,
+	"relatedName": "relatedName 19",
+	"isPEP": true,
+	"namePEP": "namePEP 19",
+	"relationshipId": "relationshipId 19",
+	"spouse": {
+		"firstName": "firstName 19",
+		"middleName": "middleName 19",
+		"lastName": "lastName 19",
+		"secondName": "secondName 19",
+		"job": "job 19",
+		"workPhone": "workPhone 19",
+		"BPIdSpouse": "BPIdSpouse 19"
+	},
+	"serviceLevelId": "1",
+	"remainingDays": 795,
+	"roleId": "roleId 19",
+	"collaboratorID": "collaboratorID 19",
+	"customerIdMD": "customerIdMD 19",
+	"loanRequestIdCRM": "loanRequestIdCRM 19",
+	"groupLoanData": {
+		"roleInTheGroupId": "roleInTheGroupId 19",
+		"creditAmount": 3879.38,
+		"authorizedAmount": 2951.06,
+		"rejectionCauseId": "rejectionCauseId 19"
+	},
+	"individualLoanData": {
+		"yearsOnHouse": 8495,
+		"monthsOnHouse": 8875,
+		"yearsOnLocal": 788,
+		"monthsOnLocal": 9430,
+		"totalIncomeAmount": 7386.55,
+		"totalOutcomeAmount": 731.65,
+		"feeEnabledToPay": 1091.69,
+		"loanDestiny": "loanDestiny 19",
+		"isCreditGuaranteeWarrant": true,
+		"requiredAmount": 5731.61,
+		"proposedAmount": 9609.01,
+		"proposedFrequency": 354.51,
+		"proposedFee": 3587.54,
+		"proposedPeriod": 2612.51,
+		"maxLiquidity": 3591.74,
+		"paymentFrequency": "paymentFrequency 19"
+	},
+	"generalLoanData": {
+		"insuranceAmount": 7515.01,
+		"controlListsResult": false,
+		"riskLevel": 9890,
+		"savingsAmount": 7954.92,
+		"dispersionMediumId": "dispersionMediumId 19",
+		"dispersionChannelId": "dispersionChannelId 19",
+		"semaphoreResultFilters": false
+	},
+	"PreLoanRequestID": "f919ee98-27c0-4444-9204-f7b67fa7a7c4",
+	"__metadata": {
+		"uri": "CustomerSet('BPIdCRM 19')",
+		"type": "AOMobile.Customer"
+	},
+	"PhoneSet": {
+		"__deferred": {
+			"uri": "CustomerSet('BPIdCRM 19')/PhoneSet"
+		}
+	},
+	"AddressSet": {
+		"__deferred": {
+			"uri": "CustomerSet('BPIdCRM 19')/AddressSet"
+		}
+	},
+	"PersonalReferenceSet": {
+		"__deferred": {
+			"uri": "CustomerSet('BPIdCRM 19')/PersonalReferenceSet"
+		}
+	},
+	"EmployerSet": {
+		"__deferred": {
+			"uri": "CustomerSet('BPIdCRM 19')/EmployerSet"
+		}
+	},
+	"ImageSet": {
+		"__deferred": {
+			"uri": "CustomerSet('BPIdCRM 19')/ImageSet"
+		}
+	},
+	"InsuranceSet": {
+		"__deferred": {
+			"uri": "CustomerSet('BPIdCRM 19')/InsuranceSet"
+		}
+	}
+}, {
+	"BPIdCRM": "20",
+	"leadIdCRM": "leadIdCRM 20",
+	"firstName": "firstName 20",
+	"middleName": "middleName 20",
+	"lastName": "lastName 20",
+	"secondName": "secondName 20",
+	"productId": "productId 20",
+	"serviceOfficeId": 3386,
+	"serviceOfficeName": "serviceOfficeName 20",
+	"registrationDate": "/Date(1234486494000)/",
+	"statusId": "statusId 20",
+	"statusReasonId": "statusReasonId 20",
+	"sourceId": "sourceId 20",
+	"sourceName": "sourceName 20",
+	"isIndivWBusiness": true,
+	"rfc": "rfc 20",
+	"homoclave": "homoclave 20",
+	"fielNumber": "fielNumber 20",
+	"curp": "curp 20",
+	"dependents": "dependents 20",
+	"jobId": "jobId 20",
+	"email": "email 20",
+	"giroId": "giroId 20",
+	"industryId": "industryId 20",
+	"economicActivityId": "economicActivityId 20",
+	"timeInTheActivityId": "timeInTheActivityId 20",
+	"howActivityId": "howActivityId 20",
+	"howMuchBusinessId": "howMuchBusinessId 20",
+	"otherSourceId": "otherSourceId 20",
+	"timeInTheBusiness": "timeInTheBusiness 20",
+	"shopFromWhoId": "shopFromWhoId 20",
+	"monthlySalary": 9746.81,
+	"genderId": "genderId 20",
+	"birthdate": "/Date(1195520094000)/",
+	"electorKey": "electorKey 20",
+	"voterRegistration": "voterRegistration 20",
+	"countryOfBirthId": "countryOfBirthId 20",
+	"birthPlace": "birthPlace 20",
+	"nationalityId": "nationalityId 20",
+	"maritalStatusId": "maritalStatusId 20",
+	"children": "children 20",
+	"schoolLevelId": "schoolLevelId 20",
+	"houseTypeId": "houseTypeId 20",
+	"typeOfStoreId": "typeOfStoreId 20",
+	"isRelatedToGentera": false,
+	"relatedName": "relatedName 20",
+	"isPEP": true,
+	"namePEP": "namePEP 20",
+	"relationshipId": "relationshipId 20",
+	"spouse": {
+		"firstName": "firstName 20",
+		"middleName": "middleName 20",
+		"lastName": "lastName 20",
+		"secondName": "secondName 20",
+		"job": "job 20",
+		"workPhone": "workPhone 20",
+		"BPIdSpouse": "BPIdSpouse 20"
+	},
+	"serviceLevelId": "2",
+	"remainingDays": 9385,
+	"roleId": "roleId 20",
+	"collaboratorID": "collaboratorID 20",
+	"customerIdMD": "customerIdMD 20",
+	"loanRequestIdCRM": "loanRequestIdCRM 20",
+	"groupLoanData": {
+		"roleInTheGroupId": "roleInTheGroupId 20",
+		"creditAmount": 1639.24,
+		"authorizedAmount": 5539.25,
+		"rejectionCauseId": "rejectionCauseId 20"
+	},
+	"individualLoanData": {
+		"yearsOnHouse": 3049,
+		"monthsOnHouse": 7947,
+		"yearsOnLocal": 4990,
+		"monthsOnLocal": 3361,
+		"totalIncomeAmount": 1166.84,
+		"totalOutcomeAmount": 9042.78,
+		"feeEnabledToPay": 9545.22,
+		"loanDestiny": "loanDestiny 20",
+		"isCreditGuaranteeWarrant": true,
+		"requiredAmount": 3109.27,
+		"proposedAmount": 7981.79,
+		"proposedFrequency": 1266.47,
+		"proposedFee": 4070.11,
+		"proposedPeriod": 2030.31,
+		"maxLiquidity": 5299.07,
+		"paymentFrequency": "paymentFrequency 20"
+	},
+	"generalLoanData": {
+		"insuranceAmount": 2831.57,
+		"controlListsResult": true,
+		"riskLevel": 9301,
+		"savingsAmount": 2983.55,
+		"dispersionMediumId": "dispersionMediumId 20",
+		"dispersionChannelId": "dispersionChannelId 20",
+		"semaphoreResultFilters": false
+	},
+	"PreLoanRequestID": "00a19da9-6bf6-4315-a18c-951c4674cfb4",
+	"__metadata": {
+		"uri": "CustomerSet('BPIdCRM 20')",
+		"type": "AOMobile.Customer"
+	},
+	"PhoneSet": {
+		"__deferred": {
+			"uri": "CustomerSet('BPIdCRM 20')/PhoneSet"
+		}
+	},
+	"AddressSet": {
+		"__deferred": {
+			"uri": "CustomerSet('BPIdCRM 20')/AddressSet"
+		}
+	},
+	"PersonalReferenceSet": {
+		"__deferred": {
+			"uri": "CustomerSet('BPIdCRM 20')/PersonalReferenceSet"
+		}
+	},
+	"EmployerSet": {
+		"__deferred": {
+			"uri": "CustomerSet('BPIdCRM 20')/EmployerSet"
+		}
+	},
+	"ImageSet": {
+		"__deferred": {
+			"uri": "CustomerSet('BPIdCRM 20')/ImageSet"
+		}
+	},
+	"InsuranceSet": {
+		"__deferred": {
+			"uri": "CustomerSet('BPIdCRM 20')/InsuranceSet"
+		}
+	}
+}]

@@ -1,0 +1,101 @@
+[{
+	"collaboratorID": "EDMARTINEZ",
+	"channelID": "1",
+	"mediumID": "1",
+	"channelDescription": "BANCOMER",
+	"mediumDescription": "ODP",
+	"__metadata": {
+		"uri": "ChannelMediumDispersionSet(collaboratorID='EDMARTINEZ',channelID='1',mediumID='1')",
+		"type": "AOMobile.ChannelMediumDispersion"
+	}
+}, {
+	"collaboratorID": "EDMARTINEZ",
+	"channelID": "1",
+	"mediumID": "2",
+	"channelDescription": "BANCOMER",
+	"mediumDescription": "ODP2",
+	"__metadata": {
+		"uri": "ChannelMediumDispersionSet(collaboratorID='EDMARTINEZ',channelID='2',mediumID='2')",
+		"type": "AOMobile.ChannelMediumDispersion"
+	}
+}, {
+	"collaboratorID": "EDMARTINEZ",
+	"channelID": "1",
+	"mediumID": "3",
+	"channelDescription": "BANCOMER",
+	"mediumDescription": "ODP3",
+	"__metadata": {
+		"uri": "ChannelMediumDispersionSet(collaboratorID='EDMARTINEZ',channelID='3',mediumID='3')",
+		"type": "AOMobile.ChannelMediumDispersion"
+	}
+}, {
+	"collaboratorID": "EDMARTINEZ",
+	"channelID": "1",
+	"mediumID": "4",
+	"channelDescription": "BANCOMER",
+	"mediumDescription": "ODP4",
+	"__metadata": {
+		"uri": "ChannelMediumDispersionSet(collaboratorID='EDMARTINEZ',channelID='4',mediumID='4')",
+		"type": "AOMobile.ChannelMediumDispersion"
+	}
+}, {
+	"collaboratorID": "EDMARTINEZ",
+	"channelID": "2",
+	"mediumID": "5",
+	"channelDescription": "BANAMEX",
+	"mediumDescription": "ODP",
+	"__metadata": {
+		"uri": "ChannelMediumDispersionSet(collaboratorID='EDMARTINEZ',channelID='5',mediumID='5')",
+		"type": "AOMobile.ChannelMediumDispersion"
+	}
+}, {
+	"collaboratorID": "EDMARTINEZ",
+	"channelID": "3",
+	"mediumID": "6",
+	"channelDescription": "HSBC",
+	"mediumDescription": "ODP",
+	"__metadata": {
+		"uri": "ChannelMediumDispersionSet(collaboratorID='EDMARTINEZ',channelID='6',mediumID='6')",
+		"type": "AOMobile.ChannelMediumDispersion"
+	}
+}, {
+	"collaboratorID": "EDMARTINEZ",
+	"channelID": "7",
+	"mediumID": "7",
+	"channelDescription": "COMPARTAMOS",
+	"mediumDescription": "DOP",
+	"__metadata": {
+		"uri": "ChannelMediumDispersionSet(collaboratorID='EDMARTINEZ',channelID='7',mediumID='7')",
+		"type": "AOMobile.ChannelMediumDispersion"
+	}
+}, {
+	"collaboratorID": "EDMARTINEZ",
+	"channelID": "8",
+	"mediumID": "8",
+	"channelDescription": "channelDescription 8",
+	"mediumDescription": "mediumDescription 8",
+	"__metadata": {
+		"uri": "ChannelMediumDispersionSet(collaboratorID='EDMARTINEZ',channelID='8',mediumID='8')",
+		"type": "AOMobile.ChannelMediumDispersion"
+	}
+}, {
+	"collaboratorID": "EDMARTINEZ",
+	"channelID": "9",
+	"mediumID": "9",
+	"channelDescription": "channelDescription 9",
+	"mediumDescription": "mediumDescription 9",
+	"__metadata": {
+		"uri": "ChannelMediumDispersionSet(collaboratorID='EDMARTINEZ',channelID='9',mediumID='9')",
+		"type": "AOMobile.ChannelMediumDispersion"
+	}
+}, {
+	"collaboratorID": "EDMARTINEZ",
+	"channelID": "10",
+	"mediumID": "10",
+	"channelDescription": "channelDescription 10",
+	"mediumDescription": "mediumDescription 10",
+	"__metadata": {
+		"uri": "ChannelMediumDispersionSet(collaboratorID='EDMARTINEZ',channelID='10',mediumID='10')",
+		"type": "AOMobile.ChannelMediumDispersion"
+	}
+}]

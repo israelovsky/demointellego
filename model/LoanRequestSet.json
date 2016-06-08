@@ -1,0 +1,661 @@
+[{
+    "loanRequestIdCRM": "99",
+    "isRenewal": false,
+    "startDate": "/Date(1232412903000)/",
+    "groupRequestData": {
+        "groupID": "groupID 1",
+        "groupName": "groupName 1",
+        "groupMeetingPlace": {
+            "postalCode": "57001",
+            "countryID": "countryID 1",
+            "stateId": "stateId 1",
+            "townId": "townId 1",
+            "city": "city 1",
+            "suburb": "suburb 1",
+            "street": "street 1",
+            "outsideNumber": "outsideNumber 1",
+            "betweenStreets1": "betweenStreets1 1",
+            "betweenStreets2": "betweenStreets2 1",
+            "locationReference": "locationReference 1",
+            "phoneTypeId": "phoneTypeId 1",
+            "phoneNumber": "phoneNumber 1",
+            "comments": "comments 1",
+            "internalNumber": "internalNumber 1"
+        },
+        "contractID": "contractID 1",
+        "memberIDSharingHouse": "memberIDSharingHouse 1",
+        "meetingDate": "meetingDate 1",
+        "meetingTime": "meetingTime 1",
+        "delayPenalty": "delayPenalty 1",
+        "minimumSavingsAmount": 5353.04,
+        "absencePenalty": "absencePenalty 1"
+    },
+    "collaboratorID": "EDMARTINEZ",
+    "loanRequestIdMD": "1456876832083",
+    "cycle": 0,
+    "statusId": "statusId 1",
+    "statusText": "statusText 1",
+    "firstPaymentDate": "/Date(1388624103000)/",
+    "expenditureDate": "/Date(1430524503000)/",
+    "productID": "C_GRUPAL_CCR",
+    "term": "24",
+    "frequency": "frequency 1",
+    "__metadata": {
+        "uri": "LoanRequestSet('loanRequestIdCRM 1')",
+        "type": "AOMobile.LoanRequest"
+    },
+    "CustomerSet": {
+        "__deferred": {
+            "uri": "LoanRequestSet('loanRequestIdCRM 1')/CustomerSet"
+        }
+    },
+    "ElectronicSignatureSet": {
+        "__deferred": {
+            "uri": "LoanRequestSet('loanRequestIdCRM 1')/ElectronicSignatureSet"
+        }
+    },
+    "InsuranceSet": {
+        "__deferred": {
+            "uri": "LoanRequestSet('loanRequestIdCRM 1')/InsuranceSet"
+        }
+    },
+    "IndividualLoanGuaranteeSet": {
+        "__deferred": {
+            "uri": "LoanRequestSet('loanRequestIdCRM 1')/IndividualLoanGuaranteeSet"
+        }
+    }
+}, {
+    "loanRequestIdCRM": "1",
+    "isRenewal": true,
+    "startDate": "/Date(1064793303000)/",
+    "groupRequestData": {
+        "groupID": "groupID 2",
+        "groupName": "groupName 2",
+        "groupMeetingPlace": {
+            "postalCode": "postalCode 2",
+            "countryID": "countryID 2",
+            "stateId": "stateId 2",
+            "townId": "townId 2",
+            "city": "city 2",
+            "suburb": "suburb 2",
+            "street": "street 2",
+            "outsideNumber": "outsideNumber 2",
+            "betweenStreets1": "betweenStreets1 2",
+            "betweenStreets2": "betweenStreets2 2",
+            "locationReference": "locationReference 2",
+            "phoneTypeId": "phoneTypeId 2",
+            "phoneNumber": "phoneNumber 2",
+            "comments": "comments 2",
+            "internalNumber": "internalNumber 2"
+        },
+        "contractID": "contractID 2",
+        "memberIDSharingHouse": "memberIDSharingHouse 2",
+        "meetingDate": "meetingDate 2",
+        "meetingTime": "meetingTime 2",
+        "delayPenalty": "delayPenalty 2",
+        "minimumSavingsAmount": 7878.56,
+        "absencePenalty": "absencePenalty 2"
+    },
+    "collaboratorID": "Arturo Azuma Avila",
+    "loanRequestIdMD": "loanRequestIdMD 2",
+    "cycle": 0,
+    "statusId": "statusId 2",
+    "statusText": "statusText 2",
+    "firstPaymentDate": "/Date(1562284503000)/",
+    "expenditureDate": "/Date(986169303000)/",
+    "productID": "C_GRUPAL_CCR",
+    "term": "term 2",
+    "frequency": "frequency 2",
+    "__metadata": {
+        "uri": "LoanRequestSet('1')",
+        "type": "AOMobile.LoanRequest"
+    },
+    "CustomerSet": {
+        "__deferred": {
+            "uri": "LoanRequestSet('1')/CustomerSet"
+        }
+    },
+    "ElectronicSignatureSet": {
+        "__deferred": {
+            "uri": "LoanRequestSet('1')/ElectronicSignatureSet"
+        }
+    },
+    "InsuranceSet": {
+        "__deferred": {
+            "uri": "LoanRequestSet('1')/InsuranceSet"
+        }
+    },
+    "IndividualLoanGuaranteeSet": {
+        "__deferred": {
+            "uri": "LoanRequestSet('1')/IndividualLoanGuaranteeSet"
+        }
+    }
+}, {
+    "loanRequestIdCRM": "3",
+    "isRenewal": false,
+    "startDate": "/Date(1094082903000)/",
+    "groupRequestData": {
+        "groupID": "groupID 3",
+        "groupName": "groupName 3",
+        "groupMeetingPlace": {
+            "postalCode": "postalCode 3",
+            "countryID": "countryID 3",
+            "stateId": "stateId 3",
+            "townId": "townId 3",
+            "city": "city 3",
+            "suburb": "suburb 3",
+            "street": "street 3",
+            "outsideNumber": "outsideNumber 3",
+            "betweenStreets1": "betweenStreets1 3",
+            "betweenStreets2": "betweenStreets2 3",
+            "locationReference": "locationReference 3",
+            "phoneTypeId": "phoneTypeId 3",
+            "phoneNumber": "phoneNumber 3",
+            "comments": "comments 3",
+            "internalNumber": "internalNumber 3"
+        },
+        "contractID": "contractID 3",
+        "memberIDSharingHouse": "memberIDSharingHouse 3",
+        "meetingDate": "meetingDate 3",
+        "meetingTime": "meetingTime 3",
+        "delayPenalty": "delayPenalty 3",
+        "minimumSavingsAmount": 1127.5,
+        "absencePenalty": "absencePenalty 3"
+    },
+    "collaboratorID": "EDMARTINEZ",
+    "loanRequestIdMD": "loanRequestIdMD 3",
+    "cycle": 0,
+    "statusId": "statusId 3",
+    "statusText": "statusText 3",
+    "firstPaymentDate": "/Date(1097106903000)/",
+    "expenditureDate": "/Date(1000425303000)/",
+    "productID": "C_GRUPAL_CCR",
+    "term": "term 3",
+    "frequency": "frequency 3",
+    "__metadata": {
+        "uri": "LoanRequestSet('loanRequestIdCRM 3')",
+        "type": "AOMobile.LoanRequest"
+    },
+    "CustomerSet": {
+        "__deferred": {
+            "uri": "LoanRequestSet('loanRequestIdCRM 3')/CustomerSet"
+        }
+    },
+    "ElectronicSignatureSet": {
+        "__deferred": {
+            "uri": "LoanRequestSet('loanRequestIdCRM 3')/ElectronicSignatureSet"
+        }
+    },
+    "InsuranceSet": {
+        "__deferred": {
+            "uri": "LoanRequestSet('loanRequestIdCRM 3')/InsuranceSet"
+        }
+    },
+    "IndividualLoanGuaranteeSet": {
+        "__deferred": {
+            "uri": "LoanRequestSet('loanRequestIdCRM 3')/IndividualLoanGuaranteeSet"
+        }
+    }
+}, {
+    "loanRequestIdCRM": "4",
+    "isRenewal": true,
+    "startDate": "/Date(1230166503000)/",
+    "groupRequestData": {
+        "groupID": "groupID 4",
+        "groupName": "groupName 4",
+        "groupMeetingPlace": {
+            "postalCode": "postalCode 4",
+            "countryID": "countryID 4",
+            "stateId": "stateId 4",
+            "townId": "townId 4",
+            "city": "city 4",
+            "suburb": "suburb 4",
+            "street": "street 4",
+            "outsideNumber": "outsideNumber 4",
+            "betweenStreets1": "betweenStreets1 4",
+            "betweenStreets2": "betweenStreets2 4",
+            "locationReference": "locationReference 4",
+            "phoneTypeId": "phoneTypeId 4",
+            "phoneNumber": "phoneNumber 4",
+            "comments": "comments 4",
+            "internalNumber": "internalNumber 4"
+        },
+        "contractID": "contractID 4",
+        "memberIDSharingHouse": "memberIDSharingHouse 4",
+        "meetingDate": "meetingDate 4",
+        "meetingTime": "meetingTime 4",
+        "delayPenalty": "delayPenalty 4",
+        "minimumSavingsAmount": 2124.64,
+        "absencePenalty": "absencePenalty 4"
+    },
+    "collaboratorID": "EDMARTINEZ",
+    "loanRequestIdMD": "loanRequestIdMD 4",
+    "cycle": 9768,
+    "statusId": "statusId 4",
+    "statusText": "statusText 4",
+    "firstPaymentDate": "/Date(1132102503000)/",
+    "expenditureDate": "/Date(1346111703000)/",
+    "productID": "C_GRUPAL_CCR",
+    "term": "term 4",
+    "frequency": "frequency 4",
+    "__metadata": {
+        "uri": "LoanRequestSet('loanRequestIdCRM 4')",
+        "type": "AOMobile.LoanRequest"
+    },
+    "CustomerSet": {
+        "__deferred": {
+            "uri": "LoanRequestSet('loanRequestIdCRM 4')/CustomerSet"
+        }
+    },
+    "ElectronicSignatureSet": {
+        "__deferred": {
+            "uri": "LoanRequestSet('loanRequestIdCRM 4')/ElectronicSignatureSet"
+        }
+    },
+    "InsuranceSet": {
+        "__deferred": {
+            "uri": "LoanRequestSet('loanRequestIdCRM 4')/InsuranceSet"
+        }
+    },
+    "IndividualLoanGuaranteeSet": {
+        "__deferred": {
+            "uri": "LoanRequestSet('loanRequestIdCRM 4')/IndividualLoanGuaranteeSet"
+        }
+    }
+}, {
+    "loanRequestIdCRM": "5",
+    "isRenewal": true,
+    "startDate": "/Date(1212623703000)/",
+    "groupRequestData": {
+        "groupID": "groupID 5",
+        "groupName": "groupName 5",
+        "groupMeetingPlace": {
+            "postalCode": "postalCode 5",
+            "countryID": "countryID 5",
+            "stateId": "stateId 5",
+            "townId": "townId 5",
+            "city": "city 5",
+            "suburb": "suburb 5",
+            "street": "street 5",
+            "outsideNumber": "outsideNumber 5",
+            "betweenStreets1": "betweenStreets1 5",
+            "betweenStreets2": "betweenStreets2 5",
+            "locationReference": "locationReference 5",
+            "phoneTypeId": "phoneTypeId 5",
+            "phoneNumber": "phoneNumber 5",
+            "comments": "comments 5",
+            "internalNumber": "internalNumber 5"
+        },
+        "contractID": "contractID 5",
+        "memberIDSharingHouse": "memberIDSharingHouse 5",
+        "meetingDate": "meetingDate 5",
+        "meetingTime": "meetingTime 5",
+        "delayPenalty": "delayPenalty 5",
+        "minimumSavingsAmount": 3976.23,
+        "absencePenalty": "absencePenalty 5"
+    },
+    "collaboratorID": "EDMARTINEZ",
+    "loanRequestIdMD": "loanRequestIdMD 5",
+    "cycle": 1014,
+    "statusId": "statusId 5",
+    "statusText": "statusText 5",
+    "firstPaymentDate": "/Date(1282694103000)/",
+    "expenditureDate": "/Date(1309305303000)/",
+    "productID": "C_GRUPAL_CCR",
+    "term": "term 5",
+    "frequency": "frequency 5",
+    "__metadata": {
+        "uri": "LoanRequestSet('loanRequestIdCRM 5')",
+        "type": "AOMobile.LoanRequest"
+    },
+    "CustomerSet": {
+        "__deferred": {
+            "uri": "LoanRequestSet('loanRequestIdCRM 5')/CustomerSet"
+        }
+    },
+    "ElectronicSignatureSet": {
+        "__deferred": {
+            "uri": "LoanRequestSet('loanRequestIdCRM 5')/ElectronicSignatureSet"
+        }
+    },
+    "InsuranceSet": {
+        "__deferred": {
+            "uri": "LoanRequestSet('loanRequestIdCRM 5')/InsuranceSet"
+        }
+    },
+    "IndividualLoanGuaranteeSet": {
+        "__deferred": {
+            "uri": "LoanRequestSet('loanRequestIdCRM 5')/IndividualLoanGuaranteeSet"
+        }
+    }
+}, {
+    "loanRequestIdCRM": "6",
+    "isRenewal": false,
+    "startDate": "/Date(1454720103000)/",
+    "groupRequestData": {
+        "groupID": "groupID 6",
+        "groupName": "groupName 6",
+        "groupMeetingPlace": {
+            "postalCode": "postalCode 6",
+            "countryID": "countryID 6",
+            "stateId": "stateId 6",
+            "townId": "townId 6",
+            "city": "city 6",
+            "suburb": "suburb 6",
+            "street": "street 6",
+            "outsideNumber": "outsideNumber 6",
+            "betweenStreets1": "betweenStreets1 6",
+            "betweenStreets2": "betweenStreets2 6",
+            "locationReference": "locationReference 6",
+            "phoneTypeId": "phoneTypeId 6",
+            "phoneNumber": "phoneNumber 6",
+            "comments": "comments 6",
+            "internalNumber": "internalNumber 6"
+        },
+        "contractID": "contractID 6",
+        "memberIDSharingHouse": "memberIDSharingHouse 6",
+        "meetingDate": "meetingDate 6",
+        "meetingTime": "meetingTime 6",
+        "delayPenalty": "delayPenalty 6",
+        "minimumSavingsAmount": 7468.98,
+        "absencePenalty": "absencePenalty 6"
+    },
+    "collaboratorID": "EDMARTINEZ",
+    "loanRequestIdMD": "loanRequestIdMD 6",
+    "cycle": 4123,
+    "statusId": "statusId 6",
+    "statusText": "statusText 6",
+    "firstPaymentDate": "/Date(1234659303000)/",
+    "expenditureDate": "/Date(1058572503000)/",
+    "productID": "C_GRUPAL_CCR",
+    "term": "term 6",
+    "frequency": "frequency 6",
+    "__metadata": {
+        "uri": "LoanRequestSet('loanRequestIdCRM 6')",
+        "type": "AOMobile.LoanRequest"
+    },
+    "CustomerSet": {
+        "__deferred": {
+            "uri": "LoanRequestSet('loanRequestIdCRM 6')/CustomerSet"
+        }
+    },
+    "ElectronicSignatureSet": {
+        "__deferred": {
+            "uri": "LoanRequestSet('loanRequestIdCRM 6')/ElectronicSignatureSet"
+        }
+    },
+    "InsuranceSet": {
+        "__deferred": {
+            "uri": "LoanRequestSet('loanRequestIdCRM 6')/InsuranceSet"
+        }
+    },
+    "IndividualLoanGuaranteeSet": {
+        "__deferred": {
+            "uri": "LoanRequestSet('loanRequestIdCRM 6')/IndividualLoanGuaranteeSet"
+        }
+    }
+}, {
+    "loanRequestIdCRM": "7",
+    "isRenewal": true,
+    "startDate": "/Date(1212882903000)/",
+    "groupRequestData": {
+        "groupID": "groupID 7",
+        "groupName": "",
+        "groupMeetingPlace": {
+            "postalCode": "postalCode 7",
+            "countryID": "countryID 7",
+            "stateId": "stateId 7",
+            "townId": "townId 7",
+            "city": "city 7",
+            "suburb": "suburb 7",
+            "street": "street 7",
+            "outsideNumber": "outsideNumber 7",
+            "betweenStreets1": "betweenStreets1 7",
+            "betweenStreets2": "betweenStreets2 7",
+            "locationReference": "locationReference 7",
+            "phoneTypeId": "phoneTypeId 7",
+            "phoneNumber": "phoneNumber 7",
+            "comments": "comments 7",
+            "internalNumber": "internalNumber 7"
+        },
+        "contractID": "contractID 7",
+        "memberIDSharingHouse": "memberIDSharingHouse 7",
+        "meetingDate": "meetingDate 7",
+        "meetingTime": "meetingTime 7",
+        "delayPenalty": "delayPenalty 7",
+        "minimumSavingsAmount": 9742.17,
+        "absencePenalty": "absencePenalty 7"
+    },
+    "collaboratorID": "EDMARTINEZ",
+    "loanRequestIdMD": "loanRequestIdMD 7",
+    "cycle": 1907,
+    "statusId": "statusId 7",
+    "statusText": "statusText 7",
+    "firstPaymentDate": "/Date(1251158103000)/",
+    "expenditureDate": "/Date(1020642903000)/",
+    "productID": "C_IND_CI",
+    "term": "7",
+    "frequency": "frequency 7",
+    "__metadata": {
+        "uri": "LoanRequestSet('loanRequestIdCRM 7')",
+        "type": "AOMobile.LoanRequest"
+    },
+    "CustomerSet": {
+        "__deferred": {
+            "uri": "LoanRequestSet('loanRequestIdCRM 7')/CustomerSet"
+        }
+    },
+    "ElectronicSignatureSet": {
+        "__deferred": {
+            "uri": "LoanRequestSet('loanRequestIdCRM 7')/ElectronicSignatureSet"
+        }
+    },
+    "InsuranceSet": {
+        "__deferred": {
+            "uri": "LoanRequestSet('loanRequestIdCRM 7')/InsuranceSet"
+        }
+    },
+    "IndividualLoanGuaranteeSet": {
+        "__deferred": {
+            "uri": "LoanRequestSet('loanRequestIdCRM 7')/IndividualLoanGuaranteeSet"
+        }
+    }
+}, {
+    "loanRequestIdCRM": "8",
+    "isRenewal": false,
+    "startDate": "/Date(1118620503000)/",
+    "groupRequestData": {
+        "groupID": "groupID 8",
+        "groupName": "",
+        "groupMeetingPlace": {
+            "postalCode": "postalCode 8",
+            "countryID": "countryID 8",
+            "stateId": "stateId 8",
+            "townId": "townId 8",
+            "city": "city 8",
+            "suburb": "suburb 8",
+            "street": "street 8",
+            "outsideNumber": "outsideNumber 8",
+            "betweenStreets1": "betweenStreets1 8",
+            "betweenStreets2": "betweenStreets2 8",
+            "locationReference": "locationReference 8",
+            "phoneTypeId": "phoneTypeId 8",
+            "phoneNumber": "phoneNumber 8",
+            "comments": "comments 8",
+            "internalNumber": "internalNumber 8"
+        },
+        "contractID": "contractID 8",
+        "memberIDSharingHouse": "memberIDSharingHouse 8",
+        "meetingDate": "meetingDate 8",
+        "meetingTime": "meetingTime 8",
+        "delayPenalty": "delayPenalty 8",
+        "minimumSavingsAmount": 9695.11,
+        "absencePenalty": "absencePenalty 8"
+    },
+    "collaboratorID": "collaboratorID 8",
+    "loanRequestIdMD": "loanRequestIdMD 8",
+    "cycle": 1611,
+    "statusId": "statusId 8",
+    "statusText": "statusText 8",
+    "firstPaymentDate": "/Date(1446598503000)/",
+    "expenditureDate": "/Date(1454288103000)/",
+    "productID": "C_IND_CI",
+    "term": "term 8",
+    "frequency": "frequency 8",
+    "__metadata": {
+        "uri": "LoanRequestSet('loanRequestIdCRM 8')",
+        "type": "AOMobile.LoanRequest"
+    },
+    "CustomerSet": {
+        "__deferred": {
+            "uri": "LoanRequestSet('loanRequestIdCRM 8')/CustomerSet"
+        }
+    },
+    "ElectronicSignatureSet": {
+        "__deferred": {
+            "uri": "LoanRequestSet('loanRequestIdCRM 8')/ElectronicSignatureSet"
+        }
+    },
+    "InsuranceSet": {
+        "__deferred": {
+            "uri": "LoanRequestSet('loanRequestIdCRM 8')/InsuranceSet"
+        }
+    },
+    "IndividualLoanGuaranteeSet": {
+        "__deferred": {
+            "uri": "LoanRequestSet('loanRequestIdCRM 8')/IndividualLoanGuaranteeSet"
+        }
+    }
+}, {
+    "loanRequestIdCRM": "9",
+    "isRenewal": true,
+    "startDate": "/Date(1569455703000)/",
+    "groupRequestData": {
+        "groupID": "groupID 9",
+        "groupName": "groupName 9",
+        "groupMeetingPlace": {
+            "postalCode": "postalCode 9",
+            "countryID": "countryID 9",
+            "stateId": "stateId 9",
+            "townId": "townId 9",
+            "city": "city 9",
+            "suburb": "suburb 9",
+            "street": "street 9",
+            "outsideNumber": "outsideNumber 9",
+            "betweenStreets1": "betweenStreets1 9",
+            "betweenStreets2": "betweenStreets2 9",
+            "locationReference": "locationReference 9",
+            "phoneTypeId": "phoneTypeId 9",
+            "phoneNumber": "phoneNumber 9",
+            "comments": "comments 9",
+            "internalNumber": "internalNumber 9"
+        },
+        "contractID": "contractID 9",
+        "memberIDSharingHouse": "memberIDSharingHouse 9",
+        "meetingDate": "meetingDate 9",
+        "meetingTime": "meetingTime 9",
+        "delayPenalty": "delayPenalty 9",
+        "minimumSavingsAmount": 5325.51,
+        "absencePenalty": "absencePenalty 9"
+    },
+    "collaboratorID": "collaboratorID 9",
+    "loanRequestIdMD": "loanRequestIdMD 9",
+    "cycle": 170,
+    "statusId": "statusId 9",
+    "statusText": "statusText 9",
+    "firstPaymentDate": "/Date(1342137303000)/",
+    "expenditureDate": "/Date(1044924903000)/",
+    "productID": "C_GRUPAL_CCR",
+    "term": "term 9",
+    "frequency": "frequency 9",
+    "__metadata": {
+        "uri": "LoanRequestSet('loanRequestIdCRM 9')",
+        "type": "AOMobile.LoanRequest"
+    },
+    "CustomerSet": {
+        "__deferred": {
+            "uri": "LoanRequestSet('loanRequestIdCRM 9')/CustomerSet"
+        }
+    },
+    "ElectronicSignatureSet": {
+        "__deferred": {
+            "uri": "LoanRequestSet('loanRequestIdCRM 9')/ElectronicSignatureSet"
+        }
+    },
+    "InsuranceSet": {
+        "__deferred": {
+            "uri": "LoanRequestSet('loanRequestIdCRM 9')/InsuranceSet"
+        }
+    },
+    "IndividualLoanGuaranteeSet": {
+        "__deferred": {
+            "uri": "LoanRequestSet('loanRequestIdCRM 9')/IndividualLoanGuaranteeSet"
+        }
+    }
+}, {
+    "loanRequestIdCRM": "loanRequestIdCRM 10",
+    "isRenewal": false,
+    "startDate": "/Date(1141001703000)/",
+    "groupRequestData": {
+        "groupID": "groupID 10",
+        "groupName": "groupName 10",
+        "groupMeetingPlace": {
+            "postalCode": "postalCode 10",
+            "countryID": "countryID 10",
+            "stateId": "stateId 10",
+            "townId": "townId 10",
+            "city": "city 10",
+            "suburb": "suburb 10",
+            "street": "street 10",
+            "outsideNumber": "outsideNumber 10",
+            "betweenStreets1": "betweenStreets1 10",
+            "betweenStreets2": "betweenStreets2 10",
+            "locationReference": "locationReference 10",
+            "phoneTypeId": "phoneTypeId 10",
+            "phoneNumber": "phoneNumber 10",
+            "comments": "comments 10",
+            "internalNumber": "internalNumber 10"
+        },
+        "contractID": "contractID 10",
+        "memberIDSharingHouse": "memberIDSharingHouse 10",
+        "meetingDate": "meetingDate 10",
+        "meetingTime": "meetingTime 10",
+        "delayPenalty": "delayPenalty 10",
+        "minimumSavingsAmount": 9172.46,
+        "absencePenalty": "absencePenalty 10"
+    },
+    "collaboratorID": "collaboratorID 10",
+    "loanRequestIdMD": "loanRequestIdMD 10",
+    "cycle": 8145,
+    "statusId": "statusId 10",
+    "statusText": "statusText 10",
+    "firstPaymentDate": "/Date(1543712103000)/",
+    "expenditureDate": "/Date(1428796503000)/",
+    "productID": "C_GRUPAL_CCR0",
+    "term": "term 10",
+    "frequency": "frequency 10",
+    "__metadata": {
+        "uri": "LoanRequestSet('loanRequestIdCRM 10')",
+        "type": "AOMobile.LoanRequest"
+    },
+    "CustomerSet": {
+        "__deferred": {
+            "uri": "LoanRequestSet('loanRequestIdCRM 10')/CustomerSet"
+        }
+    },
+    "ElectronicSignatureSet": {
+        "__deferred": {
+            "uri": "LoanRequestSet('loanRequestIdCRM 10')/ElectronicSignatureSet"
+        }
+    },
+    "InsuranceSet": {
+        "__deferred": {
+            "uri": "LoanRequestSet('loanRequestIdCRM 10')/InsuranceSet"
+        }
+    },
+    "IndividualLoanGuaranteeSet": {
+        "__deferred": {
+            "uri": "LoanRequestSet('loanRequestIdCRM 10')/IndividualLoanGuaranteeSet"
+        }
+    }
+}]

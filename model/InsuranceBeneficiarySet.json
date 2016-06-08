@@ -1,0 +1,141 @@
+[{
+	"insuranceBeneficiaryID": "insuranceBeneficiaryID 1",
+	"beneficiaryType": "beneficiaryType 1",
+	"beneficiaryFirstName": "beneficiaryFirstName 1",
+	"beneficiaryMiddleName": "beneficiaryMiddleName 1",
+	"beneficiaryLastName": "beneficiaryLastName 1",
+	"beneficiarySecondName": "beneficiarySecondName 1",
+	"beneficaryGenderID": "beneficaryGenderID 1",
+	"beneficiaryRelationship": "beneficiaryRelationship 1",
+	"beneficiaryBirthday": "/Date(1356721519000)/",
+	"__metadata": {
+		"uri": "InsuranceBeneficiarySet('insuranceBeneficiaryID 1')",
+		"type": "AOMobile.InsuranceBeneficiary"
+	}
+}, {
+	"insuranceBeneficiaryID": "insuranceBeneficiaryID 2",
+	"beneficiaryType": "beneficiaryType 2",
+	"beneficiaryFirstName": "beneficiaryFirstName 2",
+	"beneficiaryMiddleName": "beneficiaryMiddleName 2",
+	"beneficiaryLastName": "beneficiaryLastName 2",
+	"beneficiarySecondName": "beneficiarySecondName 2",
+	"beneficaryGenderID": "beneficaryGenderID 2",
+	"beneficiaryRelationship": "beneficiaryRelationship 2",
+	"beneficiaryBirthday": "/Date(1106679919000)/",
+	"__metadata": {
+		"uri": "InsuranceBeneficiarySet('insuranceBeneficiaryID 2')",
+		"type": "AOMobile.InsuranceBeneficiary"
+	}
+}, {
+	"insuranceBeneficiaryID": "insuranceBeneficiaryID 3",
+	"beneficiaryType": "beneficiaryType 3",
+	"beneficiaryFirstName": "beneficiaryFirstName 3",
+	"beneficiaryMiddleName": "beneficiaryMiddleName 3",
+	"beneficiaryLastName": "beneficiaryLastName 3",
+	"beneficiarySecondName": "beneficiarySecondName 3",
+	"beneficaryGenderID": "beneficaryGenderID 3",
+	"beneficiaryRelationship": "beneficiaryRelationship 3",
+	"beneficiaryBirthday": "/Date(1052762719000)/",
+	"__metadata": {
+		"uri": "InsuranceBeneficiarySet('insuranceBeneficiaryID 3')",
+		"type": "AOMobile.InsuranceBeneficiary"
+	}
+}, {
+	"insuranceBeneficiaryID": "insuranceBeneficiaryID 4",
+	"beneficiaryType": "beneficiaryType 4",
+	"beneficiaryFirstName": "beneficiaryFirstName 4",
+	"beneficiaryMiddleName": "beneficiaryMiddleName 4",
+	"beneficiaryLastName": "beneficiaryLastName 4",
+	"beneficiarySecondName": "beneficiarySecondName 4",
+	"beneficaryGenderID": "beneficaryGenderID 4",
+	"beneficiaryRelationship": "beneficiaryRelationship 4",
+	"beneficiaryBirthday": "/Date(1497290719000)/",
+	"__metadata": {
+		"uri": "InsuranceBeneficiarySet('insuranceBeneficiaryID 4')",
+		"type": "AOMobile.InsuranceBeneficiary"
+	}
+}, {
+	"insuranceBeneficiaryID": "insuranceBeneficiaryID 5",
+	"beneficiaryType": "beneficiaryType 5",
+	"beneficiaryFirstName": "beneficiaryFirstName 5",
+	"beneficiaryMiddleName": "beneficiaryMiddleName 5",
+	"beneficiaryLastName": "beneficiaryLastName 5",
+	"beneficiarySecondName": "beneficiarySecondName 5",
+	"beneficaryGenderID": "beneficaryGenderID 5",
+	"beneficiaryRelationship": "beneficiaryRelationship 5",
+	"beneficiaryBirthday": "/Date(1466445919000)/",
+	"__metadata": {
+		"uri": "InsuranceBeneficiarySet('insuranceBeneficiaryID 5')",
+		"type": "AOMobile.InsuranceBeneficiary"
+	}
+}, {
+	"insuranceBeneficiaryID": "insuranceBeneficiaryID 6",
+	"beneficiaryType": "beneficiaryType 6",
+	"beneficiaryFirstName": "beneficiaryFirstName 6",
+	"beneficiaryMiddleName": "beneficiaryMiddleName 6",
+	"beneficiaryLastName": "beneficiaryLastName 6",
+	"beneficiarySecondName": "beneficiarySecondName 6",
+	"beneficaryGenderID": "beneficaryGenderID 6",
+	"beneficiaryRelationship": "beneficiaryRelationship 6",
+	"beneficiaryBirthday": "/Date(1242151519000)/",
+	"__metadata": {
+		"uri": "InsuranceBeneficiarySet('insuranceBeneficiaryID 6')",
+		"type": "AOMobile.InsuranceBeneficiary"
+	}
+}, {
+	"insuranceBeneficiaryID": "insuranceBeneficiaryID 7",
+	"beneficiaryType": "beneficiaryType 7",
+	"beneficiaryFirstName": "beneficiaryFirstName 7",
+	"beneficiaryMiddleName": "beneficiaryMiddleName 7",
+	"beneficiaryLastName": "beneficiaryLastName 7",
+	"beneficiarySecondName": "beneficiarySecondName 7",
+	"beneficaryGenderID": "beneficaryGenderID 7",
+	"beneficiaryRelationship": "beneficiaryRelationship 7",
+	"beneficiaryBirthday": "/Date(1399658719000)/",
+	"__metadata": {
+		"uri": "InsuranceBeneficiarySet('insuranceBeneficiaryID 7')",
+		"type": "AOMobile.InsuranceBeneficiary"
+	}
+}, {
+	"insuranceBeneficiaryID": "insuranceBeneficiaryID 8",
+	"beneficiaryType": "beneficiaryType 8",
+	"beneficiaryFirstName": "beneficiaryFirstName 8",
+	"beneficiaryMiddleName": "beneficiaryMiddleName 8",
+	"beneficiaryLastName": "beneficiaryLastName 8",
+	"beneficiarySecondName": "beneficiarySecondName 8",
+	"beneficaryGenderID": "beneficaryGenderID 8",
+	"beneficiaryRelationship": "beneficiaryRelationship 8",
+	"beneficiaryBirthday": "/Date(1488395119000)/",
+	"__metadata": {
+		"uri": "InsuranceBeneficiarySet('insuranceBeneficiaryID 8')",
+		"type": "AOMobile.InsuranceBeneficiary"
+	}
+}, {
+	"insuranceBeneficiaryID": "insuranceBeneficiaryID 9",
+	"beneficiaryType": "beneficiaryType 9",
+	"beneficiaryFirstName": "beneficiaryFirstName 9",
+	"beneficiaryMiddleName": "beneficiaryMiddleName 9",
+	"beneficiaryLastName": "beneficiaryLastName 9",
+	"beneficiarySecondName": "beneficiarySecondName 9",
+	"beneficaryGenderID": "beneficaryGenderID 9",
+	"beneficiaryRelationship": "beneficiaryRelationship 9",
+	"beneficiaryBirthday": "/Date(1266951919000)/",
+	"__metadata": {
+		"uri": "InsuranceBeneficiarySet('insuranceBeneficiaryID 9')",
+		"type": "AOMobile.InsuranceBeneficiary"
+	}
+}, {
+	"insuranceBeneficiaryID": "insuranceBeneficiaryID 10",
+	"beneficiaryType": "beneficiaryType 10",
+	"beneficiaryFirstName": "beneficiaryFirstName 10",
+	"beneficiaryMiddleName": "beneficiaryMiddleName 10",
+	"beneficiaryLastName": "beneficiaryLastName 10",
+	"beneficiarySecondName": "beneficiarySecondName 10",
+	"beneficaryGenderID": "beneficaryGenderID 10",
+	"beneficiaryRelationship": "beneficiaryRelationship 10",
+	"beneficiaryBirthday": "/Date(1452020719000)/",
+	"__metadata": {
+		"uri": "InsuranceBeneficiarySet('insuranceBeneficiaryID 10')",
+		"type": "AOMobile.InsuranceBeneficiary"
+	}
+}]

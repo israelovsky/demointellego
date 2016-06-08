@@ -1,0 +1,131 @@
+[{
+	"ImageIdSharepoint": "ImageIdSharepoint 1",
+	"documentId": "documentId 1",
+	"imageBase64": "imageBase64 1",
+	"BPIdCRM": "1",
+	"insuranceID": "insuranceID 1",
+	"isReceived": "isReceived 1",
+	"documentStatusId": "documentStatusId 1",
+	"documentStatusText": "Validado Aceptado",
+	"__metadata": {
+		"uri": "ImageSet('ImageIdSharepoint 1')",
+		"type": "AOMobile.Image"
+	}
+}, {
+	"ImageIdSharepoint": "ImageIdSharepoint 2",
+	"documentId": "documentId 2",
+	"imageBase64": "imageBase64 2",
+	"BPIdCRM": "1",
+	"insuranceID": "insuranceID 2",
+	"isReceived": "isReceived 2",
+	"documentStatusId": "documentStatusId 2",
+	"documentStatusText": "Validado Aceptado",
+	"__metadata": {
+		"uri": "ImageSet('ImageIdSharepoint 2')",
+		"type": "AOMobile.Image"
+	}
+}, {
+	"ImageIdSharepoint": "ImageIdSharepoint 3",
+	"documentId": "documentId 3",
+	"imageBase64": "imageBase64 3",
+	"BPIdCRM": "1",
+	"insuranceID": "insuranceID 3",
+	"isReceived": "isReceived 3",
+	"documentStatusId": "documentStatusId 3",
+	"documentStatusText": "Validado Aceptado",
+	"__metadata": {
+		"uri": "ImageSet('ImageIdSharepoint 3')",
+		"type": "AOMobile.Image"
+	}
+}, {
+	"ImageIdSharepoint": "ImageIdSharepoint 4",
+	"documentId": "documentId 4",
+	"imageBase64": "imageBase64 4",
+	"BPIdCRM": "1",
+	"insuranceID": "insuranceID 4",
+	"isReceived": "isReceived 4",
+	"documentStatusId": "documentStatusId 4",
+	"documentStatusText": "Validado Aceptado",
+	"__metadata": {
+		"uri": "ImageSet('ImageIdSharepoint 4')",
+		"type": "AOMobile.Image"
+	}
+}, {
+	"ImageIdSharepoint": "ImageIdSharepoint 5",
+	"documentId": "documentId 5",
+	"imageBase64": "imageBase64 5",
+	"BPIdCRM": "1",
+	"insuranceID": "insuranceID 5",
+	"isReceived": "isReceived 5",
+	"documentStatusId": "documentStatusId 5",
+	"documentStatusText": "Validado Aceptado",
+	"__metadata": {
+		"uri": "ImageSet('ImageIdSharepoint 5')",
+		"type": "AOMobile.Image"
+	}
+}, {
+	"ImageIdSharepoint": "ImageIdSharepoint 6",
+	"documentId": "documentId 6",
+	"imageBase64": "imageBase64 6",
+	"BPIdCRM": "1",
+	"insuranceID": "insuranceID 6",
+	"isReceived": "isReceived 6",
+	"documentStatusId": "documentStatusId 6",
+	"documentStatusText": "Validado Aceptado",
+	"__metadata": {
+		"uri": "ImageSet('ImageIdSharepoint 6')",
+		"type": "AOMobile.Image"
+	}
+}, {
+	"ImageIdSharepoint": "ImageIdSharepoint 7",
+	"documentId": "documentId 7",
+	"imageBase64": "imageBase64 7",
+	"BPIdCRM": "1",
+	"insuranceID": "insuranceID 7",
+	"isReceived": "isReceived 7",
+	"documentStatusId": "documentStatusId 7",
+	"documentStatusText": "Validado Aceptado",
+	"__metadata": {
+		"uri": "ImageSet('ImageIdSharepoint 7')",
+		"type": "AOMobile.Image"
+	}
+}, {
+	"ImageIdSharepoint": "ImageIdSharepoint 8",
+	"documentId": "documentId 8",
+	"imageBase64": "imageBase64 8",
+	"BPIdCRM": "1",
+	"insuranceID": "insuranceID 8",
+	"isReceived": "isReceived 8",
+	"documentStatusId": "documentStatusId 8",
+	"documentStatusText": "Validado Aceptado",
+	"__metadata": {
+		"uri": "ImageSet('ImageIdSharepoint 8')",
+		"type": "AOMobile.Image"
+	}
+}, {
+	"ImageIdSharepoint": "ImageIdSharepoint 9",
+	"documentId": "documentId 9",
+	"imageBase64": "imageBase64 9",
+	"BPIdCRM": "1",
+	"insuranceID": "insuranceID 9",
+	"isReceived": "isReceived 9",
+	"documentStatusId": "documentStatusId 9",
+	"documentStatusText": "Validado Aceptado",
+	"__metadata": {
+		"uri": "ImageSet('ImageIdSharepoint 9')",
+		"type": "AOMobile.Image"
+	}
+}, {
+	"ImageIdSharepoint": "ImageIdSharepoint 10",
+	"documentId": "documentId 10",
+	"imageBase64": "imageBase64 10",
+	"BPIdCRM": "1",
+	"insuranceID": "insuranceID 10",
+	"isReceived": "isReceived 10",
+	"documentStatusId": "documentStatusId 10",
+	"documentStatusText": "Validado Aceptado",
+	"__metadata": {
+		"uri": "ImageSet('ImageIdSharepoint 10')",
+		"type": "AOMobile.Image"
+	}
+}]

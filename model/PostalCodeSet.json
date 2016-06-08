@@ -1,0 +1,151 @@
+[{
+	"code": "56600",
+	"suburbName": "LAS HUERTAS",
+	"countryId": "MX",
+	"countryName": "México",
+	"stateId": "EM",
+	"stateName": "MEXICO",
+	"townId": "",
+	"townName": "CHALCO",
+	"city": "CHALCO DE DIAZ COVARRUBIAS",
+	"collaboratorID": "EDMARTINEZ",
+	"__metadata": {
+		"uri": "PostalCodeSet(code='code 1',suburbName='suburbName')",
+		"type": "AOMobile.PostalCode"
+	}
+}, {
+	"code": "03800",
+	"suburbName": "SAN PEDRO DE LOS PINOS",
+	"countryId": "MX",
+	"countryName": "MEXICO",
+	"stateId": "DF",
+	"stateName": "DF",
+	"townId": "BENITO JUAREZ",
+	"townName": "BENITO JUAREZ",
+	"city": "DF",
+	"collaboratorID": "EDMARTINEZ",
+	"__metadata": {
+		"uri": "PostalCodeSet(code='code 2',suburbName='suburbName 2')",
+		"type": "AOMobile.PostalCode"
+	}
+}, {
+	"code": "code 3",
+	"suburbName": "suburbName 3",
+	"countryId": "countryId 3",
+	"countryName": "countryName 3",
+	"stateId": "stateId 3",
+	"stateName": "stateName 3",
+	"townId": "townId 3",
+	"townName": "townName 3",
+	"city": "city 3",
+	"collaboratorID": "collaboratorID 3",
+	"__metadata": {
+		"uri": "PostalCodeSet(code='code 3',suburbName='suburbName 3')",
+		"type": "AOMobile.PostalCode"
+	}
+}, {
+	"code": "code 4",
+	"suburbName": "suburbName 4",
+	"countryId": "countryId 4",
+	"countryName": "countryName 4",
+	"stateId": "stateId 4",
+	"stateName": "stateName 4",
+	"townId": "townId 4",
+	"townName": "townName 4",
+	"city": "city 4",
+	"collaboratorID": "collaboratorID 4",
+	"__metadata": {
+		"uri": "PostalCodeSet(code='code 4',suburbName='suburbName 4')",
+		"type": "AOMobile.PostalCode"
+	}
+}, {
+	"code": "code 5",
+	"suburbName": "suburbName 5",
+	"countryId": "countryId 5",
+	"countryName": "countryName 5",
+	"stateId": "stateId 5",
+	"stateName": "stateName 5",
+	"townId": "townId 5",
+	"townName": "townName 5",
+	"city": "city 5",
+	"collaboratorID": "collaboratorID 5",
+	"__metadata": {
+		"uri": "PostalCodeSet(code='code 5',suburbName='suburbName 5')",
+		"type": "AOMobile.PostalCode"
+	}
+}, {
+	"code": "code 6",
+	"suburbName": "suburbName 6",
+	"countryId": "countryId 6",
+	"countryName": "countryName 6",
+	"stateId": "stateId 6",
+	"stateName": "stateName 6",
+	"townId": "townId 6",
+	"townName": "townName 6",
+	"city": "city 6",
+	"collaboratorID": "collaboratorID 6",
+	"__metadata": {
+		"uri": "PostalCodeSet(code='code 6',suburbName='suburbName 6')",
+		"type": "AOMobile.PostalCode"
+	}
+}, {
+	"code": "code 7",
+	"suburbName": "suburbName 7",
+	"countryId": "countryId 7",
+	"countryName": "countryName 7",
+	"stateId": "stateId 7",
+	"stateName": "stateName 7",
+	"townId": "townId 7",
+	"townName": "townName 7",
+	"city": "city 7",
+	"collaboratorID": "collaboratorID 7",
+	"__metadata": {
+		"uri": "PostalCodeSet(code='code 7',suburbName='suburbName 7')",
+		"type": "AOMobile.PostalCode"
+	}
+}, {
+	"code": "code 8",
+	"suburbName": "suburbName 8",
+	"countryId": "countryId 8",
+	"countryName": "countryName 8",
+	"stateId": "stateId 8",
+	"stateName": "stateName 8",
+	"townId": "townId 8",
+	"townName": "townName 8",
+	"city": "city 8",
+	"collaboratorID": "collaboratorID 8",
+	"__metadata": {
+		"uri": "PostalCodeSet(code='code 8',suburbName='suburbName 8')",
+		"type": "AOMobile.PostalCode"
+	}
+}, {
+	"code": "code 9",
+	"suburbName": "suburbName 9",
+	"countryId": "countryId 9",
+	"countryName": "countryName 9",
+	"stateId": "stateId 9",
+	"stateName": "stateName 9",
+	"townId": "townId 9",
+	"townName": "townName 9",
+	"city": "city 9",
+	"collaboratorID": "collaboratorID 9",
+	"__metadata": {
+		"uri": "PostalCodeSet(code='code 9',suburbName='suburbName 9')",
+		"type": "AOMobile.PostalCode"
+	}
+}, {
+	"code": "code 10",
+	"suburbName": "suburbName 10",
+	"countryId": "countryId 10",
+	"countryName": "countryName 10",
+	"stateId": "stateId 10",
+	"stateName": "stateName 10",
+	"townId": "townId 10",
+	"townName": "townName 10",
+	"city": "city 10",
+	"collaboratorID": "collaboratorID 10",
+	"__metadata": {
+		"uri": "PostalCodeSet(code='code 10',suburbName='suburbName 10')",
+		"type": "AOMobile.PostalCode"
+	}
+}]

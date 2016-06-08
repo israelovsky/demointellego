@@ -1,0 +1,71 @@
+[{
+	"insuranceModalityID": "insuranceModalityID 1",
+	"insuranceModalityDesc": "insuranceModalityDesc 1",
+	"__metadata": {
+		"uri": "InsuranceModalitySet('insuranceModalityID 1')",
+		"type": "AOMobile.InsuranceModality"
+	}
+}, {
+	"insuranceModalityID": "insuranceModalityID 2",
+	"insuranceModalityDesc": "insuranceModalityDesc 2",
+	"__metadata": {
+		"uri": "InsuranceModalitySet('insuranceModalityID 2')",
+		"type": "AOMobile.InsuranceModality"
+	}
+}, {
+	"insuranceModalityID": "insuranceModalityID 3",
+	"insuranceModalityDesc": "insuranceModalityDesc 3",
+	"__metadata": {
+		"uri": "InsuranceModalitySet('insuranceModalityID 3')",
+		"type": "AOMobile.InsuranceModality"
+	}
+}, {
+	"insuranceModalityID": "insuranceModalityID 4",
+	"insuranceModalityDesc": "insuranceModalityDesc 4",
+	"__metadata": {
+		"uri": "InsuranceModalitySet('insuranceModalityID 4')",
+		"type": "AOMobile.InsuranceModality"
+	}
+}, {
+	"insuranceModalityID": "insuranceModalityID 5",
+	"insuranceModalityDesc": "insuranceModalityDesc 5",
+	"__metadata": {
+		"uri": "InsuranceModalitySet('insuranceModalityID 5')",
+		"type": "AOMobile.InsuranceModality"
+	}
+}, {
+	"insuranceModalityID": "insuranceModalityID 6",
+	"insuranceModalityDesc": "insuranceModalityDesc 6",
+	"__metadata": {
+		"uri": "InsuranceModalitySet('insuranceModalityID 6')",
+		"type": "AOMobile.InsuranceModality"
+	}
+}, {
+	"insuranceModalityID": "insuranceModalityID 7",
+	"insuranceModalityDesc": "insuranceModalityDesc 7",
+	"__metadata": {
+		"uri": "InsuranceModalitySet('insuranceModalityID 7')",
+		"type": "AOMobile.InsuranceModality"
+	}
+}, {
+	"insuranceModalityID": "insuranceModalityID 8",
+	"insuranceModalityDesc": "insuranceModalityDesc 8",
+	"__metadata": {
+		"uri": "InsuranceModalitySet('insuranceModalityID 8')",
+		"type": "AOMobile.InsuranceModality"
+	}
+}, {
+	"insuranceModalityID": "insuranceModalityID 9",
+	"insuranceModalityDesc": "insuranceModalityDesc 9",
+	"__metadata": {
+		"uri": "InsuranceModalitySet('insuranceModalityID 9')",
+		"type": "AOMobile.InsuranceModality"
+	}
+}, {
+	"insuranceModalityID": "insuranceModalityID 10",
+	"insuranceModalityDesc": "insuranceModalityDesc 10",
+	"__metadata": {
+		"uri": "InsuranceModalitySet('insuranceModalityID 10')",
+		"type": "AOMobile.InsuranceModality"
+	}
+}]

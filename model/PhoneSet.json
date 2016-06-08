@@ -1,0 +1,93 @@
+[{
+	"customerIdMD": "BD47CAA324426EB51454864622447",
+	"phoneTypeId": "5",
+	"BPIdCRM": "0060049704",
+	"customerIdMD": "BD47CAA324426EB51454864622447",
+	"phoneNumber": "5557994723",
+	"__metadata": {
+		"uri": "PhoneSet(phoneTypeId='phoneTypeId 1',BPIdCRM='BPIdCRM 1')",
+		"type": "AOMobile.Phone"
+	}
+}, {
+	"customerIdMD": "BD47CAA324426EB51454864622447",
+	"phoneTypeId": "3",
+	"BPIdCRM": "0060049704",
+	"phoneNumber": "5799472455",
+	"__metadata": {
+		"uri": "PhoneSet(phoneTypeId='phoneTypeId 2',BPIdCRM='BPIdCRM 2')",
+		"type": "AOMobile.Phone"
+	}
+}, {
+	"customerIdMD": "BD47CAA324426EB51454864622447",
+	"phoneTypeId": "2",
+	"BPIdCRM": "0060049704",
+	"phoneNumber": "5557994721",
+	"__metadata": {
+		"uri": "PhoneSet(phoneTypeId='phoneTypeId 3',BPIdCRM='BPIdCRM 3')",
+		"type": "AOMobile.Phone"
+	}
+}, {
+	"customerIdMD": "BD47CAA324426EB51454864622447",
+	"phoneTypeId": "1",
+	"BPIdCRM": "0060049704",
+	"phoneNumber": "5557994723",
+	"__metadata": {
+		"uri": "PhoneSet(phoneTypeId='phoneTypeId 4',BPIdCRM='BPIdCRM 4')",
+		"type": "AOMobile.Phone"
+	}
+}, {
+	"customerIdMD": "",
+	"phoneTypeId": "1",
+	"BPIdCRM": "0060048898",
+	"phoneNumber": "5557994723",
+	"__metadata": {
+		"uri": "PhoneSet(phoneTypeId='phoneTypeId 5',BPIdCRM='BPIdCRM 5')",
+		"type": "AOMobile.Phone"
+	}
+}, {
+	"customerIdMD": "",
+	"phoneTypeId": "2",
+	"BPIdCRM": "0060048648",
+	"phoneNumber": "5585308492",
+	"__metadata": {
+		"uri": "PhoneSet(phoneTypeId='phoneTypeId 6',BPIdCRM='BPIdCRM 6')",
+		"type": "AOMobile.Phone"
+	}
+}, {
+	"customerIdMD": "BD47CAA324426EB51454606552071",
+	"phoneTypeId": "1",
+	"BPIdCRM": "0060049177",
+	"phoneNumber": "5557994723",
+	"__metadata": {
+		"uri": "PhoneSet(phoneTypeId='phoneTypeId 7',BPIdCRM='BPIdCRM 7')",
+		"type": "AOMobile.Phone"
+	}
+}, {
+	"customerIdMD": "",
+	"phoneTypeId": "1",
+	"BPIdCRM": "0060048623",
+	"phoneNumber": "5557994723",
+	"__metadata": {
+		"uri": "PhoneSet(phoneTypeId='phoneTypeId 8',BPIdCRM='BPIdCRM 8')",
+		"type": "AOMobile.Phone"
+	}
+}, {
+	"customerIdMD": "",
+	"phoneTypeId": "2",
+	"BPIdCRM": "0060048623",
+	"phoneNumber": "5557994724",
+	"customerIdMD": "customerIdMD 9",
+	"__metadata": {
+		"uri": "PhoneSet(phoneTypeId='phoneTypeId 9',BPIdCRM='BPIdCRM 9')",
+		"type": "AOMobile.Phone"
+	}
+}, {
+	"customerIdMD": "BD47CAA324426EB51454477904489",
+	"phoneTypeId": "1",
+	"BPIdCRM": "0060049037",
+	"phoneNumber": "5557994723",
+	"__metadata": {
+		"uri": "PhoneSet(phoneTypeId='phoneTypeId 10',BPIdCRM='BPIdCRM 10')",
+		"type": "AOMobile.Phone"
+	}
+}]

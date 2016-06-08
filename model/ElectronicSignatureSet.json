@@ -1,0 +1,121 @@
+[{
+	"ImageIdSharepoint": "ImageIdSharepoint 1",
+	"typeOfSignature": "typeOfSignature 1",
+	"imageBase64": "imageBase64 1",
+	"nameRAndE": "nameRAndE 1",
+	"loanRequestIdCRM": "99",
+	"BPIdCRM": "1",
+	"collaboratorID": "collaboratorID 1",
+	"__metadata": {
+		"uri": "ElectronicSignatureSet('ImageIdSharepoint 1')",
+		"type": "AOMobile.ElectronicSignature"
+	}
+}, {
+	"ImageIdSharepoint": "ImageIdSharepoint 2",
+	"typeOfSignature": "typeOfSignature 2",
+	"imageBase64": "imageBase64 2",
+	"nameRAndE": "nameRAndE 2",
+	"loanRequestIdCRM": "loanRequestIdCRM 2",
+	"BPIdCRM": "BPIdCRM 2",
+	"collaboratorID": "collaboratorID 2",
+	"__metadata": {
+		"uri": "ElectronicSignatureSet('ImageIdSharepoint 2')",
+		"type": "AOMobile.ElectronicSignature"
+	}
+}, {
+	"ImageIdSharepoint": "ImageIdSharepoint 3",
+	"typeOfSignature": "typeOfSignature 3",
+	"imageBase64": "imageBase64 3",
+	"nameRAndE": "nameRAndE 3",
+	"loanRequestIdCRM": "loanRequestIdCRM 3",
+	"BPIdCRM": "BPIdCRM 3",
+	"collaboratorID": "collaboratorID 3",
+	"__metadata": {
+		"uri": "ElectronicSignatureSet('ImageIdSharepoint 3')",
+		"type": "AOMobile.ElectronicSignature"
+	}
+}, {
+	"ImageIdSharepoint": "ImageIdSharepoint 4",
+	"typeOfSignature": "typeOfSignature 4",
+	"imageBase64": "imageBase64 4",
+	"nameRAndE": "nameRAndE 4",
+	"loanRequestIdCRM": "loanRequestIdCRM 4",
+	"BPIdCRM": "BPIdCRM 4",
+	"collaboratorID": "collaboratorID 4",
+	"__metadata": {
+		"uri": "ElectronicSignatureSet('ImageIdSharepoint 4')",
+		"type": "AOMobile.ElectronicSignature"
+	}
+}, {
+	"ImageIdSharepoint": "ImageIdSharepoint 5",
+	"typeOfSignature": "typeOfSignature 5",
+	"imageBase64": "imageBase64 5",
+	"nameRAndE": "nameRAndE 5",
+	"loanRequestIdCRM": "99",
+	"BPIdCRM": "BPIdCRM 5",
+	"collaboratorID": "collaboratorID 5",
+	"__metadata": {
+		"uri": "ElectronicSignatureSet('ImageIdSharepoint 5')",
+		"type": "AOMobile.ElectronicSignature"
+	}
+}, {
+	"ImageIdSharepoint": "ImageIdSharepoint 6",
+	"typeOfSignature": "typeOfSignature 6",
+	"imageBase64": "imageBase64 6",
+	"nameRAndE": "nameRAndE 6",
+	"loanRequestIdCRM": "loanRequestIdCRM 6",
+	"BPIdCRM": "BPIdCRM 6",
+	"collaboratorID": "collaboratorID 6",
+	"__metadata": {
+		"uri": "ElectronicSignatureSet('ImageIdSharepoint 6')",
+		"type": "AOMobile.ElectronicSignature"
+	}
+}, {
+	"ImageIdSharepoint": "ImageIdSharepoint 7",
+	"typeOfSignature": "typeOfSignature 7",
+	"imageBase64": "imageBase64 7",
+	"nameRAndE": "nameRAndE 7",
+	"loanRequestIdCRM": "loanRequestIdCRM 7",
+	"BPIdCRM": "BPIdCRM 7",
+	"collaboratorID": "collaboratorID 7",
+	"__metadata": {
+		"uri": "ElectronicSignatureSet('ImageIdSharepoint 7')",
+		"type": "AOMobile.ElectronicSignature"
+	}
+}, {
+	"ImageIdSharepoint": "ImageIdSharepoint 8",
+	"typeOfSignature": "typeOfSignature 8",
+	"imageBase64": "imageBase64 8",
+	"nameRAndE": "nameRAndE 8",
+	"loanRequestIdCRM": "loanRequestIdCRM 8",
+	"BPIdCRM": "BPIdCRM 8",
+	"collaboratorID": "collaboratorID 8",
+	"__metadata": {
+		"uri": "ElectronicSignatureSet('ImageIdSharepoint 8')",
+		"type": "AOMobile.ElectronicSignature"
+	}
+}, {
+	"ImageIdSharepoint": "ImageIdSharepoint 9",
+	"typeOfSignature": "typeOfSignature 9",
+	"imageBase64": "imageBase64 9",
+	"nameRAndE": "nameRAndE 9",
+	"loanRequestIdCRM": "loanRequestIdCRM 9",
+	"BPIdCRM": "BPIdCRM 9",
+	"collaboratorID": "collaboratorID 9",
+	"__metadata": {
+		"uri": "ElectronicSignatureSet('ImageIdSharepoint 9')",
+		"type": "AOMobile.ElectronicSignature"
+	}
+}, {
+	"ImageIdSharepoint": "ImageIdSharepoint 10",
+	"typeOfSignature": "typeOfSignature 10",
+	"imageBase64": "imageBase64 10",
+	"nameRAndE": "nameRAndE 10",
+	"loanRequestIdCRM": "loanRequestIdCRM 10",
+	"BPIdCRM": "BPIdCRM 10",
+	"collaboratorID": "collaboratorID 10",
+	"__metadata": {
+		"uri": "ElectronicSignatureSet('ImageIdSharepoint 10')",
+		"type": "AOMobile.ElectronicSignature"
+	}
+}]

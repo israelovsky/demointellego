@@ -1,0 +1,25 @@
+[{
+	"notificationID": "notificationID 1",
+	"promoterID": "promoterID 1",
+	"dateTime": "/Date(1296584242000)/",
+	"status": "status 1",
+	"objectTypeID": "1",
+	"objectIDMD": "1461084505898",
+	"objectCRMID": "objectCRMID 1",
+	"__metadata": {
+		"uri": "SystemNotificationSet('notificationID 1')",
+		"type": "AOMobile.SystemNotification"
+	}
+}, {
+	"notificationID": "notificationID 2",
+	"promoterID": "promoterID 2",
+	"dateTime": "/Date(1380820642000)/",
+	"status": "status 2",
+	"objectTypeID": "2",
+	"objectIDMD": "2",
+	"objectCRMID": "objectCRMID 2",
+	"__metadata": {
+		"uri": "SystemNotificationSet('notificationID 2')",
+		"type": "AOMobile.SystemNotification"
+	}
+}]

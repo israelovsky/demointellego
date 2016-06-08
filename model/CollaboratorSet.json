@@ -1,0 +1,271 @@
+[{
+	"collaboratorID": "LARISMENDI",
+	"collaboratorName": "LARISMENDI",
+	"__metadata": {
+		"uri": "CollaboratorSet('LARISMENDI')",
+		"type": "AOMobile.Collaborator"
+	},
+	"PostalCodeSet": {
+		"__deferred": {
+			"uri": "CollaboratorSet('LARISMENDI')/PostalCodeSet"
+		}
+	},
+	"ProductSet": {
+		"__deferred": {
+			"uri": "CollaboratorSet('LARISMENDI')/ProductSet"
+		}
+	},
+	"CustomerSet": {
+		"__deferred": {
+			"uri": "CollaboratorSet('LARISMENDI')/CustomerSet"
+		}
+	},
+	"LoanRequestSet": {
+		"__deferred": {
+			"uri": "CollaboratorSet('LARISMENDI')/LoanRequestSet"
+		}
+	}
+}, {
+	"collaboratorID": "collaboratorID 2",
+	"collaboratorName": "collaboratorName 2",
+	"__metadata": {
+		"uri": "CollaboratorSet('collaboratorID 2')",
+		"type": "AOMobile.Collaborator"
+	},
+	"PostalCodeSet": {
+		"__deferred": {
+			"uri": "CollaboratorSet('collaboratorID 2')/PostalCodeSet"
+		}
+	},
+	"ProductSet": {
+		"__deferred": {
+			"uri": "CollaboratorSet('collaboratorID 2')/ProductSet"
+		}
+	},
+	"CustomerSet": {
+		"__deferred": {
+			"uri": "CollaboratorSet('collaboratorID 2')/CustomerSet"
+		}
+	},
+	"LoanRequestSet": {
+		"__deferred": {
+			"uri": "CollaboratorSet('collaboratorID 2')/LoanRequestSet"
+		}
+	}
+}, {
+	"collaboratorID": "collaboratorID 3",
+	"collaboratorName": "collaboratorName 3",
+	"__metadata": {
+		"uri": "CollaboratorSet('collaboratorID 3')",
+		"type": "AOMobile.Collaborator"
+	},
+	"PostalCodeSet": {
+		"__deferred": {
+			"uri": "CollaboratorSet('collaboratorID 3')/PostalCodeSet"
+		}
+	},
+	"ProductSet": {
+		"__deferred": {
+			"uri": "CollaboratorSet('collaboratorID 3')/ProductSet"
+		}
+	},
+	"CustomerSet": {
+		"__deferred": {
+			"uri": "CollaboratorSet('collaboratorID 3')/CustomerSet"
+		}
+	},
+	"LoanRequestSet": {
+		"__deferred": {
+			"uri": "CollaboratorSet('collaboratorID 3')/LoanRequestSet"
+		}
+	}
+}, {
+	"collaboratorID": "collaboratorID 4",
+	"collaboratorName": "collaboratorName 4",
+	"__metadata": {
+		"uri": "CollaboratorSet('collaboratorID 4')",
+		"type": "AOMobile.Collaborator"
+	},
+	"PostalCodeSet": {
+		"__deferred": {
+			"uri": "CollaboratorSet('collaboratorID 4')/PostalCodeSet"
+		}
+	},
+	"ProductSet": {
+		"__deferred": {
+			"uri": "CollaboratorSet('collaboratorID 4')/ProductSet"
+		}
+	},
+	"CustomerSet": {
+		"__deferred": {
+			"uri": "CollaboratorSet('collaboratorID 4')/CustomerSet"
+		}
+	},
+	"LoanRequestSet": {
+		"__deferred": {
+			"uri": "CollaboratorSet('collaboratorID 4')/LoanRequestSet"
+		}
+	}
+}, {
+	"collaboratorID": "collaboratorID 5",
+	"collaboratorName": "collaboratorName 5",
+	"__metadata": {
+		"uri": "CollaboratorSet('collaboratorID 5')",
+		"type": "AOMobile.Collaborator"
+	},
+	"PostalCodeSet": {
+		"__deferred": {
+			"uri": "CollaboratorSet('collaboratorID 5')/PostalCodeSet"
+		}
+	},
+	"ProductSet": {
+		"__deferred": {
+			"uri": "CollaboratorSet('collaboratorID 5')/ProductSet"
+		}
+	},
+	"CustomerSet": {
+		"__deferred": {
+			"uri": "CollaboratorSet('collaboratorID 5')/CustomerSet"
+		}
+	},
+	"LoanRequestSet": {
+		"__deferred": {
+			"uri": "CollaboratorSet('collaboratorID 5')/LoanRequestSet"
+		}
+	}
+}, {
+	"collaboratorID": "collaboratorID 6",
+	"collaboratorName": "collaboratorName 6",
+	"__metadata": {
+		"uri": "CollaboratorSet('collaboratorID 6')",
+		"type": "AOMobile.Collaborator"
+	},
+	"PostalCodeSet": {
+		"__deferred": {
+			"uri": "CollaboratorSet('collaboratorID 6')/PostalCodeSet"
+		}
+	},
+	"ProductSet": {
+		"__deferred": {
+			"uri": "CollaboratorSet('collaboratorID 6')/ProductSet"
+		}
+	},
+	"CustomerSet": {
+		"__deferred": {
+			"uri": "CollaboratorSet('collaboratorID 6')/CustomerSet"
+		}
+	},
+	"LoanRequestSet": {
+		"__deferred": {
+			"uri": "CollaboratorSet('collaboratorID 6')/LoanRequestSet"
+		}
+	}
+}, {
+	"collaboratorID": "collaboratorID 7",
+	"collaboratorName": "collaboratorName 7",
+	"__metadata": {
+		"uri": "CollaboratorSet('collaboratorID 7')",
+		"type": "AOMobile.Collaborator"
+	},
+	"PostalCodeSet": {
+		"__deferred": {
+			"uri": "CollaboratorSet('collaboratorID 7')/PostalCodeSet"
+		}
+	},
+	"ProductSet": {
+		"__deferred": {
+			"uri": "CollaboratorSet('collaboratorID 7')/ProductSet"
+		}
+	},
+	"CustomerSet": {
+		"__deferred": {
+			"uri": "CollaboratorSet('collaboratorID 7')/CustomerSet"
+		}
+	},
+	"LoanRequestSet": {
+		"__deferred": {
+			"uri": "CollaboratorSet('collaboratorID 7')/LoanRequestSet"
+		}
+	}
+}, {
+	"collaboratorID": "collaboratorID 8",
+	"collaboratorName": "collaboratorName 8",
+	"__metadata": {
+		"uri": "CollaboratorSet('collaboratorID 8')",
+		"type": "AOMobile.Collaborator"
+	},
+	"PostalCodeSet": {
+		"__deferred": {
+			"uri": "CollaboratorSet('collaboratorID 8')/PostalCodeSet"
+		}
+	},
+	"ProductSet": {
+		"__deferred": {
+			"uri": "CollaboratorSet('collaboratorID 8')/ProductSet"
+		}
+	},
+	"CustomerSet": {
+		"__deferred": {
+			"uri": "CollaboratorSet('collaboratorID 8')/CustomerSet"
+		}
+	},
+	"LoanRequestSet": {
+		"__deferred": {
+			"uri": "CollaboratorSet('collaboratorID 8')/LoanRequestSet"
+		}
+	}
+}, {
+	"collaboratorID": "collaboratorID 9",
+	"collaboratorName": "collaboratorName 9",
+	"__metadata": {
+		"uri": "CollaboratorSet('collaboratorID 9')",
+		"type": "AOMobile.Collaborator"
+	},
+	"PostalCodeSet": {
+		"__deferred": {
+			"uri": "CollaboratorSet('collaboratorID 9')/PostalCodeSet"
+		}
+	},
+	"ProductSet": {
+		"__deferred": {
+			"uri": "CollaboratorSet('collaboratorID 9')/ProductSet"
+		}
+	},
+	"CustomerSet": {
+		"__deferred": {
+			"uri": "CollaboratorSet('collaboratorID 9')/CustomerSet"
+		}
+	},
+	"LoanRequestSet": {
+		"__deferred": {
+			"uri": "CollaboratorSet('collaboratorID 9')/LoanRequestSet"
+		}
+	}
+}, {
+	"collaboratorID": "LARISMENDI0",
+	"collaboratorName": "collaboratorName 10",
+	"__metadata": {
+		"uri": "CollaboratorSet('LARISMENDI0')",
+		"type": "AOMobile.Collaborator"
+	},
+	"PostalCodeSet": {
+		"__deferred": {
+			"uri": "CollaboratorSet('LARISMENDI0')/PostalCodeSet"
+		}
+	},
+	"ProductSet": {
+		"__deferred": {
+			"uri": "CollaboratorSet('LARISMENDI0')/ProductSet"
+		}
+	},
+	"CustomerSet": {
+		"__deferred": {
+			"uri": "CollaboratorSet('LARISMENDI0')/CustomerSet"
+		}
+	},
+	"LoanRequestSet": {
+		"__deferred": {
+			"uri": "CollaboratorSet('LARISMENDI0')/LoanRequestSet"
+		}
+	}
+}]

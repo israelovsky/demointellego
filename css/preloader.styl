@@ -1,0 +1,93 @@
+vendors = official
+//style colors
+backgroundColor = #fff
+colorStroke1 = #4285F4
+colorStroke2 = #DE3E35
+colorStroke3 = #F7C223
+colorStroke4 = #1B9A59
+
+//Clase de estilo del loader
+html,body
+	background-color backgroundColor !important
+#preloader
+	height 100%
+	overflow-x hidden !important
+	overflow hidden !important
+	background-color backgroundColor !important
+	padding-top 3em !important
+	text-align center !important
+	color white
+	font-family verdana !important
+.preloader-logo
+	padding 1em !important
+.preloader-legend
+	padding-top 2em !important
+.spinner
+	-webkit-animation rotator 1.4s linear infinite
+	animation rotator 1.4s linear infinite
+.path
+	stroke-dasharray 187
+	stroke-dashoffset 0
+	-webkit-transform-origin center
+	-ms-transform-origin center
+	transform-origin center
+	-webkit-animation dash 1.4s ease-in-out infinite, colors 5.6s ease-in-out infinite
+	animation dash 1.4s ease-in-out infinite colors, 5.6s ease-in-out infinite
+@-webkit-keyframes rotator
+	0%
+		-webkit-transform rotate(0deg)
+		transform rotate(0deg)
+	100%
+		-webkit-transform rotate(270deg)
+		transform rotate(270deg)
+@keyframes rotator
+	0%
+		-webkit-transform rotate(0deg)
+		transform rotate(0deg)
+	100%
+		-webkit-transform rotate(270deg)
+		transform rotate(270deg)
+@-webkit-keyframes colors
+	0%
+		stroke colorStroke1
+	25%
+		stroke colorStroke2
+	50%
+		stroke colorStroke3
+	75%
+		stroke colorStroke4
+	100%
+		stroke colorStroke1
+@keyframes colors
+	0%
+		stroke colorStroke1
+	25%
+		stroke colorStroke2
+	50%
+		stroke colorStroke3
+	75%
+		stroke colorStroke4
+	100%
+		stroke colorStroke1
+@-webkit-keyframes dash
+	0%
+		stroke-dashoffset 187
+	50%
+		stroke-dashoffset 46.75
+		-webkit-transform rotate (135deg)
+		transform rotate (135deg)
+	100%
+		stroke-dashoffset 187
+		-webkit-transform rotate (450deg)
+		transform rotate (450deg)
+@keyframes dash
+	0%
+		stroke-dashoffset 187
+	50%
+		stroke-dashoffset 46.75
+		-webkit-transform rotate (135deg)
+		transform rotate (135deg)
+	100%
+		stroke-dashoffset 187
+		-webkit-transform rotate (450deg)
+		transform rotate (450deg)

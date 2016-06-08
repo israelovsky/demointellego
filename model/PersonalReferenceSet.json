@@ -1,0 +1,131 @@
+[{
+	"BPIdCRM": "0060048648",
+	"firstName": "firstName 1",
+	"middleName": "middleName 1",
+	"lastName": "lastName 1",
+	"secondName": "secondName 1",
+	"phone": "phone 1",
+	"referenceTypeID": "referenceTypeID 1",
+	"BPIdCRMCmr": "BPIdCRMCmr 1",
+	"__metadata": {
+		"uri": "PersonalReferenceSet('BPIdCRM 1')",
+		"type": "AOMobile.PersonalReference"
+	}
+}, {
+	"BPIdCRM": "BPIdCRM 2",
+	"firstName": "firstName 2",
+	"middleName": "middleName 2",
+	"lastName": "lastName 2",
+	"secondName": "secondName 2",
+	"phone": "phone 2",
+	"referenceTypeID": "referenceTypeID 2",
+	"BPIdCRMCmr": "BPIdCRMCmr 2",
+	"__metadata": {
+		"uri": "PersonalReferenceSet('BPIdCRM 2')",
+		"type": "AOMobile.PersonalReference"
+	}
+}, {
+	"BPIdCRM": "BPIdCRM 3",
+	"firstName": "firstName 3",
+	"middleName": "middleName 3",
+	"lastName": "lastName 3",
+	"secondName": "secondName 3",
+	"phone": "phone 3",
+	"referenceTypeID": "referenceTypeID 3",
+	"BPIdCRMCmr": "BPIdCRMCmr 3",
+	"__metadata": {
+		"uri": "PersonalReferenceSet('BPIdCRM 3')",
+		"type": "AOMobile.PersonalReference"
+	}
+}, {
+	"BPIdCRM": "BPIdCRM 4",
+	"firstName": "firstName 4",
+	"middleName": "middleName 4",
+	"lastName": "lastName 4",
+	"secondName": "secondName 4",
+	"phone": "phone 4",
+	"referenceTypeID": "referenceTypeID 4",
+	"BPIdCRMCmr": "BPIdCRMCmr 4",
+	"__metadata": {
+		"uri": "PersonalReferenceSet('BPIdCRM 4')",
+		"type": "AOMobile.PersonalReference"
+	}
+}, {
+	"BPIdCRM": "BPIdCRM 5",
+	"firstName": "firstName 5",
+	"middleName": "middleName 5",
+	"lastName": "lastName 5",
+	"secondName": "secondName 5",
+	"phone": "phone 5",
+	"referenceTypeID": "referenceTypeID 5",
+	"BPIdCRMCmr": "BPIdCRMCmr 5",
+	"__metadata": {
+		"uri": "PersonalReferenceSet('BPIdCRM 5')",
+		"type": "AOMobile.PersonalReference"
+	}
+}, {
+	"BPIdCRM": "BPIdCRM 6",
+	"firstName": "firstName 6",
+	"middleName": "middleName 6",
+	"lastName": "lastName 6",
+	"secondName": "secondName 6",
+	"phone": "phone 6",
+	"referenceTypeID": "referenceTypeID 6",
+	"BPIdCRMCmr": "BPIdCRMCmr 6",
+	"__metadata": {
+		"uri": "PersonalReferenceSet('BPIdCRM 6')",
+		"type": "AOMobile.PersonalReference"
+	}
+}, {
+	"BPIdCRM": "BPIdCRM 7",
+	"firstName": "firstName 7",
+	"middleName": "middleName 7",
+	"lastName": "lastName 7",
+	"secondName": "secondName 7",
+	"phone": "phone 7",
+	"referenceTypeID": "referenceTypeID 7",
+	"BPIdCRMCmr": "BPIdCRMCmr 7",
+	"__metadata": {
+		"uri": "PersonalReferenceSet('BPIdCRM 7')",
+		"type": "AOMobile.PersonalReference"
+	}
+}, {
+	"BPIdCRM": "BPIdCRM 8",
+	"firstName": "firstName 8",
+	"middleName": "middleName 8",
+	"lastName": "lastName 8",
+	"secondName": "secondName 8",
+	"phone": "phone 8",
+	"referenceTypeID": "referenceTypeID 8",
+	"BPIdCRMCmr": "BPIdCRMCmr 8",
+	"__metadata": {
+		"uri": "PersonalReferenceSet('BPIdCRM 8')",
+		"type": "AOMobile.PersonalReference"
+	}
+}, {
+	"BPIdCRM": "BPIdCRM 9",
+	"firstName": "firstName 9",
+	"middleName": "middleName 9",
+	"lastName": "lastName 9",
+	"secondName": "secondName 9",
+	"phone": "phone 9",
+	"referenceTypeID": "referenceTypeID 9",
+	"BPIdCRMCmr": "BPIdCRMCmr 9",
+	"__metadata": {
+		"uri": "PersonalReferenceSet('BPIdCRM 9')",
+		"type": "AOMobile.PersonalReference"
+	}
+}, {
+	"BPIdCRM": "BPIdCRM 10",
+	"firstName": "firstName 10",
+	"middleName": "middleName 10",
+	"lastName": "lastName 10",
+	"secondName": "secondName 10",
+	"phone": "phone 10",
+	"referenceTypeID": "referenceTypeID 10",
+	"BPIdCRMCmr": "BPIdCRMCmr 10",
+	"__metadata": {
+		"uri": "PersonalReferenceSet('BPIdCRM 10')",
+		"type": "AOMobile.PersonalReference"
+	}
+}]

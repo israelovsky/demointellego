@@ -1,0 +1,81 @@
+[{
+	"propPeriod": "propPeriod 1",
+	"propAmount": 6010.99,
+	"propFee": 7980.73,
+	"__metadata": {
+		"uri": "SimulatorResponseSet('propPeriod 1')",
+		"type": "AOMobile.SimulatorResponse"
+	}
+}, {
+	"propPeriod": "propPeriod 2",
+	"propAmount": 2806.6,
+	"propFee": 4275.39,
+	"__metadata": {
+		"uri": "SimulatorResponseSet('propPeriod 2')",
+		"type": "AOMobile.SimulatorResponse"
+	}
+}, {
+	"propPeriod": "propPeriod 3",
+	"propAmount": 5514.83,
+	"propFee": 3588.86,
+	"__metadata": {
+		"uri": "SimulatorResponseSet('propPeriod 3')",
+		"type": "AOMobile.SimulatorResponse"
+	}
+}, {
+	"propPeriod": "propPeriod 4",
+	"propAmount": 8792.65,
+	"propFee": 1060.94,
+	"__metadata": {
+		"uri": "SimulatorResponseSet('propPeriod 4')",
+		"type": "AOMobile.SimulatorResponse"
+	}
+}, {
+	"propPeriod": "propPeriod 5",
+	"propAmount": 8481,
+	"propFee": 2497.3,
+	"__metadata": {
+		"uri": "SimulatorResponseSet('propPeriod 5')",
+		"type": "AOMobile.SimulatorResponse"
+	}
+}, {
+	"propPeriod": "propPeriod 6",
+	"propAmount": 7812.48,
+	"propFee": 7310.9,
+	"__metadata": {
+		"uri": "SimulatorResponseSet('propPeriod 6')",
+		"type": "AOMobile.SimulatorResponse"
+	}
+}, {
+	"propPeriod": "propPeriod 7",
+	"propAmount": 5711.31,
+	"propFee": 5166.5,
+	"__metadata": {
+		"uri": "SimulatorResponseSet('propPeriod 7')",
+		"type": "AOMobile.SimulatorResponse"
+	}
+}, {
+	"propPeriod": "propPeriod 8",
+	"propAmount": 3086.5,
+	"propFee": 9127.98,
+	"__metadata": {
+		"uri": "SimulatorResponseSet('propPeriod 8')",
+		"type": "AOMobile.SimulatorResponse"
+	}
+}, {
+	"propPeriod": "propPeriod 9",
+	"propAmount": 7971.52,
+	"propFee": 8594.55,
+	"__metadata": {
+		"uri": "SimulatorResponseSet('propPeriod 9')",
+		"type": "AOMobile.SimulatorResponse"
+	}
+}, {
+	"propPeriod": "propPeriod 10",
+	"propAmount": 1261.35,
+	"propFee": 3450.46,
+	"__metadata": {
+		"uri": "SimulatorResponseSet('propPeriod 10')",
+		"type": "AOMobile.SimulatorResponse"
+	}
+}]

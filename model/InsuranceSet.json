@@ -1,0 +1,381 @@
+[{
+	"insuranceID": "insuranceID 1",
+	"BPIdCRM": "BPIdCRM 1",
+	"loanRequestIdCRM": "loanRequestIdCRM 1",
+	"customerIdMD": "customerIdMD 1",
+	"insuranceOptional": false,
+	"startDateTerm": "/Date(1013886317000)/",
+	"insuranceTerm": "insuranceTerm 1",
+	"loanRequestIdMD": "loanRequestIdMD 1",
+	"__metadata": {
+		"uri": "InsuranceSet(insuranceID='insuranceID 1',BPIdCRM='BPIdCRM 1',loanRequestIdCRM='loanRequestIdCRM 1')",
+		"type": "AOMobile.Insurance"
+	},
+	"InsuranceBeneficiarySet": {
+		"__deferred": {
+			"uri": "InsuranceSet(insuranceID='insuranceID 1',BPIdCRM='BPIdCRM 1',loanRequestIdCRM='loanRequestIdCRM 1')/InsuranceBeneficiarySet"
+		}
+	},
+	"InsurancePaymentSet": {
+		"__deferred": {
+			"uri": "InsuranceSet(insuranceID='insuranceID 1',BPIdCRM='BPIdCRM 1',loanRequestIdCRM='loanRequestIdCRM 1')/InsurancePaymentSet"
+		}
+	},
+	"InsuranceModalitySet": {
+		"__deferred": {
+			"uri": "InsuranceSet(insuranceID='insuranceID 1',BPIdCRM='BPIdCRM 1',loanRequestIdCRM='loanRequestIdCRM 1')/InsuranceModalitySet"
+		}
+	},
+	"ElectronicSignatureSet": {
+		"__deferred": {
+			"uri": "InsuranceSet(insuranceID='insuranceID 1',BPIdCRM='BPIdCRM 1',loanRequestIdCRM='loanRequestIdCRM 1')/ElectronicSignatureSet"
+		}
+	},
+	"ImageSet": {
+		"__deferred": {
+			"uri": "InsuranceSet(insuranceID='insuranceID 1',BPIdCRM='BPIdCRM 1',loanRequestIdCRM='loanRequestIdCRM 1')/ImageSet"
+		}
+	}
+}, {
+	"insuranceID": "insuranceID 2",
+	"BPIdCRM": "BPIdCRM 2",
+	"loanRequestIdCRM": "loanRequestIdCRM 2",
+	"customerIdMD": "customerIdMD 2",
+	"insuranceOptional": false,
+	"startDateTerm": "/Date(1434737117000)/",
+	"insuranceTerm": "insuranceTerm 2",
+	"loanRequestIdMD": "loanRequestIdMD 2",
+	"__metadata": {
+		"uri": "InsuranceSet(insuranceID='insuranceID 2',BPIdCRM='BPIdCRM 2',loanRequestIdCRM='loanRequestIdCRM 2')",
+		"type": "AOMobile.Insurance"
+	},
+	"InsuranceBeneficiarySet": {
+		"__deferred": {
+			"uri": "InsuranceSet(insuranceID='insuranceID 2',BPIdCRM='BPIdCRM 2',loanRequestIdCRM='loanRequestIdCRM 2')/InsuranceBeneficiarySet"
+		}
+	},
+	"InsurancePaymentSet": {
+		"__deferred": {
+			"uri": "InsuranceSet(insuranceID='insuranceID 2',BPIdCRM='BPIdCRM 2',loanRequestIdCRM='loanRequestIdCRM 2')/InsurancePaymentSet"
+		}
+	},
+	"InsuranceModalitySet": {
+		"__deferred": {
+			"uri": "InsuranceSet(insuranceID='insuranceID 2',BPIdCRM='BPIdCRM 2',loanRequestIdCRM='loanRequestIdCRM 2')/InsuranceModalitySet"
+		}
+	},
+	"ElectronicSignatureSet": {
+		"__deferred": {
+			"uri": "InsuranceSet(insuranceID='insuranceID 2',BPIdCRM='BPIdCRM 2',loanRequestIdCRM='loanRequestIdCRM 2')/ElectronicSignatureSet"
+		}
+	},
+	"ImageSet": {
+		"__deferred": {
+			"uri": "InsuranceSet(insuranceID='insuranceID 2',BPIdCRM='BPIdCRM 2',loanRequestIdCRM='loanRequestIdCRM 2')/ImageSet"
+		}
+	}
+}, {
+	"insuranceID": "insuranceID 3",
+	"BPIdCRM": "BPIdCRM 3",
+	"loanRequestIdCRM": "loanRequestIdCRM 3",
+	"customerIdMD": "customerIdMD 3",
+	"insuranceOptional": true,
+	"startDateTerm": "/Date(1562263517000)/",
+	"insuranceTerm": "insuranceTerm 3",
+	"loanRequestIdMD": "loanRequestIdMD 3",
+	"__metadata": {
+		"uri": "InsuranceSet(insuranceID='insuranceID 3',BPIdCRM='BPIdCRM 3',loanRequestIdCRM='loanRequestIdCRM 3')",
+		"type": "AOMobile.Insurance"
+	},
+	"InsuranceBeneficiarySet": {
+		"__deferred": {
+			"uri": "InsuranceSet(insuranceID='insuranceID 3',BPIdCRM='BPIdCRM 3',loanRequestIdCRM='loanRequestIdCRM 3')/InsuranceBeneficiarySet"
+		}
+	},
+	"InsurancePaymentSet": {
+		"__deferred": {
+			"uri": "InsuranceSet(insuranceID='insuranceID 3',BPIdCRM='BPIdCRM 3',loanRequestIdCRM='loanRequestIdCRM 3')/InsurancePaymentSet"
+		}
+	},
+	"InsuranceModalitySet": {
+		"__deferred": {
+			"uri": "InsuranceSet(insuranceID='insuranceID 3',BPIdCRM='BPIdCRM 3',loanRequestIdCRM='loanRequestIdCRM 3')/InsuranceModalitySet"
+		}
+	},
+	"ElectronicSignatureSet": {
+		"__deferred": {
+			"uri": "InsuranceSet(insuranceID='insuranceID 3',BPIdCRM='BPIdCRM 3',loanRequestIdCRM='loanRequestIdCRM 3')/ElectronicSignatureSet"
+		}
+	},
+	"ImageSet": {
+		"__deferred": {
+			"uri": "InsuranceSet(insuranceID='insuranceID 3',BPIdCRM='BPIdCRM 3',loanRequestIdCRM='loanRequestIdCRM 3')/ImageSet"
+		}
+	}
+}, {
+	"insuranceID": "insuranceID 4",
+	"BPIdCRM": "BPIdCRM 4",
+	"loanRequestIdCRM": "loanRequestIdCRM 4",
+	"customerIdMD": "customerIdMD 4",
+	"insuranceOptional": true,
+	"startDateTerm": "/Date(1208541917000)/",
+	"insuranceTerm": "insuranceTerm 4",
+	"loanRequestIdMD": "loanRequestIdMD 4",
+	"__metadata": {
+		"uri": "InsuranceSet(insuranceID='insuranceID 4',BPIdCRM='BPIdCRM 4',loanRequestIdCRM='loanRequestIdCRM 4')",
+		"type": "AOMobile.Insurance"
+	},
+	"InsuranceBeneficiarySet": {
+		"__deferred": {
+			"uri": "InsuranceSet(insuranceID='insuranceID 4',BPIdCRM='BPIdCRM 4',loanRequestIdCRM='loanRequestIdCRM 4')/InsuranceBeneficiarySet"
+		}
+	},
+	"InsurancePaymentSet": {
+		"__deferred": {
+			"uri": "InsuranceSet(insuranceID='insuranceID 4',BPIdCRM='BPIdCRM 4',loanRequestIdCRM='loanRequestIdCRM 4')/InsurancePaymentSet"
+		}
+	},
+	"InsuranceModalitySet": {
+		"__deferred": {
+			"uri": "InsuranceSet(insuranceID='insuranceID 4',BPIdCRM='BPIdCRM 4',loanRequestIdCRM='loanRequestIdCRM 4')/InsuranceModalitySet"
+		}
+	},
+	"ElectronicSignatureSet": {
+		"__deferred": {
+			"uri": "InsuranceSet(insuranceID='insuranceID 4',BPIdCRM='BPIdCRM 4',loanRequestIdCRM='loanRequestIdCRM 4')/ElectronicSignatureSet"
+		}
+	},
+	"ImageSet": {
+		"__deferred": {
+			"uri": "InsuranceSet(insuranceID='insuranceID 4',BPIdCRM='BPIdCRM 4',loanRequestIdCRM='loanRequestIdCRM 4')/ImageSet"
+		}
+	}
+}, {
+	"insuranceID": "insuranceID 5",
+	"BPIdCRM": "BPIdCRM 5",
+	"loanRequestIdCRM": "loanRequestIdCRM 5",
+	"customerIdMD": "customerIdMD 5",
+	"insuranceOptional": true,
+	"startDateTerm": "/Date(1442081117000)/",
+	"insuranceTerm": "insuranceTerm 5",
+	"loanRequestIdMD": "loanRequestIdMD 5",
+	"__metadata": {
+		"uri": "InsuranceSet(insuranceID='insuranceID 5',BPIdCRM='BPIdCRM 5',loanRequestIdCRM='loanRequestIdCRM 5')",
+		"type": "AOMobile.Insurance"
+	},
+	"InsuranceBeneficiarySet": {
+		"__deferred": {
+			"uri": "InsuranceSet(insuranceID='insuranceID 5',BPIdCRM='BPIdCRM 5',loanRequestIdCRM='loanRequestIdCRM 5')/InsuranceBeneficiarySet"
+		}
+	},
+	"InsurancePaymentSet": {
+		"__deferred": {
+			"uri": "InsuranceSet(insuranceID='insuranceID 5',BPIdCRM='BPIdCRM 5',loanRequestIdCRM='loanRequestIdCRM 5')/InsurancePaymentSet"
+		}
+	},
+	"InsuranceModalitySet": {
+		"__deferred": {
+			"uri": "InsuranceSet(insuranceID='insuranceID 5',BPIdCRM='BPIdCRM 5',loanRequestIdCRM='loanRequestIdCRM 5')/InsuranceModalitySet"
+		}
+	},
+	"ElectronicSignatureSet": {
+		"__deferred": {
+			"uri": "InsuranceSet(insuranceID='insuranceID 5',BPIdCRM='BPIdCRM 5',loanRequestIdCRM='loanRequestIdCRM 5')/ElectronicSignatureSet"
+		}
+	},
+	"ImageSet": {
+		"__deferred": {
+			"uri": "InsuranceSet(insuranceID='insuranceID 5',BPIdCRM='BPIdCRM 5',loanRequestIdCRM='loanRequestIdCRM 5')/ImageSet"
+		}
+	}
+}, {
+	"insuranceID": "insuranceID 6",
+	"BPIdCRM": "BPIdCRM 6",
+	"loanRequestIdCRM": "loanRequestIdCRM 6",
+	"customerIdMD": "customerIdMD 6",
+	"insuranceOptional": false,
+	"startDateTerm": "/Date(1057428317000)/",
+	"insuranceTerm": "insuranceTerm 6",
+	"loanRequestIdMD": "loanRequestIdMD 6",
+	"__metadata": {
+		"uri": "InsuranceSet(insuranceID='insuranceID 6',BPIdCRM='BPIdCRM 6',loanRequestIdCRM='loanRequestIdCRM 6')",
+		"type": "AOMobile.Insurance"
+	},
+	"InsuranceBeneficiarySet": {
+		"__deferred": {
+			"uri": "InsuranceSet(insuranceID='insuranceID 6',BPIdCRM='BPIdCRM 6',loanRequestIdCRM='loanRequestIdCRM 6')/InsuranceBeneficiarySet"
+		}
+	},
+	"InsurancePaymentSet": {
+		"__deferred": {
+			"uri": "InsuranceSet(insuranceID='insuranceID 6',BPIdCRM='BPIdCRM 6',loanRequestIdCRM='loanRequestIdCRM 6')/InsurancePaymentSet"
+		}
+	},
+	"InsuranceModalitySet": {
+		"__deferred": {
+			"uri": "InsuranceSet(insuranceID='insuranceID 6',BPIdCRM='BPIdCRM 6',loanRequestIdCRM='loanRequestIdCRM 6')/InsuranceModalitySet"
+		}
+	},
+	"ElectronicSignatureSet": {
+		"__deferred": {
+			"uri": "InsuranceSet(insuranceID='insuranceID 6',BPIdCRM='BPIdCRM 6',loanRequestIdCRM='loanRequestIdCRM 6')/ElectronicSignatureSet"
+		}
+	},
+	"ImageSet": {
+		"__deferred": {
+			"uri": "InsuranceSet(insuranceID='insuranceID 6',BPIdCRM='BPIdCRM 6',loanRequestIdCRM='loanRequestIdCRM 6')/ImageSet"
+		}
+	}
+}, {
+	"insuranceID": "insuranceID 7",
+	"BPIdCRM": "BPIdCRM 7",
+	"loanRequestIdCRM": "loanRequestIdCRM 7",
+	"customerIdMD": "customerIdMD 7",
+	"insuranceOptional": true,
+	"startDateTerm": "/Date(1333303517000)/",
+	"insuranceTerm": "insuranceTerm 7",
+	"loanRequestIdMD": "loanRequestIdMD 7",
+	"__metadata": {
+		"uri": "InsuranceSet(insuranceID='insuranceID 7',BPIdCRM='BPIdCRM 7',loanRequestIdCRM='loanRequestIdCRM 7')",
+		"type": "AOMobile.Insurance"
+	},
+	"InsuranceBeneficiarySet": {
+		"__deferred": {
+			"uri": "InsuranceSet(insuranceID='insuranceID 7',BPIdCRM='BPIdCRM 7',loanRequestIdCRM='loanRequestIdCRM 7')/InsuranceBeneficiarySet"
+		}
+	},
+	"InsurancePaymentSet": {
+		"__deferred": {
+			"uri": "InsuranceSet(insuranceID='insuranceID 7',BPIdCRM='BPIdCRM 7',loanRequestIdCRM='loanRequestIdCRM 7')/InsurancePaymentSet"
+		}
+	},
+	"InsuranceModalitySet": {
+		"__deferred": {
+			"uri": "InsuranceSet(insuranceID='insuranceID 7',BPIdCRM='BPIdCRM 7',loanRequestIdCRM='loanRequestIdCRM 7')/InsuranceModalitySet"
+		}
+	},
+	"ElectronicSignatureSet": {
+		"__deferred": {
+			"uri": "InsuranceSet(insuranceID='insuranceID 7',BPIdCRM='BPIdCRM 7',loanRequestIdCRM='loanRequestIdCRM 7')/ElectronicSignatureSet"
+		}
+	},
+	"ImageSet": {
+		"__deferred": {
+			"uri": "InsuranceSet(insuranceID='insuranceID 7',BPIdCRM='BPIdCRM 7',loanRequestIdCRM='loanRequestIdCRM 7')/ImageSet"
+		}
+	}
+}, {
+	"insuranceID": "insuranceID 8",
+	"BPIdCRM": "BPIdCRM 8",
+	"loanRequestIdCRM": "loanRequestIdCRM 8",
+	"customerIdMD": "customerIdMD 8",
+	"insuranceOptional": false,
+	"startDateTerm": "/Date(1114365917000)/",
+	"insuranceTerm": "insuranceTerm 8",
+	"loanRequestIdMD": "loanRequestIdMD 8",
+	"__metadata": {
+		"uri": "InsuranceSet(insuranceID='insuranceID 8',BPIdCRM='BPIdCRM 8',loanRequestIdCRM='loanRequestIdCRM 8')",
+		"type": "AOMobile.Insurance"
+	},
+	"InsuranceBeneficiarySet": {
+		"__deferred": {
+			"uri": "InsuranceSet(insuranceID='insuranceID 8',BPIdCRM='BPIdCRM 8',loanRequestIdCRM='loanRequestIdCRM 8')/InsuranceBeneficiarySet"
+		}
+	},
+	"InsurancePaymentSet": {
+		"__deferred": {
+			"uri": "InsuranceSet(insuranceID='insuranceID 8',BPIdCRM='BPIdCRM 8',loanRequestIdCRM='loanRequestIdCRM 8')/InsurancePaymentSet"
+		}
+	},
+	"InsuranceModalitySet": {
+		"__deferred": {
+			"uri": "InsuranceSet(insuranceID='insuranceID 8',BPIdCRM='BPIdCRM 8',loanRequestIdCRM='loanRequestIdCRM 8')/InsuranceModalitySet"
+		}
+	},
+	"ElectronicSignatureSet": {
+		"__deferred": {
+			"uri": "InsuranceSet(insuranceID='insuranceID 8',BPIdCRM='BPIdCRM 8',loanRequestIdCRM='loanRequestIdCRM 8')/ElectronicSignatureSet"
+		}
+	},
+	"ImageSet": {
+		"__deferred": {
+			"uri": "InsuranceSet(insuranceID='insuranceID 8',BPIdCRM='BPIdCRM 8',loanRequestIdCRM='loanRequestIdCRM 8')/ImageSet"
+		}
+	}
+}, {
+	"insuranceID": "insuranceID 9",
+	"BPIdCRM": "BPIdCRM 9",
+	"loanRequestIdCRM": "loanRequestIdCRM 9",
+	"customerIdMD": "customerIdMD 9",
+	"insuranceOptional": true,
+	"startDateTerm": "/Date(1363892717000)/",
+	"insuranceTerm": "insuranceTerm 9",
+	"loanRequestIdMD": "loanRequestIdMD 9",
+	"__metadata": {
+		"uri": "InsuranceSet(insuranceID='insuranceID 9',BPIdCRM='BPIdCRM 9',loanRequestIdCRM='loanRequestIdCRM 9')",
+		"type": "AOMobile.Insurance"
+	},
+	"InsuranceBeneficiarySet": {
+		"__deferred": {
+			"uri": "InsuranceSet(insuranceID='insuranceID 9',BPIdCRM='BPIdCRM 9',loanRequestIdCRM='loanRequestIdCRM 9')/InsuranceBeneficiarySet"
+		}
+	},
+	"InsurancePaymentSet": {
+		"__deferred": {
+			"uri": "InsuranceSet(insuranceID='insuranceID 9',BPIdCRM='BPIdCRM 9',loanRequestIdCRM='loanRequestIdCRM 9')/InsurancePaymentSet"
+		}
+	},
+	"InsuranceModalitySet": {
+		"__deferred": {
+			"uri": "InsuranceSet(insuranceID='insuranceID 9',BPIdCRM='BPIdCRM 9',loanRequestIdCRM='loanRequestIdCRM 9')/InsuranceModalitySet"
+		}
+	},
+	"ElectronicSignatureSet": {
+		"__deferred": {
+			"uri": "InsuranceSet(insuranceID='insuranceID 9',BPIdCRM='BPIdCRM 9',loanRequestIdCRM='loanRequestIdCRM 9')/ElectronicSignatureSet"
+		}
+	},
+	"ImageSet": {
+		"__deferred": {
+			"uri": "InsuranceSet(insuranceID='insuranceID 9',BPIdCRM='BPIdCRM 9',loanRequestIdCRM='loanRequestIdCRM 9')/ImageSet"
+		}
+	}
+}, {
+	"insuranceID": "insuranceID 10",
+	"BPIdCRM": "BPIdCRM 10",
+	"loanRequestIdCRM": "loanRequestIdCRM 10",
+	"customerIdMD": "customerIdMD 10",
+	"insuranceOptional": true,
+	"startDateTerm": "/Date(1335549917000)/",
+	"insuranceTerm": "insuranceTerm 10",
+	"loanRequestIdMD": "loanRequestIdMD 10",
+	"__metadata": {
+		"uri": "InsuranceSet(insuranceID='insuranceID 10',BPIdCRM='BPIdCRM 10',loanRequestIdCRM='loanRequestIdCRM 10')",
+		"type": "AOMobile.Insurance"
+	},
+	"InsuranceBeneficiarySet": {
+		"__deferred": {
+			"uri": "InsuranceSet(insuranceID='insuranceID 10',BPIdCRM='BPIdCRM 10',loanRequestIdCRM='loanRequestIdCRM 10')/InsuranceBeneficiarySet"
+		}
+	},
+	"InsurancePaymentSet": {
+		"__deferred": {
+			"uri": "InsuranceSet(insuranceID='insuranceID 10',BPIdCRM='BPIdCRM 10',loanRequestIdCRM='loanRequestIdCRM 10')/InsurancePaymentSet"
+		}
+	},
+	"InsuranceModalitySet": {
+		"__deferred": {
+			"uri": "InsuranceSet(insuranceID='insuranceID 10',BPIdCRM='BPIdCRM 10',loanRequestIdCRM='loanRequestIdCRM 10')/InsuranceModalitySet"
+		}
+	},
+	"ElectronicSignatureSet": {
+		"__deferred": {
+			"uri": "InsuranceSet(insuranceID='insuranceID 10',BPIdCRM='BPIdCRM 10',loanRequestIdCRM='loanRequestIdCRM 10')/ElectronicSignatureSet"
+		}
+	},
+	"ImageSet": {
+		"__deferred": {
+			"uri": "InsuranceSet(insuranceID='insuranceID 10',BPIdCRM='BPIdCRM 10',loanRequestIdCRM='loanRequestIdCRM 10')/ImageSet"
+		}
+	}
+}]

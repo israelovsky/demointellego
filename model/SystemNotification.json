@@ -1,0 +1,31 @@
+[{
+	"SystemNotificationID": "001",
+	"notificationID": "001",
+	"promoterID": "EDMARTINEZ",
+	"dateTime": "/Date(1296584242000)/",
+	"status": "0",
+	"objectTypeID": "1",
+	"objectDMID": "0003ABCDEFGHIJKLMNOPQRST12991",
+	"objectCRMID": "Test",
+	"attended": "0",
+	"__metadata": {
+		"uri": "SystemNotificationSet('001')",
+		"type": "AOMobile.SystemNotification"
+	},
+	"message": "Solicitud creada"
+}, {
+	"SystemNotificationID": "002",  
+	"notificationID": "002",
+	"promoterID": "EDMARTINEZ",
+	"dateTime": "/Date(1380820642000)/",
+	"status": "0",
+	"objectTypeID": "1",
+	"objectDMID": "1461084505898",
+	"objectCRMID": "0060052455",
+	"attended": "0",
+	"__metadata": {
+		"uri": "SystemNotificationSet('002')",
+		"type": "AOMobile.SystemNotification"
+	},
+	"message": "El lead no ha sido actualizado"
+}]

@@ -1,0 +1,71 @@
+[{
+	"insurancePaymentID": "insurancePaymentID 1",
+	"insurancePaymentDesc": "insurancePaymentDesc 1",
+	"__metadata": {
+		"uri": "InsurancePaymentSet('insurancePaymentID 1')",
+		"type": "AOMobile.InsurancePayment"
+	}
+}, {
+	"insurancePaymentID": "insurancePaymentID 2",
+	"insurancePaymentDesc": "insurancePaymentDesc 2",
+	"__metadata": {
+		"uri": "InsurancePaymentSet('insurancePaymentID 2')",
+		"type": "AOMobile.InsurancePayment"
+	}
+}, {
+	"insurancePaymentID": "insurancePaymentID 3",
+	"insurancePaymentDesc": "insurancePaymentDesc 3",
+	"__metadata": {
+		"uri": "InsurancePaymentSet('insurancePaymentID 3')",
+		"type": "AOMobile.InsurancePayment"
+	}
+}, {
+	"insurancePaymentID": "insurancePaymentID 4",
+	"insurancePaymentDesc": "insurancePaymentDesc 4",
+	"__metadata": {
+		"uri": "InsurancePaymentSet('insurancePaymentID 4')",
+		"type": "AOMobile.InsurancePayment"
+	}
+}, {
+	"insurancePaymentID": "insurancePaymentID 5",
+	"insurancePaymentDesc": "insurancePaymentDesc 5",
+	"__metadata": {
+		"uri": "InsurancePaymentSet('insurancePaymentID 5')",
+		"type": "AOMobile.InsurancePayment"
+	}
+}, {
+	"insurancePaymentID": "insurancePaymentID 6",
+	"insurancePaymentDesc": "insurancePaymentDesc 6",
+	"__metadata": {
+		"uri": "InsurancePaymentSet('insurancePaymentID 6')",
+		"type": "AOMobile.InsurancePayment"
+	}
+}, {
+	"insurancePaymentID": "insurancePaymentID 7",
+	"insurancePaymentDesc": "insurancePaymentDesc 7",
+	"__metadata": {
+		"uri": "InsurancePaymentSet('insurancePaymentID 7')",
+		"type": "AOMobile.InsurancePayment"
+	}
+}, {
+	"insurancePaymentID": "insurancePaymentID 8",
+	"insurancePaymentDesc": "insurancePaymentDesc 8",
+	"__metadata": {
+		"uri": "InsurancePaymentSet('insurancePaymentID 8')",
+		"type": "AOMobile.InsurancePayment"
+	}
+}, {
+	"insurancePaymentID": "insurancePaymentID 9",
+	"insurancePaymentDesc": "insurancePaymentDesc 9",
+	"__metadata": {
+		"uri": "InsurancePaymentSet('insurancePaymentID 9')",
+		"type": "AOMobile.InsurancePayment"
+	}
+}, {
+	"insurancePaymentID": "insurancePaymentID 10",
+	"insurancePaymentDesc": "insurancePaymentDesc 10",
+	"__metadata": {
+		"uri": "InsurancePaymentSet('insurancePaymentID 10')",
+		"type": "AOMobile.InsurancePayment"
+	}
+}]

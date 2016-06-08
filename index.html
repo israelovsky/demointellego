@@ -1,0 +1,38 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta http-equiv='Content-Type' content='text/html;charset=UTF-8' />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="css/main.css">
+    <link rel="stylesheet" type="text/css" href="css/preloader.css">
+    <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+    <script src="js/vendor/jquery.min.js"></script>
+    <script src="js/vendor/highcharts.js"></script>
+    <script src="js/loader.js"></script>
+    <!-- <script src="cordova.js"></script> -->
+    <script src="/node_modules/socket.io/node_modules/socket.io-client/socket.io.js"></script>
+</head>
+
+<body class="sapUiBody" role="application">
+    <div id="preloader">
+        <div>
+            <img class="preloader-logo" src="img/logostarter.png" alt="">
+        </div>
+        <svg class="spinner" width="5em" height="5em" viewBox="0 0 66 66">
+            <circle class="path" fill="none" stroke-width="6" stroke-linecap="round" cx="33" cy="33" r="30"></circle>
+        </svg>
+        <div id="preloaderSvg">
+        </div>
+        <div id="preloaderLegend" class="preloader-legend">
+            Cargando componentes ...
+        </div>
+        <div class="version-ao">
+            Versión Alpha (0.001)
+        </div>
+    </div>
+    <div id="content"></div>
+</body>
+
+</html>

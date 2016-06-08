@@ -1,0 +1,81 @@
+[{
+	"productID": "productID 1",
+	"productName": "productName 1",
+	"collaboratorID": "LARISMENDI",
+	"__metadata": {
+		"uri": "ProductSet('productID 1')",
+		"type": "AOMobile.Product"
+	}
+}, {
+	"productID": "productID 2",
+	"productName": "productName 2",
+	"collaboratorID": "LARISMENDI",
+	"__metadata": {
+		"uri": "ProductSet('productID 2')",
+		"type": "AOMobile.Product"
+	}
+}, {
+	"productID": "productID 3",
+	"productName": "productName 3",
+	"collaboratorID": "LARISMENDI",
+	"__metadata": {
+		"uri": "ProductSet('productID 3')",
+		"type": "AOMobile.Product"
+	}
+}, {
+	"productID": "productID 4",
+	"productName": "productName 4",
+	"collaboratorID": "collaboratorID 4",
+	"__metadata": {
+		"uri": "ProductSet('productID 4')",
+		"type": "AOMobile.Product"
+	}
+}, {
+	"productID": "productID 5",
+	"productName": "productName 5",
+	"collaboratorID": "collaboratorID 5",
+	"__metadata": {
+		"uri": "ProductSet('productID 5')",
+		"type": "AOMobile.Product"
+	}
+}, {
+	"productID": "productID 6",
+	"productName": "productName 6",
+	"collaboratorID": "collaboratorID 6",
+	"__metadata": {
+		"uri": "ProductSet('productID 6')",
+		"type": "AOMobile.Product"
+	}
+}, {
+	"productID": "productID 7",
+	"productName": "productName 7",
+	"collaboratorID": "collaboratorID 7",
+	"__metadata": {
+		"uri": "ProductSet('productID 7')",
+		"type": "AOMobile.Product"
+	}
+}, {
+	"productID": "productID 8",
+	"productName": "productName 8",
+	"collaboratorID": "collaboratorID 8",
+	"__metadata": {
+		"uri": "ProductSet('productID 8')",
+		"type": "AOMobile.Product"
+	}
+}, {
+	"productID": "productID 9",
+	"productName": "productName 9",
+	"collaboratorID": "collaboratorID 9",
+	"__metadata": {
+		"uri": "ProductSet('productID 9')",
+		"type": "AOMobile.Product"
+	}
+}, {
+	"productID": "productID 10",
+	"productName": "productName 10",
+	"collaboratorID": "collaboratorID 10",
+	"__metadata": {
+		"uri": "ProductSet('productID 10')",
+		"type": "AOMobile.Product"
+	}
+}]

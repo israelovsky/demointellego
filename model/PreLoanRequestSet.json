@@ -1,0 +1,201 @@
+[{
+	"PreLoanRequestID": "a6a4bf18-a935-49af-8b92-5764284f8433",
+	"loanRequestIdCRM": "loanRequestIdCRM 1",
+	"collaboratorID": "collaboratorID 1",
+	"serviceOfficeId": 2675,
+	"statusId": "statusId 1",
+	"creationDate": "/Date(1538178921000)/",
+	"changeDate": "/Date(979952121000)/",
+	"loanEndDate": "/Date(1258678521000)/",
+	"loanAssignedName": "loanAssignedName 1",
+	"isRenovation": true,
+	"__metadata": {
+		"uri": "PreLoanRequestSet(guid'a6a4bf18-a935-49af-8b92-5764284f8433')",
+		"type": "AOMobile.PreLoanRequest"
+	},
+	"CustomerSet": {
+		"__deferred": {
+			"uri": "PreLoanRequestSet(guid'a6a4bf18-a935-49af-8b92-5764284f8433')/CustomerSet"
+		}
+	}
+}, {
+	"PreLoanRequestID": "74907264-fbfd-480d-b56e-9d59cfdd1afe",
+	"loanRequestIdCRM": "loanRequestIdCRM 2",
+	"collaboratorID": "collaboratorID 2",
+	"serviceOfficeId": 9689,
+	"statusId": "statusId 2",
+	"creationDate": "/Date(1032220521000)/",
+	"changeDate": "/Date(1356483321000)/",
+	"loanEndDate": "/Date(1158796521000)/",
+	"loanAssignedName": "loanAssignedName 2",
+	"isRenovation": true,
+	"__metadata": {
+		"uri": "PreLoanRequestSet(guid'74907264-fbfd-480d-b56e-9d59cfdd1afe')",
+		"type": "AOMobile.PreLoanRequest"
+	},
+	"CustomerSet": {
+		"__deferred": {
+			"uri": "PreLoanRequestSet(guid'74907264-fbfd-480d-b56e-9d59cfdd1afe')/CustomerSet"
+		}
+	}
+}, {
+	"PreLoanRequestID": "785b0e2f-276a-4392-97bd-1c723ac5c5c9",
+	"loanRequestIdCRM": "loanRequestIdCRM 3",
+	"collaboratorID": "collaboratorID 3",
+	"serviceOfficeId": 743,
+	"statusId": "statusId 3",
+	"creationDate": "/Date(1111712121000)/",
+	"changeDate": "/Date(1157327721000)/",
+	"loanEndDate": "/Date(1045356921000)/",
+	"loanAssignedName": "loanAssignedName 3",
+	"isRenovation": false,
+	"__metadata": {
+		"uri": "PreLoanRequestSet(guid'785b0e2f-276a-4392-97bd-1c723ac5c5c9')",
+		"type": "AOMobile.PreLoanRequest"
+	},
+	"CustomerSet": {
+		"__deferred": {
+			"uri": "PreLoanRequestSet(guid'785b0e2f-276a-4392-97bd-1c723ac5c5c9')/CustomerSet"
+		}
+	}
+}, {
+	"PreLoanRequestID": "afa2a439-3e2f-4ec4-9cc2-d2208cdae290",
+	"loanRequestIdCRM": "loanRequestIdCRM 4",
+	"collaboratorID": "collaboratorID 4",
+	"serviceOfficeId": 7429,
+	"statusId": "statusId 4",
+	"creationDate": "/Date(1360112121000)/",
+	"changeDate": "/Date(1524614121000)/",
+	"loanEndDate": "/Date(966988521000)/",
+	"loanAssignedName": "loanAssignedName 4",
+	"isRenovation": true,
+	"__metadata": {
+		"uri": "PreLoanRequestSet(guid'afa2a439-3e2f-4ec4-9cc2-d2208cdae290')",
+		"type": "AOMobile.PreLoanRequest"
+	},
+	"CustomerSet": {
+		"__deferred": {
+			"uri": "PreLoanRequestSet(guid'afa2a439-3e2f-4ec4-9cc2-d2208cdae290')/CustomerSet"
+		}
+	}
+}, {
+	"PreLoanRequestID": "431421b0-f6d1-4f8e-97dd-47ec5702b96c",
+	"loanRequestIdCRM": "loanRequestIdCRM 5",
+	"collaboratorID": "collaboratorID 5",
+	"serviceOfficeId": 4295,
+	"statusId": "statusId 5",
+	"creationDate": "/Date(1120780521000)/",
+	"changeDate": "/Date(1013907321000)/",
+	"loanEndDate": "/Date(1477961721000)/",
+	"loanAssignedName": "loanAssignedName 5",
+	"isRenovation": true,
+	"__metadata": {
+		"uri": "PreLoanRequestSet(guid'431421b0-f6d1-4f8e-97dd-47ec5702b96c')",
+		"type": "AOMobile.PreLoanRequest"
+	},
+	"CustomerSet": {
+		"__deferred": {
+			"uri": "PreLoanRequestSet(guid'431421b0-f6d1-4f8e-97dd-47ec5702b96c')/CustomerSet"
+		}
+	}
+}, {
+	"PreLoanRequestID": "938e3321-9e39-47cb-a5fc-2b2f59e8cd1d",
+	"loanRequestIdCRM": "loanRequestIdCRM 6",
+	"collaboratorID": "collaboratorID 6",
+	"serviceOfficeId": 3526,
+	"statusId": "statusId 6",
+	"creationDate": "/Date(1206838521000)/",
+	"changeDate": "/Date(1262048121000)/",
+	"loanEndDate": "/Date(994982121000)/",
+	"loanAssignedName": "loanAssignedName 6",
+	"isRenovation": true,
+	"__metadata": {
+		"uri": "PreLoanRequestSet(guid'938e3321-9e39-47cb-a5fc-2b2f59e8cd1d')",
+		"type": "AOMobile.PreLoanRequest"
+	},
+	"CustomerSet": {
+		"__deferred": {
+			"uri": "PreLoanRequestSet(guid'938e3321-9e39-47cb-a5fc-2b2f59e8cd1d')/CustomerSet"
+		}
+	}
+}, {
+	"PreLoanRequestID": "808406ac-ed28-4275-bd7a-fe614530e067",
+	"loanRequestIdCRM": "loanRequestIdCRM 7",
+	"collaboratorID": "collaboratorID 7",
+	"serviceOfficeId": 9498,
+	"statusId": "statusId 7",
+	"creationDate": "/Date(983062521000)/",
+	"changeDate": "/Date(1070758521000)/",
+	"loanEndDate": "/Date(1210809321000)/",
+	"loanAssignedName": "loanAssignedName 7",
+	"isRenovation": false,
+	"__metadata": {
+		"uri": "PreLoanRequestSet(guid'808406ac-ed28-4275-bd7a-fe614530e067')",
+		"type": "AOMobile.PreLoanRequest"
+	},
+	"CustomerSet": {
+		"__deferred": {
+			"uri": "PreLoanRequestSet(guid'808406ac-ed28-4275-bd7a-fe614530e067')/CustomerSet"
+		}
+	}
+}, {
+	"PreLoanRequestID": "0b5fdbb2-e02a-4dd8-95e0-5cc841dd5cf1",
+	"loanRequestIdCRM": "loanRequestIdCRM 8",
+	"collaboratorID": "collaboratorID 8",
+	"serviceOfficeId": 8110,
+	"statusId": "statusId 8",
+	"creationDate": "/Date(1409874921000)/",
+	"changeDate": "/Date(1183593321000)/",
+	"loanEndDate": "/Date(1469490921000)/",
+	"loanAssignedName": "loanAssignedName 8",
+	"isRenovation": true,
+	"__metadata": {
+		"uri": "PreLoanRequestSet(guid'0b5fdbb2-e02a-4dd8-95e0-5cc841dd5cf1')",
+		"type": "AOMobile.PreLoanRequest"
+	},
+	"CustomerSet": {
+		"__deferred": {
+			"uri": "PreLoanRequestSet(guid'0b5fdbb2-e02a-4dd8-95e0-5cc841dd5cf1')/CustomerSet"
+		}
+	}
+}, {
+	"PreLoanRequestID": "80d513bc-24fd-4593-bf16-40f4d5108174",
+	"loanRequestIdCRM": "loanRequestIdCRM 9",
+	"collaboratorID": "collaboratorID 9",
+	"serviceOfficeId": 2307,
+	"statusId": "statusId 9",
+	"creationDate": "/Date(1168563321000)/",
+	"changeDate": "/Date(1188345321000)/",
+	"loanEndDate": "/Date(1045356921000)/",
+	"loanAssignedName": "loanAssignedName 9",
+	"isRenovation": true,
+	"__metadata": {
+		"uri": "PreLoanRequestSet(guid'80d513bc-24fd-4593-bf16-40f4d5108174')",
+		"type": "AOMobile.PreLoanRequest"
+	},
+	"CustomerSet": {
+		"__deferred": {
+			"uri": "PreLoanRequestSet(guid'80d513bc-24fd-4593-bf16-40f4d5108174')/CustomerSet"
+		}
+	}
+}, {
+	"PreLoanRequestID": "46bf876b-a209-4357-8a19-9d184d0a6b15",
+	"loanRequestIdCRM": "loanRequestIdCRM 10",
+	"collaboratorID": "collaboratorID 10",
+	"serviceOfficeId": 7539,
+	"statusId": "statusId 10",
+	"creationDate": "/Date(1196297721000)/",
+	"changeDate": "/Date(1078102521000)/",
+	"loanEndDate": "/Date(1331945721000)/",
+	"loanAssignedName": "loanAssignedName 10",
+	"isRenovation": true,
+	"__metadata": {
+		"uri": "PreLoanRequestSet(guid'46bf876b-a209-4357-8a19-9d184d0a6b15')",
+		"type": "AOMobile.PreLoanRequest"
+	},
+	"CustomerSet": {
+		"__deferred": {
+			"uri": "PreLoanRequestSet(guid'46bf876b-a209-4357-8a19-9d184d0a6b15')/CustomerSet"
+		}
+	}
+}]
